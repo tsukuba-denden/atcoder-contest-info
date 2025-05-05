@@ -18,7 +18,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.x' # プロジェクトに合わせて調整してください
+          python-version: '3.12' # プロジェクトに合わせて調整してください
 
       # uv が pyproject.toml に記載されているか、
       # または pip install uv が必要か確認してください。
@@ -32,7 +32,7 @@ jobs:
         # uv pip install . や uv pip install -r requirements.txt など、
         # プロジェクトの構成に合わせて調整してください。
         # ここでは uv sync を試みます。
-        run: uv sync --system # または uv pip install . など
+        run: uv sync
 
       - name: Run script to fetch contest info
         run: python main.py
