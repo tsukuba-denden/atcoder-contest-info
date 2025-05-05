@@ -6,7 +6,7 @@ import yaml
 import re
 import os
 import logging
-import time # time モジュールをインポート
+import time
 
 # ロギングの設定
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -32,14 +32,15 @@ def parse_rated_range(rated_str):
     """
     Rated対象範囲文字列を解析し、整形して返す
     ハイフン形式にも対応
+    空または'-'の場合は None を返す
     """
     original_str = rated_str
     rated_str = rated_str.strip()
     logging.debug(f"Parsing rated_range input: '{original_str}' (stripped: '{rated_str}')")
 
     if not rated_str or rated_str == '-':
-        logging.debug("Rated range string is empty or '-', returning empty string.")
-        return ""
+        logging.debug("Rated range string is empty or '-', returning None.") # ログメッセージ変更
+        return None # 返り値を None に変更
 
     if rated_str == "All":
         logging.debug("Rated range is 'All'.")
@@ -119,7 +120,6 @@ def scrape_atcoder_contests():
     """
     AtCoderのコンテストページをスクレイピングしてコンテスト情報を取得する
     日本語名と英語名の両方を取得 (1秒待機あり)
-    rated_rangeが空の場合は '-' に変換
     """
     logging.info("Starting AtCoder contest scraping for both Japanese and English names...")
 
@@ -207,7 +207,7 @@ def scrape_atcoder_contests():
 
                 # --- Rated対象範囲 ---
                 rated_range_str_raw = cols[3].text
-                rated_range = parse_rated_range(rated_range_str_raw)
+                rated_range = parse_rated_range(rated_range_str_raw) # parse_rated_range が None を返すようになった
 
                 # --- ステータス判定 ---
                 status = "Upcoming" if start_time > now else "Recent"
@@ -219,8 +219,8 @@ def scrape_atcoder_contests():
                     "url": contest_url,
                     "start_time": start_time.isoformat(),
                     "duration_min": duration_min,
-                    # rated_rangeが空文字列""の場合に"-"に変換する
-                    "rated_range": rated_range if rated_range else "-",
+                    # parse_rated_range の結果をそのまま使う
+                    "rated_range": rated_range,
                     "status": status
                 }
                 contests.append(contest_info)
@@ -255,19 +255,23 @@ def save_contests_to_json(contests, filename):
     except Exception as e:
         logging.error(f"An unexpected error occurred during JSON saving: {e}", exc_info=True)
 
+
 def save_contests_to_yaml(contests, filename):
     """
     コンテスト情報をYAMLファイルに保存する
+    None は null として出力される
     """
     try:
         script_dir = os.path.dirname(os.path.abspath(__file__))
         filepath = os.path.join(script_dir, filename)
         with open(filepath, 'w', encoding='utf-8') as f:
-            class NullRepresenter:
-                def represent_none(self, data):
-                    return self.represent_scalar('tag:yaml.org,2002:null', '')
-            yaml.add_representer(type(None), NullRepresenter.represent_none)
+            # NullRepresenter を削除
+            # class NullRepresenter:
+            #     def represent_none(self, data):
+            #         return self.represent_scalar('tag:yaml.org,2002:null', '')
+            # yaml.add_representer(type(None), NullRepresenter.represent_none)
 
+            # 標準の dump を使用
             yaml.dump(contests, f, allow_unicode=True, default_flow_style=False, sort_keys=False)
         logging.info(f"Successfully saved {len(contests)} contests to {filepath}")
     except IOError as e:

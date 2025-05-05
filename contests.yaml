@@ -3,14 +3,14 @@
   url: https://atcoder.jp/contests/awtf2025algo
   start_time: '2025-07-17T12:00:00+09:00'
   duration_min: 300
-  rated_range: '-'
+  rated_range: null
   status: Upcoming
 - name_ja: World Tour Finals 2025 Algorithm（Open Contest）
   name_en: World Tour Finals 2025 Algorithm（Open Contest）
   url: https://atcoder.jp/contests/awtf2025algo-open
   start_time: '2025-07-17T12:00:00+09:00'
   duration_min: 300
-  rated_range: '-'
+  rated_range: null
   status: Upcoming
 - name_ja: 日本最強プログラマー学生選手権～Advance～ -予選- （AtCoder Beginner Contest 412）
   name_en: AtCoder Beginner Contest 412
@@ -123,14 +123,14 @@
   url: https://atcoder.jp/contests/masters2025-final-open
   start_time: '2025-04-19T11:10:00+09:00'
   duration_min: 360
-  rated_range: '-'
+  rated_range: null
   status: Recent
 - name_ja: 第二回マスターズ選手権 -決勝-
   name_en: ''
   url: https://atcoder.jp/contests/masters2025-final
   start_time: '2025-04-19T11:10:00+09:00'
   duration_min: 360
-  rated_range: '-'
+  rated_range: null
   status: Recent
 - name_ja: AtCoder Beginner Contest 401
   name_en: AtCoder Beginner Contest 401
@@ -158,21 +158,21 @@
   url: https://atcoder.jp/contests/pakencamp-2024-day3-2
   start_time: '2025-04-01T13:00:00+09:00'
   duration_min: 240
-  rated_range: '-'
+  rated_range: null
   status: Recent
 - name_ja: パ研合宿2024　第3日「Teamwork」
   name_en: ''
   url: https://atcoder.jp/contests/pakencamp-2024-day3-1
   start_time: '2025-04-01T13:00:00+09:00'
   duration_min: 240
-  rated_range: '-'
+  rated_range: null
   status: Recent
 - name_ja: パ研合宿2024　第2日「パ研杯」
   name_en: ''
   url: https://atcoder.jp/contests/pakencamp-2024-day2
   start_time: '2025-03-31T12:30:00+09:00'
   duration_min: 240
-  rated_range: '-'
+  rated_range: null
   status: Recent
 - name_ja: AtCoder Grand Contest 071
   name_en: AtCoder Grand Contest 071
@@ -186,7 +186,7 @@
   url: https://atcoder.jp/contests/pakencamp-2024-day1
   start_time: '2025-03-30T14:00:00+09:00'
   duration_min: 150
-  rated_range: '-'
+  rated_range: null
   status: Recent
 - name_ja: AtCoder Beginner Contest 399
   name_en: AtCoder Beginner Contest 399
@@ -200,7 +200,7 @@
   url: https://atcoder.jp/contests/nupc2024
   start_time: '2025-03-29T13:00:00+09:00'
   duration_min: 300
-  rated_range: '-'
+  rated_range: null
   status: Recent
 - name_ja: THIRD プログラミングコンテスト2025（AtCoder Heuristic Contest 045）
   name_en: THIRD PROGRAMMING CONTEST 2025（AtCoder Heuristic Contest 045）
@@ -221,7 +221,7 @@
   url: https://atcoder.jp/contests/tupc2024
   start_time: '2025-03-23T11:00:00+09:00'
   duration_min: 300
-  rated_range: '-'
+  rated_range: null
   status: Recent
 - name_ja: ユニークビジョンプログラミングコンテスト2025 春（AtCoder Beginner Contest 398）
   name_en: UNIQUE VISION Programming Contest 2025 Spring (AtCoder Beginner Contest
@@ -236,14 +236,14 @@
   url: https://atcoder.jp/contests/joigsp2025
   start_time: '2025-03-22T09:00:00+09:00'
   duration_min: 300
-  rated_range: '-'
+  rated_range: null
   status: Recent
 - name_ja: JOI 2024/2025 春季トレーニング 過去問
   name_en: ''
   url: https://atcoder.jp/contests/joisp2025
   start_time: '2025-03-21T09:00:00+09:00'
   duration_min: 300
-  rated_range: '-'
+  rated_range: null
   status: Recent
 - name_ja: AtCoder Heuristic Contest 044
   name_en: AtCoder Heuristic Contest 044
@@ -278,14 +278,14 @@
   url: https://atcoder.jp/contests/utpc2024
   start_time: '2025-03-08T13:00:00+09:00'
   duration_min: 300
-  rated_range: '-'
+  rated_range: null
   status: Recent
 - name_ja: 第二回マスターズ選手権-予選-
   name_en: The 2nd Masters Championship-qual-
   url: https://atcoder.jp/contests/masters2025-qual
   start_time: '2025-03-02T13:00:00+09:00'
   duration_min: 360
-  rated_range: '-'
+  rated_range: null
   status: Recent
 - name_ja: AtCoder Beginner Contest 395
   name_en: AtCoder Beginner Contest 395
@@ -350,7 +350,7 @@
   url: https://atcoder.jp/contests/joi2025ho
   start_time: '2025-02-02T13:00:00+09:00'
   duration_min: 240
-  rated_range: '-'
+  rated_range: null
   status: Recent
 - name_ja: AtCoder Beginner Contest 391
   name_en: AtCoder Beginner Contest 391
@@ -399,7 +399,7 @@
   url: https://atcoder.jp/contests/joig2025-open
   start_time: '2025-01-12T13:00:00+09:00'
   duration_min: 240
-  rated_range: '-'
+  rated_range: null
   status: Recent
 - name_ja: HHKBプログラミングコンテスト2025(AtCoder Beginner Contest 388)
   name_en: HHKB Programming Contest 2025(AtCoder Beginner Contest 388)
@@ -413,7 +413,7 @@
   url: https://atcoder.jp/contests/kupc2024
   start_time: '2025-01-05T13:00:00+09:00'
   duration_min: 300
-  rated_range: '-'
+  rated_range: null
   status: Recent
 - name_ja: AtCoder Beginner Contest 387（Promotion of AtCoderJobs）
   name_en: AtCoder Beginner Contest 387
