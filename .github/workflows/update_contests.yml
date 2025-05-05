@@ -1,0 +1,51 @@
+name: Update AtCoder Contest Info
+
+on:
+  schedule:
+    # 日本時間の午前6時に実行 (UTCでは前日の21:00)
+    - cron: '0 21 * * *'
+  workflow_dispatch: # 手動実行も可能にする
+
+jobs:
+  update_contests:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # リポジトリへの書き込み権限を付与
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x' # プロジェクトに合わせて調整してください
+
+      # uv が pyproject.toml に記載されているか、
+      # または pip install uv が必要か確認してください。
+      # ここでは uv がインストール済み、または pip でインストール可能と仮定します。
+      # もし uv が pyproject.toml になければ、pip install uv を追加してください。
+      - name: Install uv (if not in pyproject.toml)
+        run: pip install uv # 必要に応じてこの行を追加・削除
+
+      - name: Install dependencies using uv
+        # uv sync を使うのが一般的ですが、pyproject.toml の形式によります。
+        # uv pip install . や uv pip install -r requirements.txt など、
+        # プロジェクトの構成に合わせて調整してください。
+        # ここでは uv sync を試みます。
+        run: uv sync --system # または uv pip install . など
+
+      - name: Run script to fetch contest info
+        run: python main.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add contests.json contests.yaml
+          # 変更があった場合のみコミット・プッシュする
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update AtCoder contest info"
+            git push
+          fi
