@@ -35,7 +35,7 @@ jobs:
         run: uv sync
 
       - name: Run script to fetch contest info
-        run: python main.py
+        run: uv run main.py
 
       - name: Commit and push changes
         run: |
