@@ -1,8 +1,9 @@
 # AtCoderコンテスト情報 非公式API(?)
-
+毎日午前6時(JTC)更新
 ## json
 - Raw
-https://github.com/yuubinnkyoku/atcoder-contest-info/raw/refs/heads/main/contests.json
+
+https://github.com/tsukuba-denden/atcoder-contest-info/raw/refs/heads/main/contests.json
 - Ex1
 ```json
 {
@@ -33,7 +34,8 @@ https://github.com/yuubinnkyoku/atcoder-contest-info/raw/refs/heads/main/contest
 ```
 ## yaml
 - Raw
-https://github.com/yuubinnkyoku/atcoder-contest-info/raw/refs/heads/main/contests.yaml
+
+https://github.com/tsukuba-denden/atcoder-contest-info/raw/refs/heads/main/contests.yaml
 - Ex1
 ```yaml
 - name_ja: AtCoder Beginner Contest 401
