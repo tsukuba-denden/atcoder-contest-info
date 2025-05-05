@@ -1,4 +1,4 @@
-# atcoder-contest-info
+# AtCoderコンテスト情報 非公式API(?)
 
 ## json
 - Raw
