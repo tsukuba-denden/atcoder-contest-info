@@ -74,7 +74,7 @@
   start_time: '2025-05-10T21:00:00+09:00'
   duration_min: 100
   rated_range: ~ 1999
-  status: Upcoming
+  status: Recent
 - name_ja: AtCoder Regular Contest 197 (Div. 2)
   name_en: AtCoder Regular Contest 197 (Div. 2)
   url: https://atcoder.jp/contests/arc197
@@ -421,11 +421,4 @@
   start_time: '2025-01-04T21:00:00+09:00'
   duration_min: 100
   rated_range: ~ 1999
-  status: Recent
-- name_ja: AtCoder Grand Contest 070
-  name_en: AtCoder Grand Contest 070
-  url: https://atcoder.jp/contests/agc070
-  start_time: '2024-12-29T21:00:00+09:00'
-  duration_min: 180
-  rated_range: 2000 ~
   status: Recent
