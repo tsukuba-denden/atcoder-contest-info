@@ -33,6 +33,13 @@
   duration_min: 100
   rated_range: ~ 1999
   status: Upcoming
+- name_ja: AtCoder Regular Contest 199 (Div. 1)
+  name_en: AtCoder Regular Contest 199 (Div. 1)
+  url: https://atcoder.jp/contests/arc199
+  start_time: '2025-06-08T21:00:00+09:00'
+  duration_min: 150
+  rated_range: 1600 ~ 2999
+  status: Upcoming
 - name_ja: MC Digital プログラミングコンテスト2025（AtCoder Heuristic Contest 048）
   name_en: MC Digital Programming Contest 2025 (AtCoder Heuristic Contest 048)
   url: https://atcoder.jp/contests/ahc048
@@ -67,7 +74,7 @@
   start_time: '2025-05-17T21:00:00+09:00'
   duration_min: 100
   rated_range: ~ 1999
-  status: Upcoming
+  status: Recent
 - name_ja: AtCoder Beginner Contest 405（Promotion of AtCoder Career Design DAY）
   name_en: AtCoder Beginner Contest 405
   url: https://atcoder.jp/contests/abc405
@@ -414,11 +421,4 @@
   start_time: '2025-01-05T13:00:00+09:00'
   duration_min: 300
   rated_range: null
-  status: Recent
-- name_ja: AtCoder Beginner Contest 387（Promotion of AtCoderJobs）
-  name_en: AtCoder Beginner Contest 387
-  url: https://atcoder.jp/contests/abc387
-  start_time: '2025-01-04T21:00:00+09:00'
-  duration_min: 100
-  rated_range: ~ 1999
   status: Recent
