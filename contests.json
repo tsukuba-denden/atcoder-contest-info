@@ -48,7 +48,7 @@
         "name_ja": "AtCoder Regular Contest 199 (Div. 1)",
         "name_en": "AtCoder Regular Contest 199 (Div. 1)",
         "url": "https://atcoder.jp/contests/arc199",
-        "start_time": "2025-06-08T21:00:00+09:00",
+        "start_time": "2025-06-01T21:00:00+09:00",
         "duration_min": 150,
         "rated_range": "1600 ~ 2999",
         "status": "Upcoming"
@@ -87,7 +87,7 @@
         "start_time": "2025-05-18T19:00:00+09:00",
         "duration_min": 240,
         "rated_range": "All",
-        "status": "Upcoming"
+        "status": "Recent"
     },
     {
         "name_ja": "パナソニックグループ プログラミングコンテスト2025（AtCoder Beginner Contest 406）",
@@ -528,15 +528,6 @@
         "start_time": "2025-01-11T21:00:00+09:00",
         "duration_min": 100,
         "rated_range": "~ 1999",
-        "status": "Recent"
-    },
-    {
-        "name_ja": "KUPC 2024",
-        "name_en": "",
-        "url": "https://atcoder.jp/contests/kupc2024",
-        "start_time": "2025-01-05T13:00:00+09:00",
-        "duration_min": 300,
-        "rated_range": null,
         "status": "Recent"
     }
 ]
