@@ -33,6 +33,13 @@
   duration_min: 120
   rated_range: 1200 ~ 2799
   status: Upcoming
+- name_ja: AtCoder Regular Contest 200 (Div. 2)
+  name_en: AtCoder Regular Contest 200 (Div. 2)
+  url: https://atcoder.jp/contests/arc200
+  start_time: '2025-06-15T21:00:00+09:00'
+  duration_min: 120
+  rated_range: 1200 ~ 2399
+  status: Upcoming
 - name_ja: CodeQUEEN 2025 予選 (AtCoder Beginner Contest 410)
   name_en: AtCoder Beginner Contest 410
   url: https://atcoder.jp/contests/abc410
@@ -67,7 +74,7 @@
   start_time: '2025-05-24T21:00:00+09:00'
   duration_min: 100
   rated_range: ~ 1999
-  status: Upcoming
+  status: Recent
 - name_ja: トヨタ自動車プログラミングコンテスト2025#2（AtCoder Heuristic Contest 047）
   name_en: Toyota Programming Contest 2025#2（AtCoder Heuristic Contest 047）
   url: https://atcoder.jp/contests/ahc047
@@ -414,11 +421,4 @@
   start_time: '2025-01-12T13:00:00+09:00'
   duration_min: 240
   rated_range: null
-  status: Recent
-- name_ja: HHKBプログラミングコンテスト2025(AtCoder Beginner Contest 388)
-  name_en: HHKB Programming Contest 2025(AtCoder Beginner Contest 388)
-  url: https://atcoder.jp/contests/abc388
-  start_time: '2025-01-11T21:00:00+09:00'
-  duration_min: 100
-  rated_range: ~ 1999
   status: Recent
