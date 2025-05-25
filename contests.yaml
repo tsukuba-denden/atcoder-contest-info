@@ -67,7 +67,7 @@
   start_time: '2025-05-25T21:00:00+09:00'
   duration_min: 120
   rated_range: 1200 ~ 2399
-  status: Upcoming
+  status: Recent
 - name_ja: AtCoder Beginner Contest 407（Promotion of AtCoderJobs）
   name_en: AtCoder Beginner Contest 407
   url: https://atcoder.jp/contests/abc407
@@ -414,11 +414,4 @@
   start_time: '2025-01-12T21:00:00+09:00'
   duration_min: 120
   rated_range: 1600 ~ 2799
-  status: Recent
-- name_ja: JOIG 2024/2025 本選 過去問
-  name_en: ''
-  url: https://atcoder.jp/contests/joig2025-open
-  start_time: '2025-01-12T13:00:00+09:00'
-  duration_min: 240
-  rated_range: null
   status: Recent
