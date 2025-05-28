@@ -72,12 +72,30 @@
         "status": "Upcoming"
     },
     {
+        "name_ja": "AtCoder Beginner Contest 409",
+        "name_en": "AtCoder Beginner Contest 409",
+        "url": "https://atcoder.jp/contests/abc409",
+        "start_time": "2025-06-07T21:00:00+09:00",
+        "duration_min": 100,
+        "rated_range": "~ 1999",
+        "status": "Upcoming"
+    },
+    {
         "name_ja": "AtCoder Regular Contest 199 (Div. 1)",
         "name_en": "AtCoder Regular Contest 199 (Div. 1)",
         "url": "https://atcoder.jp/contests/arc199",
         "start_time": "2025-06-01T21:00:00+09:00",
         "duration_min": 150,
         "rated_range": "1600 ~ 2999",
+        "status": "Upcoming"
+    },
+    {
+        "name_ja": "AtCoder Beginner Contest 408",
+        "name_en": "AtCoder Beginner Contest 408",
+        "url": "https://atcoder.jp/contests/abc408",
+        "start_time": "2025-05-31T21:00:00+09:00",
+        "duration_min": 100,
+        "rated_range": "~ 1999",
         "status": "Upcoming"
     },
     {
