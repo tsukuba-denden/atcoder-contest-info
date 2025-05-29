@@ -45,6 +45,15 @@
         "status": "Upcoming"
     },
     {
+        "name_ja": "ユニークビジョンプログラミングコンテスト2025 夏（AtCoder Beginner Contest 411）",
+        "name_en": "UNIQUE VISION Programming Contest 2025 Summer (AtCoder Beginner Contest 411)",
+        "url": "https://atcoder.jp/contests/abc411",
+        "start_time": "2025-06-21T21:00:00+09:00",
+        "duration_min": 100,
+        "rated_range": "~ 1999",
+        "status": "Upcoming"
+    },
+    {
         "name_ja": "AtCoder 創立13周年記念 企業対抗 Team Battle",
         "name_en": "",
         "url": "https://atcoder.jp/contests/atcoder13live",
