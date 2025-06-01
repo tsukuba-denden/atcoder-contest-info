@@ -96,7 +96,7 @@
         "start_time": "2025-06-01T21:00:00+09:00",
         "duration_min": 150,
         "rated_range": "1600 ~ 2999",
-        "status": "Upcoming"
+        "status": "Recent"
     },
     {
         "name_ja": "AtCoder Beginner Contest 408",
@@ -537,15 +537,6 @@
         "start_time": "2025-01-19T15:00:00+09:00",
         "duration_min": 240,
         "rated_range": "All",
-        "status": "Recent"
-    },
-    {
-        "name_ja": "トヨタ自動車プログラミングコンテスト2025（AtCoder Beginner Contest 389）",
-        "name_en": "Toyota Programming Contest  2025（AtCoder Beginner Contest 389)",
-        "url": "https://atcoder.jp/contests/abc389",
-        "start_time": "2025-01-18T21:00:00+09:00",
-        "duration_min": 100,
-        "rated_range": "~ 1999",
         "status": "Recent"
     }
 ]
