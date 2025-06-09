@@ -108,6 +108,15 @@
         "status": "Recent"
     },
     {
+        "name_ja": "MC Digital プログラミングコンテスト2025（AtCoder Heuristic Contest 048）",
+        "name_en": "MC Digital Programming Contest 2025 (AtCoder Heuristic Contest 048)",
+        "url": "https://atcoder.jp/contests/ahc048",
+        "start_time": "2025-05-30T19:00:00+09:00",
+        "duration_min": 14400,
+        "rated_range": "All",
+        "status": "Recent"
+    },
+    {
         "name_ja": "AtCoder Regular Contest 198 (Div. 2)",
         "name_en": "AtCoder Regular Contest 198 (Div. 2)",
         "url": "https://atcoder.jp/contests/arc198",
@@ -519,15 +528,6 @@
         "start_time": "2025-01-26T21:00:00+09:00",
         "duration_min": 120,
         "rated_range": "1200 ~ 2399",
-        "status": "Recent"
-    },
-    {
-        "name_ja": "AtCoder Beginner Contest 390",
-        "name_en": "AtCoder Beginner Contest 390",
-        "url": "https://atcoder.jp/contests/abc390",
-        "start_time": "2025-01-25T21:00:00+09:00",
-        "duration_min": 100,
-        "rated_range": "~ 1999",
         "status": "Recent"
     }
 ]
