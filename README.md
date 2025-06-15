@@ -7,7 +7,7 @@ https://github.com/tsukuba-denden/atcoder-contest-info/raw/refs/heads/main/conte
 - Ex1
 ```json
 {
-        {
+    {
         "name_ja": "AtCoder Beginner Contest 401",
         "name_en": "AtCoder Beginner Contest 401",
         "url": "https://atcoder.jp/contests/abc401",
