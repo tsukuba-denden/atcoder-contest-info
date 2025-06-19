@@ -62,6 +62,13 @@
   duration_min: 120
   rated_range: 1200 ~ 2399
   status: Recent
+- name_ja: JOI Open Contest 2025 過去問
+  name_en: ''
+  url: https://atcoder.jp/contests/joiopen2025
+  start_time: '2025-06-15T13:00:00+09:00'
+  duration_min: 300
+  rated_range: null
+  status: Recent
 - name_ja: CodeQUEEN 2025 予選 (AtCoder Beginner Contest 410)
   name_en: AtCoder Beginner Contest 410
   url: https://atcoder.jp/contests/abc410
@@ -401,11 +408,4 @@
   start_time: '2025-02-02T19:00:00+09:00'
   duration_min: 240
   rated_range: All
-  status: Recent
-- name_ja: JOI 2024/2025 本選 過去問
-  name_en: ''
-  url: https://atcoder.jp/contests/joi2025ho
-  start_time: '2025-02-02T13:00:00+09:00'
-  duration_min: 240
-  rated_range: null
   status: Recent
