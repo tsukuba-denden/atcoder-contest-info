@@ -42,7 +42,7 @@
         "start_time": "2025-06-22T21:00:00+09:00",
         "duration_min": 120,
         "rated_range": "1200 ~ 2799",
-        "status": "Upcoming"
+        "status": "Recent"
     },
     {
         "name_ja": "ユニークビジョンプログラミングコンテスト2025 夏（AtCoder Beginner Contest 411）",
@@ -472,15 +472,6 @@
         "name_en": "KAJIMA CORPORATION CONTEST 2025 (AtCoder Beginner Contest 394)",
         "url": "https://atcoder.jp/contests/abc394",
         "start_time": "2025-02-22T21:00:00+09:00",
-        "duration_min": 100,
-        "rated_range": "~ 1999",
-        "status": "Recent"
-    },
-    {
-        "name_ja": "AtCoder Beginner Contest 393",
-        "name_en": "AtCoder Beginner Contest 393",
-        "url": "https://atcoder.jp/contests/abc393",
-        "start_time": "2025-02-15T21:00:00+09:00",
         "duration_min": 100,
         "rated_range": "~ 1999",
         "status": "Recent"
