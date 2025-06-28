@@ -60,7 +60,7 @@
         "start_time": "2025-06-28T21:00:00+09:00",
         "duration_min": 100,
         "rated_range": "~ 1999",
-        "status": "Upcoming"
+        "status": "Recent"
     },
     {
         "name_ja": "第六回日本最強プログラマー学生選手権-予選-（AtCoder Regular Contest 201）",
@@ -492,15 +492,6 @@
         "start_time": "2025-02-23T21:00:00+09:00",
         "duration_min": 150,
         "rated_range": "1600 ~ 2799",
-        "status": "Recent"
-    },
-    {
-        "name_ja": "鹿島建設プログラミングコンテスト2025（AtCoder Beginner Contest 394）",
-        "name_en": "KAJIMA CORPORATION CONTEST 2025 (AtCoder Beginner Contest 394)",
-        "url": "https://atcoder.jp/contests/abc394",
-        "start_time": "2025-02-22T21:00:00+09:00",
-        "duration_min": 100,
-        "rated_range": "~ 1999",
         "status": "Recent"
     },
     {
