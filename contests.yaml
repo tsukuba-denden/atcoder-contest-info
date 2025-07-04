@@ -12,6 +12,13 @@
   duration_min: 14400
   rated_range: All
   status: Upcoming
+- name_ja: AtCoder Regular Contest 202 (Div. 1)
+  name_en: AtCoder Regular Contest 202 (Div. 1)
+  url: https://atcoder.jp/contests/arc202
+  start_time: '2025-07-20T21:00:00+09:00'
+  duration_min: 150
+  rated_range: 1600 ~ 2999
+  status: Upcoming
 - name_ja: 日本レジストリサービス（JPRS）プログラミングコンテスト2025#2（AtCoder Beginner Contest 415）
   name_en: Japan Registry Services (JPRS) Programming Contest 2025#2 (AtCoder Beginner
     Contest 415)
