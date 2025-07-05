@@ -87,7 +87,7 @@
         "start_time": "2025-07-05T21:00:00+09:00",
         "duration_min": 100,
         "rated_range": "~ 1999",
-        "status": "Upcoming"
+        "status": "Recent"
     },
     {
         "name_ja": "日本最強プログラマー学生選手権～Advance～ -予選- （AtCoder Beginner Contest 412）",
@@ -519,15 +519,6 @@
         "start_time": "2025-03-01T21:00:00+09:00",
         "duration_min": 100,
         "rated_range": "~ 1999",
-        "status": "Recent"
-    },
-    {
-        "name_ja": "AtCoder Regular Contest 193 (Div. 1)",
-        "name_en": "AtCoder Regular Contest 193 (Div. 1)",
-        "url": "https://atcoder.jp/contests/arc193",
-        "start_time": "2025-02-23T21:00:00+09:00",
-        "duration_min": 150,
-        "rated_range": "1600 ~ 2799",
         "status": "Recent"
     },
     {
