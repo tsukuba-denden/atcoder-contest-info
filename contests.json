@@ -78,7 +78,7 @@
         "start_time": "2025-07-06T19:00:00+09:00",
         "duration_min": 240,
         "rated_range": "All",
-        "status": "Upcoming"
+        "status": "Recent"
     },
     {
         "name_ja": "デンソークリエイトプログラミングコンテスト2025（AtCoder Beginner Contest 413）",
@@ -519,15 +519,6 @@
         "start_time": "2025-03-01T21:00:00+09:00",
         "duration_min": 100,
         "rated_range": "~ 1999",
-        "status": "Recent"
-    },
-    {
-        "name_ja": "RECRUIT 日本橋ハーフマラソン 2025冬（AtCoder Heuristic Contest 043）",
-        "name_en": "RECRUIT Nihonbashi Half Marathon 2025 Winter（AtCoder Heuristic Contest 043）",
-        "url": "https://atcoder.jp/contests/ahc043",
-        "start_time": "2025-02-14T19:00:00+09:00",
-        "duration_min": 14400,
-        "rated_range": "All",
         "status": "Recent"
     }
 ]
