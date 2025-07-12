@@ -96,7 +96,7 @@
         "start_time": "2025-07-12T21:00:00+09:00",
         "duration_min": 100,
         "rated_range": "~ 1999",
-        "status": "Upcoming"
+        "status": "Recent"
     },
     {
         "name_ja": "AtCoder Heuristic Contest 050",
@@ -537,15 +537,6 @@
         "start_time": "2025-03-02T13:00:00+09:00",
         "duration_min": 360,
         "rated_range": null,
-        "status": "Recent"
-    },
-    {
-        "name_ja": "AtCoder Beginner Contest 395",
-        "name_en": "AtCoder Beginner Contest 395",
-        "url": "https://atcoder.jp/contests/abc395",
-        "start_time": "2025-03-01T21:00:00+09:00",
-        "duration_min": 100,
-        "rated_range": "~ 1999",
         "status": "Recent"
     }
 ]
