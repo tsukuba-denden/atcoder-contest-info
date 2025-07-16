@@ -75,7 +75,7 @@
   start_time: '2025-07-16T09:00:00+09:00'
   duration_min: 600
   rated_range: null
-  status: Upcoming
+  status: Recent
 - name_ja: ミラティブ プログラミングコンテスト2025（AtCoder Beginner Contest 414）
   name_en: Mirrativ Programming Contest 2025 (AtCoder Beginner Contest 414)
   url: https://atcoder.jp/contests/abc414
@@ -420,12 +420,5 @@
   url: https://atcoder.jp/contests/utpc2024
   start_time: '2025-03-08T13:00:00+09:00'
   duration_min: 300
-  rated_range: null
-  status: Recent
-- name_ja: 第二回マスターズ選手権-予選-
-  name_en: The 2nd Masters Championship-qual-
-  url: https://atcoder.jp/contests/masters2025-qual
-  start_time: '2025-03-02T13:00:00+09:00'
-  duration_min: 360
   rated_range: null
   status: Recent
