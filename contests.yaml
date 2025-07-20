@@ -46,7 +46,7 @@
   start_time: '2025-07-20T21:00:00+09:00'
   duration_min: 150
   rated_range: 1600 ~ 2999
-  status: Upcoming
+  status: Recent
 - name_ja: 日本レジストリサービス（JPRS）プログラミングコンテスト2025#2（AtCoder Beginner Contest 415）
   name_en: Japan Registry Services (JPRS) Programming Contest 2025#2 (AtCoder Beginner
     Contest 415)
@@ -393,11 +393,4 @@
   start_time: '2025-03-16T19:00:00+09:00'
   duration_min: 240
   rated_range: All
-  status: Recent
-- name_ja: オムロンプログラミングコンテスト2025（AtCoder Beginner Contest 397）
-  name_en: OMRON Corporation Programming Contest 2025 (AtCoder Beginner Contest 397)
-  url: https://atcoder.jp/contests/abc397
-  start_time: '2025-03-15T21:00:00+09:00'
-  duration_min: 100
-  rated_range: ~ 1999
   status: Recent
