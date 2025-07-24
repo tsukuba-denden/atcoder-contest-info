@@ -40,6 +40,13 @@
   duration_min: 100
   rated_range: ~ 1999
   status: Upcoming
+- name_ja: CodeQUEEN 2025 決勝
+  name_en: ''
+  url: https://atcoder.jp/contests/codequeen2025-final-Public
+  start_time: '2025-08-02T13:00:00+09:00'
+  duration_min: 120
+  rated_range: null
+  status: Upcoming
 - name_ja: THIRD プログラミングコンテスト 2025 夏（AtCoder Heuristic Contest 051）
   name_en: THIRD Programming Contest 2025 Summer（AtCoder Heuristic Contest 051）
   url: https://atcoder.jp/contests/ahc051
