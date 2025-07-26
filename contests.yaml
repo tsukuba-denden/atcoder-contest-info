@@ -67,7 +67,7 @@
   start_time: '2025-07-26T21:00:00+09:00'
   duration_min: 100
   rated_range: ~ 1999
-  status: Upcoming
+  status: Recent
 - name_ja: AtCoder Regular Contest 202 (Div. 1)
   name_en: AtCoder Regular Contest 202 (Div. 1)
   url: https://atcoder.jp/contests/arc202
@@ -414,11 +414,4 @@
   start_time: '2025-03-21T09:00:00+09:00'
   duration_min: 300
   rated_range: null
-  status: Recent
-- name_ja: AtCoder Heuristic Contest 044
-  name_en: AtCoder Heuristic Contest 044
-  url: https://atcoder.jp/contests/ahc044
-  start_time: '2025-03-16T19:00:00+09:00'
-  duration_min: 240
-  rated_range: All
   status: Recent
