@@ -34,18 +34,87 @@ jobs:
         # ここでは uv sync を試みます。
         run: uv sync
 
+      - name: Backup old contest data
+        run: |
+          if [ -f contests.json ]; then
+            cp contests.json contests_old.json
+          fi
+
       - name: Run script to fetch contest info
         run: uv run main.py
 
-      - name: Commit and push changes
+      - name: Check for new contests and create commit message
+        id: check_changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add contests.json contests.yaml
-          # 変更があった場合のみコミット・プッシュする
+          
+          # 変更があるかチェック
           if git diff --staged --quiet; then
             echo "No changes to commit."
+            echo "has_changes=false" >> $GITHUB_OUTPUT
           else
-            git commit -m "Update AtCoder contest info"
-            git push
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            
+            # 新しいコンテストを検出
+            if [ -f contests_old.json ]; then
+              # jqを使って新しいコンテストを検出
+              OLD_URLS=$(jq -r '.[].url' contests_old.json | sort)
+              NEW_URLS=$(jq -r '.[].url' contests.json | sort)
+              ADDED_URLS=$(comm -13 <(echo "$OLD_URLS") <(echo "$NEW_URLS"))
+              
+              if [ -n "$ADDED_URLS" ]; then
+                # 新しく追加されたコンテストの名前を取得（最大3つまで）
+                NEW_CONTESTS=""
+                COUNT=0
+                TOTAL_COUNT=$(echo "$ADDED_URLS" | wc -l)
+                
+                while IFS= read -r url && [ $COUNT -lt 3 ]; do
+                  if [ -n "$url" ]; then
+                    NAME_JA=$(jq -r --arg url "$url" '.[] | select(.url == $url) | .name_ja' contests.json)
+                    NAME_EN=$(jq -r --arg url "$url" '.[] | select(.url == $url) | .name_en' contests.json)
+                    
+                    if [ "$NAME_JA" != "null" ] && [ -n "$NAME_JA" ]; then
+                      CONTEST_NAME="$NAME_JA"
+                    elif [ "$NAME_EN" != "null" ] && [ -n "$NAME_EN" ]; then
+                      CONTEST_NAME="$NAME_EN"
+                    else
+                      CONTEST_NAME="Unknown Contest"
+                    fi
+                    
+                    if [ $COUNT -eq 0 ]; then
+                      NEW_CONTESTS="$CONTEST_NAME"
+                    else
+                      NEW_CONTESTS="$NEW_CONTESTS, $CONTEST_NAME"
+                    fi
+                    COUNT=$((COUNT + 1))
+                  fi
+                done <<< "$ADDED_URLS"
+                
+                if [ $TOTAL_COUNT -gt 3 ]; then
+                  NEW_CONTESTS="$NEW_CONTESTS など${TOTAL_COUNT}件"
+                fi
+              else
+                NEW_CONTESTS=""
+              fi
+            else
+              NEW_CONTESTS=""
+            fi
+            
+            # コミットメッセージを作成
+            if [ -n "$NEW_CONTESTS" ]; then
+              COMMIT_MSG="Update AtCoder contest info - 新規追加: $NEW_CONTESTS"
+            else
+              COMMIT_MSG="Update AtCoder contest info"
+            fi
+            
+            echo "commit_message=$COMMIT_MSG" >> $GITHUB_OUTPUT
+            echo "New contests detected: $NEW_CONTESTS"
           fi
+
+      - name: Commit and push changes
+        if: steps.check_changes.outputs.has_changes == 'true'
+        run: |
+          git commit -m "${{ steps.check_changes.outputs.commit_message }}"
+          git push
