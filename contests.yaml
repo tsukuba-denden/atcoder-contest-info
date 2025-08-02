@@ -46,14 +46,14 @@
   start_time: '2025-08-02T21:00:00+09:00'
   duration_min: 100
   rated_range: ~ 1999
-  status: Upcoming
+  status: Recent
 - name_ja: CodeQUEEN 2025 決勝
   name_en: ''
   url: https://atcoder.jp/contests/codequeen2025-final-Public
   start_time: '2025-08-02T13:00:00+09:00'
   duration_min: 120
   rated_range: null
-  status: Upcoming
+  status: Recent
 - name_ja: AtCoder Beginner Contest 416
   name_en: AtCoder Beginner Contest 416
   url: https://atcoder.jp/contests/abc416
@@ -393,18 +393,4 @@
   start_time: '2025-03-22T21:00:00+09:00'
   duration_min: 100
   rated_range: ~ 1999
-  status: Recent
-- name_ja: JOIG 2024/2025 春季トレーニング 過去問
-  name_en: ''
-  url: https://atcoder.jp/contests/joigsp2025
-  start_time: '2025-03-22T09:00:00+09:00'
-  duration_min: 300
-  rated_range: null
-  status: Recent
-- name_ja: JOI 2024/2025 春季トレーニング 過去問
-  name_en: ''
-  url: https://atcoder.jp/contests/joisp2025
-  start_time: '2025-03-21T09:00:00+09:00'
-  duration_min: 300
-  rated_range: null
   status: Recent
