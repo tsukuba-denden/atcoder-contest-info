@@ -51,7 +51,7 @@
         "start_time": "2025-08-03T21:00:00+09:00",
         "duration_min": 120,
         "rated_range": "1200 ~ 2399",
-        "status": "Upcoming"
+        "status": "Recent"
     },
     {
         "name_ja": "AtCoder Beginner Contest 417",
@@ -492,15 +492,6 @@
         "start_time": "2025-03-23T11:00:00+09:00",
         "duration_min": 300,
         "rated_range": null,
-        "status": "Recent"
-    },
-    {
-        "name_ja": "ユニークビジョンプログラミングコンテスト2025 春（AtCoder Beginner Contest 398）",
-        "name_en": "UNIQUE VISION Programming Contest 2025 Spring (AtCoder Beginner Contest 398)",
-        "url": "https://atcoder.jp/contests/abc398",
-        "start_time": "2025-03-22T21:00:00+09:00",
-        "duration_min": 100,
-        "rated_range": "~ 1999",
         "status": "Recent"
     }
 ]
