@@ -12,6 +12,13 @@
   duration_min: 100
   rated_range: ~ 1999
   status: Upcoming
+- name_ja: AtCoder Heuristic Contest 052
+  name_en: AtCoder Heuristic Contest 052
+  url: https://atcoder.jp/contests/ahc052
+  start_time: '2025-08-23T15:00:00+09:00'
+  duration_min: 240
+  rated_range: All
+  status: Upcoming
 - name_ja: AtCoder Regular Contest 204 (Div. 1)
   name_en: AtCoder Regular Contest 204 (Div. 1)
   url: https://atcoder.jp/contests/arc204
