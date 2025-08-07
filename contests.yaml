@@ -1,3 +1,10 @@
+- name_ja: 第12回 Asprova プログラミングコンテスト（AtCoder Heuristic Contest 053）
+  name_en: 12th Asprova Programming Contest（AtCoder Heuristic Contest 053）
+  url: https://atcoder.jp/contests/ahc053
+  start_time: '2025-09-13T19:00:00+09:00'
+  duration_min: 240
+  rated_range: All
+  status: Upcoming
 - name_ja: AtCoder Beginner Contest 422
   name_en: AtCoder Beginner Contest 422
   url: https://atcoder.jp/contests/abc422
