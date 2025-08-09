@@ -69,7 +69,7 @@
         "start_time": "2025-08-09T21:00:00+09:00",
         "duration_min": 100,
         "rated_range": "~ 1999",
-        "status": "Upcoming"
+        "status": "Recent"
     },
     {
         "name_ja": "AtCoder Regular Contest 203 (Div. 2)",
@@ -510,15 +510,6 @@
         "start_time": "2025-03-23T21:00:00+09:00",
         "duration_min": 120,
         "rated_range": "1200 ~ 2399",
-        "status": "Recent"
-    },
-    {
-        "name_ja": "東北大学プログラミングコンテスト 2024",
-        "name_en": "",
-        "url": "https://atcoder.jp/contests/tupc2024",
-        "start_time": "2025-03-23T11:00:00+09:00",
-        "duration_min": 300,
-        "rated_range": null,
         "status": "Recent"
     }
 ]
