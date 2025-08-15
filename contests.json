@@ -1,5 +1,14 @@
 [
     {
+        "name_ja": "AtCoder Grand Contest 073",
+        "name_en": "AtCoder Grand Contest 073",
+        "url": "https://atcoder.jp/contests/agc073",
+        "start_time": "2025-09-28T21:00:00+09:00",
+        "duration_min": 180,
+        "rated_range": "2000 ~",
+        "status": "Upcoming"
+    },
+    {
         "name_ja": "第12回 Asprova プログラミングコンテスト（AtCoder Heuristic Contest 053）",
         "name_en": "12th Asprova Programming Contest（AtCoder Heuristic Contest 053）",
         "url": "https://atcoder.jp/contests/ahc053",
