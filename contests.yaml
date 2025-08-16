@@ -60,7 +60,7 @@
   start_time: '2025-08-16T21:00:00+09:00'
   duration_min: 100
   rated_range: ~ 1999
-  status: Upcoming
+  status: Recent
 - name_ja: AtCoder Beginner Contest 418
   name_en: AtCoder Beginner Contest 418
   url: https://atcoder.jp/contests/abc418
@@ -399,13 +399,6 @@
   start_time: '2025-03-29T21:00:00+09:00'
   duration_min: 100
   rated_range: ~ 1999
-  status: Recent
-- name_ja: NUPC 2024
-  name_en: ''
-  url: https://atcoder.jp/contests/nupc2024
-  start_time: '2025-03-29T13:00:00+09:00'
-  duration_min: 300
-  rated_range: null
   status: Recent
 - name_ja: THIRD プログラミングコンテスト2025（AtCoder Heuristic Contest 045）
   name_en: THIRD PROGRAMMING CONTEST 2025（AtCoder Heuristic Contest 045）
