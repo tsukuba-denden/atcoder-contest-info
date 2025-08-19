@@ -40,6 +40,13 @@
   duration_min: 100
   rated_range: ~ 1999
   status: Upcoming
+- name_ja: 第六回日本最強プログラマー学生選手権 -決勝-
+  name_en: ''
+  url: https://atcoder.jp/contests/jsc2025-final
+  start_time: '2025-08-24T14:10:00+09:00'
+  duration_min: 180
+  rated_range: null
+  status: Upcoming
 - name_ja: AtCoder Heuristic Contest 052
   name_en: AtCoder Heuristic Contest 052
   url: https://atcoder.jp/contests/ahc052
