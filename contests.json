@@ -9,6 +9,24 @@
         "status": "Upcoming"
     },
     {
+        "name_ja": "ユニークビジョンプログラミングコンテスト2025 秋（AtCoder Beginner Contest 425）",
+        "name_en": "UNIQUE VISION Programming Contest 2024 Autumn (AtCoder Beginner Contest 425)",
+        "url": "https://atcoder.jp/contests/abc425",
+        "start_time": "2025-09-27T21:00:00+09:00",
+        "duration_min": 100,
+        "rated_range": "~ 1999",
+        "status": "Upcoming"
+    },
+    {
+        "name_ja": "AtCoder × Engineer Guild オンサイトコンテスト ～集結！高レート人材～予選（AtCoder Beginner Contest 424）",
+        "name_en": "AtCoder × Engineer Guild（AtCoder Beginner Contest 424）",
+        "url": "https://atcoder.jp/contests/abc424",
+        "start_time": "2025-09-20T21:00:00+09:00",
+        "duration_min": 100,
+        "rated_range": "~ 1999",
+        "status": "Upcoming"
+    },
+    {
         "name_ja": "ALGO ARTIS プログラミングコンテスト2025 夏（AtCoder Heuristic Contest 054）",
         "name_en": "ALGO ARTIS Programming Contest 2025 Summer（AtCoder Heuristic Contest 054）",
         "url": "https://atcoder.jp/contests/ahc054",
@@ -18,8 +36,8 @@
         "status": "Upcoming"
     },
     {
-        "name_ja": "AtCoder × Engineer Guild オンサイトコンテスト ～集結！高レート人材～予選（AtCoder Beginner Contest 423）",
-        "name_en": "AtCoder × Engineer Guild（AtCoder Beginner Contest 423）",
+        "name_ja": "AtCoder Beginner Contest 423",
+        "name_en": "AtCoder Beginner Contest 423",
         "url": "https://atcoder.jp/contests/abc423",
         "start_time": "2025-09-14T21:00:00+09:00",
         "duration_min": 100,
