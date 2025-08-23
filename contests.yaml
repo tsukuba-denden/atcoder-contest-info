@@ -83,7 +83,7 @@
   start_time: '2025-08-23T15:00:00+09:00'
   duration_min: 240
   rated_range: All
-  status: Upcoming
+  status: Recent
 - name_ja: AtCoder Regular Contest 204 (Div. 1)
   name_en: AtCoder Regular Contest 204 (Div. 1)
   url: https://atcoder.jp/contests/arc204
@@ -422,13 +422,6 @@
   start_time: '2025-03-30T21:00:00+09:00'
   duration_min: 180
   rated_range: 2000 ~
-  status: Recent
-- name_ja: パ研合宿2024　第1日「SpeedRun」
-  name_en: ''
-  url: https://atcoder.jp/contests/pakencamp-2024-day1
-  start_time: '2025-03-30T14:00:00+09:00'
-  duration_min: 150
-  rated_range: null
   status: Recent
 - name_ja: THIRD プログラミングコンテスト2025（AtCoder Heuristic Contest 045）
   name_en: THIRD PROGRAMMING CONTEST 2025（AtCoder Heuristic Contest 045）
