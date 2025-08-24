@@ -69,14 +69,14 @@
   start_time: '2025-08-24T21:00:00+09:00'
   duration_min: 100
   rated_range: ~ 1999
-  status: Upcoming
+  status: Recent
 - name_ja: 第六回日本最強プログラマー学生選手権 -決勝-
   name_en: ''
   url: https://atcoder.jp/contests/jsc2025-final
   start_time: '2025-08-24T14:10:00+09:00'
   duration_min: 180
   rated_range: null
-  status: Upcoming
+  status: Recent
 - name_ja: AtCoder Heuristic Contest 052
   name_en: AtCoder Heuristic Contest 052
   url: https://atcoder.jp/contests/ahc052
@@ -408,20 +408,6 @@
   start_time: '2025-04-01T13:00:00+09:00'
   duration_min: 240
   rated_range: null
-  status: Recent
-- name_ja: パ研合宿2024　第2日「パ研杯」
-  name_en: ''
-  url: https://atcoder.jp/contests/pakencamp-2024-day2
-  start_time: '2025-03-31T12:30:00+09:00'
-  duration_min: 240
-  rated_range: null
-  status: Recent
-- name_ja: AtCoder Grand Contest 071
-  name_en: AtCoder Grand Contest 071
-  url: https://atcoder.jp/contests/agc071
-  start_time: '2025-03-30T21:00:00+09:00'
-  duration_min: 180
-  rated_range: 2000 ~
   status: Recent
 - name_ja: THIRD プログラミングコンテスト2025（AtCoder Heuristic Contest 045）
   name_en: THIRD PROGRAMMING CONTEST 2025（AtCoder Heuristic Contest 045）
