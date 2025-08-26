@@ -1,3 +1,10 @@
+- name_ja: AtCoder Japan Open -予選-  (AtCoder Regular Contest 207 (Div.1))
+  name_en: AtCoder Regular Contest 207 (Div.1)
+  url: https://atcoder.jp/contests/arc207
+  start_time: '2025-10-05T21:00:00+09:00'
+  duration_min: 150
+  rated_range: 1600 ~ 2999
+  status: Upcoming
 - name_ja: AtCoder Grand Contest 073
   name_en: AtCoder Grand Contest 073
   url: https://atcoder.jp/contests/agc073
