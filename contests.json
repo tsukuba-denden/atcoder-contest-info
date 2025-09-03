@@ -1,5 +1,14 @@
 [
     {
+        "name_ja": "パナソニックグループ プログラミングコンテスト2025（AtCoder Beginner Contest 427）",
+        "name_en": "Panasonic Programming Contest 2025（AtCoder Beginner Contest 427）",
+        "url": "https://atcoder.jp/contests/abc427",
+        "start_time": "2025-10-11T21:00:00+09:00",
+        "duration_min": 100,
+        "rated_range": "~ 1999",
+        "status": "Upcoming"
+    },
+    {
         "name_ja": "AtCoder Japan Open -予選-  (AtCoder Regular Contest 207 (Div.1))",
         "name_en": "AtCoder Regular Contest 207 (Div.1)",
         "url": "https://atcoder.jp/contests/arc207",
