@@ -83,7 +83,7 @@
   start_time: '2025-09-06T21:00:00+09:00'
   duration_min: 120
   rated_range: 1200 ~ 2399
-  status: Upcoming
+  status: Recent
 - name_ja: AtCoder Beginner Contest 421
   name_en: AtCoder Beginner Contest 421
   url: https://atcoder.jp/contests/abc421
@@ -422,13 +422,6 @@
   start_time: '2025-04-05T21:00:00+09:00'
   duration_min: 100
   rated_range: ~ 1999
-  status: Recent
-- name_ja: パ研合宿2024　第3日「Teamwork(for beginners)」
-  name_en: ''
-  url: https://atcoder.jp/contests/pakencamp-2024-day3-2
-  start_time: '2025-04-01T13:00:00+09:00'
-  duration_min: 240
-  rated_range: null
   status: Recent
 - name_ja: THIRD プログラミングコンテスト2025（AtCoder Heuristic Contest 045）
   name_en: THIRD PROGRAMMING CONTEST 2025（AtCoder Heuristic Contest 045）
