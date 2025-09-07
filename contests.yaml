@@ -63,20 +63,20 @@
   duration_min: 240
   rated_range: All
   status: Upcoming
-- name_ja: AtCoder Beginner Contest 422
-  name_en: AtCoder Beginner Contest 422
-  url: https://atcoder.jp/contests/abc422
-  start_time: '2025-09-07T13:10:00+09:00'
-  duration_min: 100
-  rated_range: ~ 1999
-  status: Upcoming
 - name_ja: 日本最強プログラマー学生選手権～Advance～
   name_en: 日本最強プログラマー学生選手権～Advance～
   url: https://atcoder.jp/contests/jsc2025advance-final
   start_time: '2025-09-07T13:10:00+09:00'
   duration_min: 100
   rated_range: ~ 1999
-  status: Upcoming
+  status: Recent
+- name_ja: AtCoder Beginner Contest 422
+  name_en: AtCoder Beginner Contest 422
+  url: https://atcoder.jp/contests/abc422
+  start_time: '2025-09-07T13:10:00+09:00'
+  duration_min: 100
+  rated_range: ~ 1999
+  status: Recent
 - name_ja: AtCoder Regular Contest 205 (Div. 2)
   name_en: AtCoder Regular Contest 205 (Div. 2)
   url: https://atcoder.jp/contests/arc205
@@ -406,20 +406,6 @@
   name_en: AtCoder Beginner Contest 401
   url: https://atcoder.jp/contests/abc401
   start_time: '2025-04-12T21:00:00+09:00'
-  duration_min: 100
-  rated_range: ~ 1999
-  status: Recent
-- name_ja: AtCoder Regular Contest 196 (Div. 1)
-  name_en: AtCoder Regular Contest 196 (Div. 1)
-  url: https://atcoder.jp/contests/arc196
-  start_time: '2025-04-06T21:00:00+09:00'
-  duration_min: 150
-  rated_range: 1600 ~ 2999
-  status: Recent
-- name_ja: AtCoder Beginner Contest 400
-  name_en: AtCoder Beginner Contest 400
-  url: https://atcoder.jp/contests/abc400
-  start_time: '2025-04-05T21:00:00+09:00'
   duration_min: 100
   rated_range: ~ 1999
   status: Recent
