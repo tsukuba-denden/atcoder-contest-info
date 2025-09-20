@@ -49,7 +49,7 @@
   start_time: '2025-09-20T21:00:00+09:00'
   duration_min: 100
   rated_range: ~ 1999
-  status: Upcoming
+  status: Recent
 - name_ja: AtCoder Beginner Contest 423
   name_en: AtCoder Beginner Contest 423
   url: https://atcoder.jp/contests/abc423
@@ -392,13 +392,6 @@
 - name_ja: 第二回マスターズ選手権-決勝-(オープンコンテスト)
   name_en: ''
   url: https://atcoder.jp/contests/masters2025-final-open
-  start_time: '2025-04-19T11:10:00+09:00'
-  duration_min: 360
-  rated_range: null
-  status: Recent
-- name_ja: 第二回マスターズ選手権 -決勝-
-  name_en: ''
-  url: https://atcoder.jp/contests/masters2025-final
   start_time: '2025-04-19T11:10:00+09:00'
   duration_min: 360
   rated_range: null
