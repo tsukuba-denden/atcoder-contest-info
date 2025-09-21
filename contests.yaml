@@ -41,7 +41,7 @@
   start_time: '2025-09-21T21:00:00+09:00'
   duration_min: 120
   rated_range: 1200 ~ 2399
-  status: Upcoming
+  status: Recent
 - name_ja: AtCoder × Engineer Guild オンサイトコンテスト ～集結！高レート人材～予選（AtCoder Beginner Contest
     424）
   name_en: AtCoder Beginner Contest 424
@@ -388,11 +388,4 @@
   start_time: '2025-04-19T21:00:00+09:00'
   duration_min: 100
   rated_range: ~ 1999
-  status: Recent
-- name_ja: 第二回マスターズ選手権-決勝-(オープンコンテスト)
-  name_en: ''
-  url: https://atcoder.jp/contests/masters2025-final-open
-  start_time: '2025-04-19T11:10:00+09:00'
-  duration_min: 360
-  rated_range: null
   status: Recent
