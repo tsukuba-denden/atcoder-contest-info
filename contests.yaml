@@ -6,6 +6,13 @@
   duration_min: 240
   rated_range: All
   status: Upcoming
+- name_ja: AtCoder Beginner Contest 428
+  name_en: AtCoder Beginner Contest 428
+  url: https://atcoder.jp/contests/abc428
+  start_time: '2025-10-18T21:00:00+09:00'
+  duration_min: 100
+  rated_range: ~ 1999
+  status: Upcoming
 - name_ja: パナソニックグループ プログラミングコンテスト2025（AtCoder Beginner Contest 427）
   name_en: Panasonic Programming Contest 2025（AtCoder Beginner Contest 427）
   url: https://atcoder.jp/contests/abc427
@@ -19,6 +26,13 @@
   start_time: '2025-10-05T21:00:00+09:00'
   duration_min: 150
   rated_range: 1600 ~ 2999
+  status: Upcoming
+- name_ja: AtCoder Beginner Contest 426
+  name_en: AtCoder Beginner Contest 426
+  url: https://atcoder.jp/contests/abc426
+  start_time: '2025-10-04T21:00:00+09:00'
+  duration_min: 100
+  rated_range: ~ 1999
   status: Upcoming
 - name_ja: AtCoder Grand Contest 073
   name_en: AtCoder Grand Contest 073
