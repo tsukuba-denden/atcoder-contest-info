@@ -1,3 +1,10 @@
+- name_ja: Polaris.AI プログラミングコンテスト 2025（AtCoder Beginner Contest 429）
+  name_en: Polaris.AI Programming Contest 2025（AtCoder Beginner Contest 429）
+  url: https://atcoder.jp/contests/abc429
+  start_time: '2025-10-25T21:00:00+09:00'
+  duration_min: 100
+  rated_range: ~ 1999
+  status: Upcoming
 - name_ja: RECRUIT 日本橋ハーフマラソン 2025秋（AtCoder Heuristic Contest 055）
   name_en: RECRUIT Nihonbashi Half Marathon 2025 Autumn （AtCoder Heuristic Contest
     055）
