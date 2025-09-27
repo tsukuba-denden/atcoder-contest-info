@@ -55,7 +55,7 @@
   start_time: '2025-09-27T21:00:00+09:00'
   duration_min: 100
   rated_range: ~ 1999
-  status: Upcoming
+  status: Recent
 - name_ja: AtCoder Regular Contest 206 (Div. 2)
   name_en: AtCoder Regular Contest 206 (Div. 2)
   url: https://atcoder.jp/contests/arc206
@@ -401,12 +401,4 @@
   start_time: '2025-04-20T21:00:00+09:00'
   duration_min: 180
   rated_range: 2000 ~
-  status: Recent
-- name_ja: 東京海上日動プログラミングコンテスト2025（AtCoder Beginner Contest 402）
-  name_en: Tokio Marine & Nichido Fire Insurance Programming Contest 2025  (AtCoder
-    Beginner Contest 402)
-  url: https://atcoder.jp/contests/abc402
-  start_time: '2025-04-19T21:00:00+09:00'
-  duration_min: 100
-  rated_range: ~ 1999
   status: Recent
