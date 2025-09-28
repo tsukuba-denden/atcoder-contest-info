@@ -60,11 +60,11 @@
         "start_time": "2025-09-28T21:00:00+09:00",
         "duration_min": 180,
         "rated_range": "2000 ~",
-        "status": "Upcoming"
+        "status": "Recent"
     },
     {
         "name_ja": "ユニークビジョンプログラミングコンテスト2025 秋（AtCoder Beginner Contest 425）",
-        "name_en": "UNIQUE VISION Programming Contest 2024 Autumn (AtCoder Beginner Contest 425)",
+        "name_en": "UNIQUE VISION Programming Contest 2025 Autumn (AtCoder Beginner Contest 425)",
         "url": "https://atcoder.jp/contests/abc425",
         "start_time": "2025-09-27T21:00:00+09:00",
         "duration_min": 100,
@@ -501,15 +501,6 @@
         "start_time": "2025-04-26T15:00:00+09:00",
         "duration_min": 240,
         "rated_range": "All",
-        "status": "Recent"
-    },
-    {
-        "name_ja": "AtCoder Grand Contest 072",
-        "name_en": "AtCoder Grand Contest 072",
-        "url": "https://atcoder.jp/contests/agc072",
-        "start_time": "2025-04-20T21:00:00+09:00",
-        "duration_min": 180,
-        "rated_range": "2000 ~",
         "status": "Recent"
     }
 ]
