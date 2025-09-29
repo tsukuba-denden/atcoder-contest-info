@@ -71,6 +71,13 @@
   duration_min: 100
   rated_range: ~ 1999
   status: Recent
+- name_ja: ALGO ARTIS プログラミングコンテスト2025 夏（AtCoder Heuristic Contest 054）
+  name_en: ALGO ARTIS Programming Contest 2025 Summer（AtCoder Heuristic Contest 054）
+  url: https://atcoder.jp/contests/ahc054
+  start_time: '2025-09-19T19:00:00+09:00'
+  duration_min: 14400
+  rated_range: All
+  status: Recent
 - name_ja: AtCoder Beginner Contest 423
   name_en: AtCoder Beginner Contest 423
   url: https://atcoder.jp/contests/abc423
@@ -84,6 +91,13 @@
   start_time: '2025-09-13T19:00:00+09:00'
   duration_min: 240
   rated_range: All
+  status: Recent
+- name_ja: JOI 2025/2026 一次予選 (第1回) 過去問
+  name_en: ''
+  url: https://atcoder.jp/contests/joi2026yo1a
+  start_time: '2025-09-13T14:00:00+09:00'
+  duration_min: 80
+  rated_range: null
   status: Recent
 - name_ja: 日本最強プログラマー学生選手権～Advance～
   name_en: 日本最強プログラマー学生選手権～Advance～
@@ -380,18 +394,4 @@
   start_time: '2025-05-03T21:00:00+09:00'
   duration_min: 100
   rated_range: ~ 1999
-  status: Recent
-- name_ja: AtCoder Beginner Contest 403（Promotion of AtCoder Career Design DAY）
-  name_en: AtCoder Beginner Contest 403
-  url: https://atcoder.jp/contests/abc403
-  start_time: '2025-04-27T21:00:00+09:00'
-  duration_min: 100
-  rated_range: ~ 1999
-  status: Recent
-- name_ja: BrainPad プログラミングコンテスト 2025 （AtCoder Heuristic Contest 046）
-  name_en: BrainPad Programming Contest 2025 （AtCoder Heuristic Contest 046）
-  url: https://atcoder.jp/contests/ahc046
-  start_time: '2025-04-26T15:00:00+09:00'
-  duration_min: 240
-  rated_range: All
   status: Recent
