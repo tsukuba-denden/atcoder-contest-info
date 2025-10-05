@@ -27,6 +27,15 @@
         "status": "Upcoming"
     },
     {
+        "name_ja": "AtCoder Regular Contest 208 (Div. 2)",
+        "name_en": "AtCoder Regular Contest 208 (Div. 2)",
+        "url": "https://atcoder.jp/contests/arc208",
+        "start_time": "2025-10-12T21:00:00+09:00",
+        "duration_min": 120,
+        "rated_range": "1200 ~ 2399",
+        "status": "Upcoming"
+    },
+    {
         "name_ja": "パナソニックグループ プログラミングコンテスト2025（AtCoder Beginner Contest 427）",
         "name_en": "Panasonic Programming Contest 2025（AtCoder Beginner Contest 427）",
         "url": "https://atcoder.jp/contests/abc427",
@@ -42,7 +51,7 @@
         "start_time": "2025-10-05T21:00:00+09:00",
         "duration_min": 150,
         "rated_range": "1600 ~ 2999",
-        "status": "Upcoming"
+        "status": "Recent"
     },
     {
         "name_ja": "AtCoder Beginner Contest 426",
@@ -483,15 +492,6 @@
         "start_time": "2025-05-10T21:00:00+09:00",
         "duration_min": 100,
         "rated_range": "~ 1999",
-        "status": "Recent"
-    },
-    {
-        "name_ja": "AtCoder Regular Contest 197 (Div. 2)",
-        "name_en": "AtCoder Regular Contest 197 (Div. 2)",
-        "url": "https://atcoder.jp/contests/arc197",
-        "start_time": "2025-05-04T21:00:00+09:00",
-        "duration_min": 120,
-        "rated_range": "1200 ~ 2399",
         "status": "Recent"
     }
 ]
