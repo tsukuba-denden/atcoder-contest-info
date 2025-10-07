@@ -1,5 +1,23 @@
 [
     {
+        "name_ja": "HACK TO THE FUTURE 2026 （AtCoder Heuristic Contest 056）",
+        "name_en": "HACK TO THE FUTURE 2026 （AtCoder Heuristic Contest 056）",
+        "url": "https://atcoder.jp/contests/ahc056",
+        "start_time": "2025-11-07T19:00:00+09:00",
+        "duration_min": 14400,
+        "rated_range": "All",
+        "status": "Upcoming"
+    },
+    {
+        "name_ja": "FPS 24 題",
+        "name_en": "FPS 24: 24 Problems on Formal Power Series",
+        "url": "https://atcoder.jp/contests/fps-24",
+        "start_time": "2025-10-26T13:00:00+09:00",
+        "duration_min": 300,
+        "rated_range": null,
+        "status": "Upcoming"
+    },
+    {
         "name_ja": "Polaris.AI プログラミングコンテスト 2025（AtCoder Beginner Contest 429）",
         "name_en": "Polaris.AI Programming Contest 2025（AtCoder Beginner Contest 429）",
         "url": "https://atcoder.jp/contests/abc429",
