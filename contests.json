@@ -9,6 +9,15 @@
         "status": "Upcoming"
     },
     {
+        "name_ja": "AtCoder Grand Contest 074",
+        "name_en": "AtCoder Grand Contest 074",
+        "url": "https://atcoder.jp/contests/agc074",
+        "start_time": "2025-10-26T21:00:00+09:00",
+        "duration_min": 180,
+        "rated_range": "2000 ~",
+        "status": "Upcoming"
+    },
+    {
         "name_ja": "FPS 24 題",
         "name_en": "FPS 24: 24 Problems on Formal Power Series",
         "url": "https://atcoder.jp/contests/fps-24",
