@@ -87,7 +87,7 @@
         "start_time": "2025-10-12T21:00:00+09:00",
         "duration_min": 120,
         "rated_range": "1200 ~ 2399",
-        "status": "Upcoming"
+        "status": "Recent"
     },
     {
         "name_ja": "パナソニックグループ プログラミングコンテスト2025（AtCoder Beginner Contest 427）",
@@ -528,15 +528,6 @@
         "start_time": "2025-05-18T19:00:00+09:00",
         "duration_min": 240,
         "rated_range": "All",
-        "status": "Recent"
-    },
-    {
-        "name_ja": "パナソニックグループ プログラミングコンテスト2025（AtCoder Beginner Contest 406）",
-        "name_en": "Panasonic Programming Contest 2025（AtCoder Beginner Contest 406）",
-        "url": "https://atcoder.jp/contests/abc406",
-        "start_time": "2025-05-17T21:00:00+09:00",
-        "duration_min": 100,
-        "rated_range": "~ 1999",
         "status": "Recent"
     }
 ]
