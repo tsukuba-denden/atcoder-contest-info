@@ -26,19 +26,26 @@
   duration_min: 14400
   rated_range: All
   status: Upcoming
+- name_ja: FPS 24 題
+  name_en: 'FPS 24: 24 Problems on Formal Power Series'
+  url: https://atcoder.jp/contests/fps-24
+  start_time: '2025-11-03T13:00:00+09:00'
+  duration_min: 300
+  rated_range: null
+  status: Upcoming
+- name_ja: AtCoder Beginner Contest 430
+  name_en: AtCoder Beginner Contest 430
+  url: https://atcoder.jp/contests/abc430
+  start_time: '2025-11-01T21:00:00+09:00'
+  duration_min: 100
+  rated_range: ~ 1999
+  status: Upcoming
 - name_ja: AtCoder Grand Contest 074
   name_en: AtCoder Grand Contest 074
   url: https://atcoder.jp/contests/agc074
   start_time: '2025-10-26T21:00:00+09:00'
   duration_min: 180
   rated_range: 2000 ~
-  status: Upcoming
-- name_ja: FPS 24 題
-  name_en: 'FPS 24: 24 Problems on Formal Power Series'
-  url: https://atcoder.jp/contests/fps-24
-  start_time: '2025-10-26T13:00:00+09:00'
-  duration_min: 300
-  rated_range: null
   status: Upcoming
 - name_ja: Polaris.AI プログラミングコンテスト 2025（AtCoder Beginner Contest 429）
   name_en: Polaris.AI Programming Contest 2025（AtCoder Beginner Contest 429）
@@ -68,6 +75,13 @@
   start_time: '2025-10-12T21:00:00+09:00'
   duration_min: 120
   rated_range: 1200 ~ 2399
+  status: Recent
+- name_ja: JOI 2025/2026 一次予選 (第2回) 過去問
+  name_en: ''
+  url: https://atcoder.jp/contests/joi2026yo1b
+  start_time: '2025-10-12T14:00:00+09:00'
+  duration_min: 80
+  rated_range: null
   status: Recent
 - name_ja: パナソニックグループ プログラミングコンテスト2025（AtCoder Beginner Contest 427）
   name_en: Panasonic Programming Contest 2025（AtCoder Beginner Contest 427）
@@ -408,11 +422,4 @@
   start_time: '2025-05-24T21:00:00+09:00'
   duration_min: 100
   rated_range: ~ 1999
-  status: Recent
-- name_ja: トヨタ自動車プログラミングコンテスト2025#2（AtCoder Heuristic Contest 047）
-  name_en: Toyota Programming Contest 2025#2（AtCoder Heuristic Contest 047）
-  url: https://atcoder.jp/contests/ahc047
-  start_time: '2025-05-18T19:00:00+09:00'
-  duration_min: 240
-  rated_range: All
   status: Recent
