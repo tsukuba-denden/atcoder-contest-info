@@ -1,3 +1,10 @@
+- name_ja: estie プログラミングコンテスト2025 （AtCoder Regular Contest 210）
+  name_en: AtCoder Regular Contest 210
+  url: https://atcoder.jp/contests/arc210
+  start_time: '2025-11-16T21:00:00+09:00'
+  duration_min: 120
+  rated_range: 1200 ~ 2799
+  status: Upcoming
 - name_ja: トヨタシステムズプログラミングコンテスト2025（AtCoder Beginner Contest 431）
   name_en: TOYOTA SYSTEMS Programming Contest 2025（AtCoder Beginner Contest 431)
   url: https://atcoder.jp/contests/abc431
