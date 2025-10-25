@@ -67,7 +67,7 @@
   start_time: '2025-10-25T21:00:00+09:00'
   duration_min: 100
   rated_range: ~ 1999
-  status: Upcoming
+  status: Recent
 - name_ja: RECRUIT 日本橋ハーフマラソン 2025秋（AtCoder Heuristic Contest 055）
   name_en: RECRUIT Nihonbashi Half Marathon 2025 Autumn （AtCoder Heuristic Contest
     055）
@@ -408,13 +408,6 @@
   start_time: '2025-06-01T21:00:00+09:00'
   duration_min: 150
   rated_range: 1600 ~ 2999
-  status: Recent
-- name_ja: AtCoder Beginner Contest 408
-  name_en: AtCoder Beginner Contest 408
-  url: https://atcoder.jp/contests/abc408
-  start_time: '2025-05-31T21:00:00+09:00'
-  duration_min: 100
-  rated_range: ~ 1999
   status: Recent
 - name_ja: MC Digital プログラミングコンテスト2025（AtCoder Heuristic Contest 048）
   name_en: MC Digital Programming Contest 2025 (AtCoder Heuristic Contest 048)
