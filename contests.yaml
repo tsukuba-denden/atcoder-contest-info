@@ -1,9 +1,24 @@
+- name_ja: AtCoder Beginner Contest 433
+  name_en: AtCoder Beginner Contest 433
+  url: https://atcoder.jp/contests/abc433
+  start_time: '2025-11-22T21:00:00+09:00'
+  duration_min: 100
+  rated_range: ~ 1999
+  status: Upcoming
 - name_ja: estie プログラミングコンテスト2025 （AtCoder Regular Contest 210）
   name_en: AtCoder Regular Contest 210
   url: https://atcoder.jp/contests/arc210
   start_time: '2025-11-16T21:00:00+09:00'
   duration_min: 120
   rated_range: 1200 ~ 2799
+  status: Upcoming
+- name_ja: 'オムロンプログラミングコンテスト2025 #2（AtCoder Beginner Contest 432）'
+  name_en: 'OMRON Corporation Programming Contest 2025 #2 (AtCoder Beginner Contest
+    432)'
+  url: https://atcoder.jp/contests/abc432
+  start_time: '2025-11-15T21:00:00+09:00'
+  duration_min: 100
+  rated_range: ~ 1999
   status: Upcoming
 - name_ja: AtCoder Regular Contest 209 (Div. 1)
   name_en: AtCoder Regular Contest 209 (Div. 1)
