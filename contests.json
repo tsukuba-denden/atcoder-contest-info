@@ -46,7 +46,7 @@
     },
     {
         "name_ja": "東京科学大学プログラミングコンテスト2025 (Div. 1)",
-        "name_en": "東京科学大学プログラミングコンテスト2025 (Div. 1)",
+        "name_en": "",
         "url": "https://atcoder.jp/contests/stpc2025_1",
         "start_time": "2025-11-08T13:00:00+09:00",
         "duration_min": 300,
@@ -55,7 +55,7 @@
     },
     {
         "name_ja": "東京科学大学プログラミングコンテスト2025 (Div. 2)",
-        "name_en": "東京科学大学プログラミングコンテスト2025 (Div. 2)",
+        "name_en": "",
         "url": "https://atcoder.jp/contests/stpc2025_2",
         "start_time": "2025-11-08T13:00:00+09:00",
         "duration_min": 300,
