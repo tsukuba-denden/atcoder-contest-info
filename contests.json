@@ -1,5 +1,14 @@
 [
     {
+        "name_ja": "Ｓｋｙ株式会社プログラミングコンテスト2025（AtCoder Beginner Contest 434）",
+        "name_en": "Ｓｋｙ Inc, Programming Contest 2025 (AtCoder Beginner Contest 434)",
+        "url": "https://atcoder.jp/contests/abc434",
+        "start_time": "2025-11-29T21:00:00+09:00",
+        "duration_min": 100,
+        "rated_range": "~ 1999",
+        "status": "Upcoming"
+    },
+    {
         "name_ja": "AtCoder Beginner Contest 433",
         "name_en": "AtCoder Beginner Contest 433",
         "url": "https://atcoder.jp/contests/abc433",
