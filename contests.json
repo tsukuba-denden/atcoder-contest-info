@@ -1,5 +1,14 @@
 [
     {
+        "name_ja": "AtCoder Regular Contest 211 (Div. 2)",
+        "name_en": "AtCoder Regular Contest 211 (Div. 2)",
+        "url": "https://atcoder.jp/contests/arc211",
+        "start_time": "2025-11-30T21:00:00+09:00",
+        "duration_min": 120,
+        "rated_range": "1200 ~ 2399",
+        "status": "Upcoming"
+    },
+    {
         "name_ja": "Ｓｋｙ株式会社プログラミングコンテスト2025（AtCoder Beginner Contest 434）",
         "name_en": "Ｓｋｙ Inc, Programming Contest 2025 (AtCoder Beginner Contest 434)",
         "url": "https://atcoder.jp/contests/abc434",
@@ -96,7 +105,16 @@
         "start_time": "2025-11-01T21:00:00+09:00",
         "duration_min": 100,
         "rated_range": "~ 1999",
-        "status": "Upcoming"
+        "status": "Recent"
+    },
+    {
+        "name_ja": "AtCoder × Engineer Guild オンサイトコンテスト ～集結！高レート人材～",
+        "name_en": "",
+        "url": "https://atcoder.jp/contests/highrate2025",
+        "start_time": "2025-11-01T13:10:00+09:00",
+        "duration_min": 180,
+        "rated_range": "~ 0",
+        "status": "Recent"
     },
     {
         "name_ja": "AtCoder Grand Contest 074",
@@ -528,24 +546,6 @@
         "start_time": "2025-06-14T21:00:00+09:00",
         "duration_min": 100,
         "rated_range": "~ 1999",
-        "status": "Recent"
-    },
-    {
-        "name_ja": "AtCoder Beginner Contest 409",
-        "name_en": "AtCoder Beginner Contest 409",
-        "url": "https://atcoder.jp/contests/abc409",
-        "start_time": "2025-06-07T21:00:00+09:00",
-        "duration_min": 100,
-        "rated_range": "~ 1999",
-        "status": "Recent"
-    },
-    {
-        "name_ja": "MC Digital プログラミングコンテスト2025（AtCoder Heuristic Contest 048）",
-        "name_en": "MC Digital Programming Contest 2025 (AtCoder Heuristic Contest 048)",
-        "url": "https://atcoder.jp/contests/ahc048",
-        "start_time": "2025-05-30T19:00:00+09:00",
-        "duration_min": 14400,
-        "rated_range": "All",
         "status": "Recent"
     }
 ]
