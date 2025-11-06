@@ -19,6 +19,13 @@
   duration_min: 100
   rated_range: ~ 1999
   status: Upcoming
+- name_ja: AtCoder Heuristic Contest 057
+  name_en: AtCoder Heuristic Contest 057
+  url: https://atcoder.jp/contests/ahc057
+  start_time: '2025-11-29T15:00:00+09:00'
+  duration_min: 240
+  rated_range: All
+  status: Upcoming
 - name_ja: AtCoder Beginner Contest 433
   name_en: AtCoder Beginner Contest 433
   url: https://atcoder.jp/contests/abc433
@@ -90,12 +97,12 @@
   duration_min: 100
   rated_range: ~ 1999
   status: Recent
-- name_ja: AtCoder × Engineer Guild オンサイトコンテスト ～集結！高レート人材～
+- name_ja: AtCoder × Engineer Guild オンサイトコンテスト ～集結！高レート人材～（復習用）
   name_en: ''
-  url: https://atcoder.jp/contests/highrate2025
+  url: https://atcoder.jp/contests/highrate2025-parallel
   start_time: '2025-11-01T13:10:00+09:00'
   duration_min: 180
-  rated_range: ~ 0
+  rated_range: null
   status: Recent
 - name_ja: AtCoder Grand Contest 074
   name_en: AtCoder Grand Contest 074
