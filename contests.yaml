@@ -61,21 +61,21 @@
   start_time: '2025-11-08T21:00:00+09:00'
   duration_min: 100
   rated_range: ~ 1999
-  status: Upcoming
-- name_ja: 東京科学大学プログラミングコンテスト2025 (Div. 1)
-  name_en: ''
-  url: https://atcoder.jp/contests/stpc2025_1
-  start_time: '2025-11-08T13:00:00+09:00'
-  duration_min: 300
-  rated_range: null
-  status: Upcoming
+  status: Recent
 - name_ja: 東京科学大学プログラミングコンテスト2025 (Div. 2)
   name_en: ''
   url: https://atcoder.jp/contests/stpc2025_2
   start_time: '2025-11-08T13:00:00+09:00'
   duration_min: 300
   rated_range: null
-  status: Upcoming
+  status: Recent
+- name_ja: 東京科学大学プログラミングコンテスト2025 (Div. 1)
+  name_en: ''
+  url: https://atcoder.jp/contests/stpc2025_1
+  start_time: '2025-11-08T13:00:00+09:00'
+  duration_min: 300
+  rated_range: null
+  status: Recent
 - name_ja: FPS 24 題
   name_en: 'FPS 24: 24 Problems on Formal Power Series'
   url: https://atcoder.jp/contests/fps-24
@@ -409,25 +409,4 @@
   start_time: '2025-06-21T15:00:00+09:00'
   duration_min: 240
   rated_range: All
-  status: Recent
-- name_ja: AtCoder 創立13周年記念 企業対抗 Team Battle
-  name_en: ''
-  url: https://atcoder.jp/contests/atcoder13live
-  start_time: '2025-06-20T20:00:00+09:00'
-  duration_min: 120
-  rated_range: null
-  status: Recent
-- name_ja: AtCoder Regular Contest 200 (Div. 2)
-  name_en: AtCoder Regular Contest 200 (Div. 2)
-  url: https://atcoder.jp/contests/arc200
-  start_time: '2025-06-15T21:00:00+09:00'
-  duration_min: 120
-  rated_range: 1200 ~ 2399
-  status: Recent
-- name_ja: JOI Open Contest 2025 過去問
-  name_en: ''
-  url: https://atcoder.jp/contests/joiopen2025
-  start_time: '2025-06-15T13:00:00+09:00'
-  duration_min: 300
-  rated_range: null
   status: Recent
