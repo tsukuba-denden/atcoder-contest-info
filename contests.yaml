@@ -68,7 +68,7 @@
   start_time: '2025-11-15T21:00:00+09:00'
   duration_min: 100
   rated_range: ~ 1999
-  status: Upcoming
+  status: Recent
 - name_ja: AtCoder Regular Contest 209 (Div. 1)
   name_en: AtCoder Regular Contest 209 (Div. 1)
   url: https://atcoder.jp/contests/arc209
@@ -415,12 +415,4 @@
   start_time: '2025-06-22T21:00:00+09:00'
   duration_min: 120
   rated_range: 1200 ~ 2799
-  status: Recent
-- name_ja: ユニークビジョンプログラミングコンテスト2025 夏（AtCoder Beginner Contest 411）
-  name_en: UNIQUE VISION Programming Contest 2025 Summer (AtCoder Beginner Contest
-    411)
-  url: https://atcoder.jp/contests/abc411
-  start_time: '2025-06-21T21:00:00+09:00'
-  duration_min: 100
-  rated_range: ~ 1999
   status: Recent
