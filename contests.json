@@ -78,7 +78,7 @@
         "start_time": "2025-11-16T21:00:00+09:00",
         "duration_min": 120,
         "rated_range": "1200 ~ 2799",
-        "status": "Upcoming"
+        "status": "Recent"
     },
     {
         "name_ja": "オムロンプログラミングコンテスト2025 #2（AtCoder Beginner Contest 432）",
@@ -519,15 +519,6 @@
         "start_time": "2025-06-28T21:00:00+09:00",
         "duration_min": 100,
         "rated_range": "~ 1999",
-        "status": "Recent"
-    },
-    {
-        "name_ja": "第六回日本最強プログラマー学生選手権-予選-（AtCoder Regular Contest 201）",
-        "name_en": "AtCoder Regular Contest 201",
-        "url": "https://atcoder.jp/contests/arc201",
-        "start_time": "2025-06-22T21:00:00+09:00",
-        "duration_min": 120,
-        "rated_range": "1200 ~ 2799",
         "status": "Recent"
     }
 ]
