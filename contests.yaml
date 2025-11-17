@@ -12,6 +12,14 @@
   duration_min: 180
   rated_range: 2000 ~
   status: Upcoming
+- name_ja: ALGO ARTIS プログラミングコンテスト2025 師走（AtCoder Heuristic Contest 058）
+  name_en: ALGO ARTIS Programming Contest 2025 December（AtCoder Heuristic Contest
+    058）
+  url: https://atcoder.jp/contests/ahc058
+  start_time: '2025-12-14T15:00:00+09:00'
+  duration_min: 240
+  rated_range: All
+  status: Upcoming
 - name_ja: AtCoder Beginner Contest 436
   name_en: AtCoder Beginner Contest 436
   url: https://atcoder.jp/contests/abc436
@@ -97,6 +105,13 @@
   duration_min: 300
   rated_range: null
   status: Recent
+- name_ja: HACK TO THE FUTURE 2026 （AtCoder Heuristic Contest 056）
+  name_en: HACK TO THE FUTURE 2026 （AtCoder Heuristic Contest 056）
+  url: https://atcoder.jp/contests/ahc056
+  start_time: '2025-11-07T19:00:00+09:00'
+  duration_min: 14400
+  rated_range: All
+  status: Recent
 - name_ja: FPS 24 題
   name_en: 'FPS 24: 24 Problems on Formal Power Series'
   url: https://atcoder.jp/contests/fps-24
@@ -168,7 +183,7 @@
   duration_min: 100
   rated_range: ~ 1999
   status: Recent
-- name_ja: AtCoder Japan Open -予選-  (AtCoder Regular Contest 207 (Div.1))
+- name_ja: 第二回 AtCoder Japan Open -予選-  (AtCoder Regular Contest 207 (Div.1))
   name_en: AtCoder Regular Contest 207 (Div.1)
   url: https://atcoder.jp/contests/arc207
   start_time: '2025-10-05T21:00:00+09:00'
@@ -399,13 +414,6 @@
   name_en: Denso Create Programming Contest 2025（AtCoder Beginner Contest 413）
   url: https://atcoder.jp/contests/abc413
   start_time: '2025-07-05T21:00:00+09:00'
-  duration_min: 100
-  rated_range: ~ 1999
-  status: Recent
-- name_ja: 日本最強プログラマー学生選手権～Advance～ -予選- （AtCoder Beginner Contest 412）
-  name_en: AtCoder Beginner Contest 412
-  url: https://atcoder.jp/contests/abc412
-  start_time: '2025-06-28T21:00:00+09:00'
   duration_min: 100
   rated_range: ~ 1999
   status: Recent
