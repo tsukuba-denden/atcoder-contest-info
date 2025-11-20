@@ -12,6 +12,14 @@
   duration_min: 180
   rated_range: 2000 ~
   status: Upcoming
+- name_ja: ユニークビジョンプログラミングコンテスト2025 クリスマス（AtCoder Beginner Contest 437）
+  name_en: UNIQUE VISION Programming Contest 2025 Christmas (AtCoder Beginner Contest
+    437)
+  url: https://atcoder.jp/contests/abc437
+  start_time: '2025-12-20T21:00:00+09:00'
+  duration_min: 100
+  rated_range: ~ 1999
+  status: Upcoming
 - name_ja: ALGO ARTIS プログラミングコンテスト2025 師走（AtCoder Heuristic Contest 058）
   name_en: ALGO ARTIS Programming Contest 2025 December（AtCoder Heuristic Contest
     058）
