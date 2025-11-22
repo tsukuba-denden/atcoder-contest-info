@@ -76,7 +76,7 @@
   start_time: '2025-11-22T21:00:00+09:00'
   duration_min: 100
   rated_range: ~ 1999
-  status: Upcoming
+  status: Recent
 - name_ja: estie プログラミングコンテスト2025 （AtCoder Regular Contest 210）
   name_en: AtCoder Regular Contest 210
   url: https://atcoder.jp/contests/arc210
@@ -424,11 +424,4 @@
   start_time: '2025-07-12T21:00:00+09:00'
   duration_min: 100
   rated_range: ~ 1999
-  status: Recent
-- name_ja: AtCoder Heuristic Contest 050
-  name_en: AtCoder Heuristic Contest 050
-  url: https://atcoder.jp/contests/ahc050
-  start_time: '2025-07-06T19:00:00+09:00'
-  duration_min: 240
-  rated_range: All
   status: Recent
