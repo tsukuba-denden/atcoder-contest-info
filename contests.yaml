@@ -55,7 +55,7 @@
   start_time: '2025-11-30T21:00:00+09:00'
   duration_min: 120
   rated_range: 1200 ~ 2399
-  status: Upcoming
+  status: Recent
 - name_ja: Ｓｋｙ株式会社プログラミングコンテスト2025（AtCoder Beginner Contest 434）
   name_en: Ｓｋｙ Inc, Programming Contest 2025 (AtCoder Beginner Contest 434)
   url: https://atcoder.jp/contests/abc434
@@ -400,13 +400,6 @@
 - name_ja: World Tour Finals 2025 Algorithm（Open Contest）
   name_en: World Tour Finals 2025 Algorithm（Open Contest）
   url: https://atcoder.jp/contests/awtf2025algo-open
-  start_time: '2025-07-17T12:00:00+09:00'
-  duration_min: 300
-  rated_range: null
-  status: Recent
-- name_ja: World Tour Finals 2025 Algorithm
-  name_en: World Tour Finals 2025 Algorithm
-  url: https://atcoder.jp/contests/awtf2025algo
   start_time: '2025-07-17T12:00:00+09:00'
   duration_min: 300
   rated_range: null
