@@ -1,5 +1,14 @@
 [
     {
+        "name_ja": "AtCoder Beginner Contest 439（Promotion of AtCoderJobs）",
+        "name_en": "AtCoder Beginner Contest 439",
+        "url": "https://atcoder.jp/contests/abc439",
+        "start_time": "2026-01-03T21:00:00+09:00",
+        "duration_min": 100,
+        "rated_range": "~ 1999",
+        "status": "Upcoming"
+    },
+    {
         "name_ja": "AtCoder Grand Contest 076",
         "name_en": "AtCoder Grand Contest 076",
         "url": "https://atcoder.jp/contests/agc076",
@@ -52,6 +61,15 @@
         "duration_min": 100,
         "rated_range": "~ 1999",
         "status": "Upcoming"
+    },
+    {
+        "name_ja": "JOI 2025/2026 二次予選  過去問",
+        "name_en": "",
+        "url": "https://atcoder.jp/contests/joi2026yo2",
+        "start_time": "2025-12-07T13:00:00+09:00",
+        "duration_min": 180,
+        "rated_range": null,
+        "status": "Recent"
     },
     {
         "name_ja": "AtCoder Beginner Contest 435",
@@ -492,15 +510,6 @@
         "start_time": "2025-07-20T21:00:00+09:00",
         "duration_min": 150,
         "rated_range": "1600 ~ 2999",
-        "status": "Recent"
-    },
-    {
-        "name_ja": "日本レジストリサービス（JPRS）プログラミングコンテスト2025#2（AtCoder Beginner Contest 415）",
-        "name_en": "Japan Registry Services (JPRS) Programming Contest 2025#2 (AtCoder Beginner Contest 415)",
-        "url": "https://atcoder.jp/contests/abc415",
-        "start_time": "2025-07-19T21:00:00+09:00",
-        "duration_min": 100,
-        "rated_range": "~ 1999",
         "status": "Recent"
     }
 ]
