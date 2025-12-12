@@ -63,6 +63,24 @@
         "status": "Upcoming"
     },
     {
+        "name_ja": "第二回 AtCoder Japan Open -決勝-",
+        "name_en": "",
+        "url": "https://atcoder.jp/contests/ajo2025-final",
+        "start_time": "2025-12-13T10:00:00+09:00",
+        "duration_min": 240,
+        "rated_range": null,
+        "status": "Upcoming"
+    },
+    {
+        "name_ja": "第二回 AtCoder Japan Open -決勝-（オープンコンテスト）",
+        "name_en": "",
+        "url": "https://atcoder.jp/contests/ajo2025-final-open",
+        "start_time": "2025-12-13T10:00:00+09:00",
+        "duration_min": 240,
+        "rated_range": null,
+        "status": "Upcoming"
+    },
+    {
         "name_ja": "JOI 2025/2026 二次予選  過去問",
         "name_en": "",
         "url": "https://atcoder.jp/contests/joi2026yo2",
