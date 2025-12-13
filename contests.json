@@ -60,16 +60,7 @@
         "start_time": "2025-12-13T21:00:00+09:00",
         "duration_min": 100,
         "rated_range": "~ 1999",
-        "status": "Upcoming"
-    },
-    {
-        "name_ja": "第二回 AtCoder Japan Open -決勝-",
-        "name_en": "",
-        "url": "https://atcoder.jp/contests/ajo2025-final",
-        "start_time": "2025-12-13T10:00:00+09:00",
-        "duration_min": 240,
-        "rated_range": null,
-        "status": "Upcoming"
+        "status": "Recent"
     },
     {
         "name_ja": "第二回 AtCoder Japan Open -決勝-（オープンコンテスト）",
@@ -78,7 +69,16 @@
         "start_time": "2025-12-13T10:00:00+09:00",
         "duration_min": 240,
         "rated_range": null,
-        "status": "Upcoming"
+        "status": "Recent"
+    },
+    {
+        "name_ja": "第二回 AtCoder Japan Open -決勝-",
+        "name_en": "",
+        "url": "https://atcoder.jp/contests/ajo2025-final",
+        "start_time": "2025-12-13T10:00:00+09:00",
+        "duration_min": 240,
+        "rated_range": null,
+        "status": "Recent"
     },
     {
         "name_ja": "JOI 2025/2026 二次予選  過去問",
@@ -495,39 +495,12 @@
         "status": "Recent"
     },
     {
-        "name_ja": "CodeQUEEN 2025 決勝",
-        "name_en": "",
-        "url": "https://atcoder.jp/contests/codequeen2025-final-Public",
-        "start_time": "2025-08-02T13:00:00+09:00",
-        "duration_min": 120,
-        "rated_range": null,
-        "status": "Recent"
-    },
-    {
         "name_ja": "THIRD プログラミングコンテスト 2025 夏（AtCoder Heuristic Contest 051）",
         "name_en": "THIRD Programming Contest 2025 Summer（AtCoder Heuristic Contest 051）",
         "url": "https://atcoder.jp/contests/ahc051",
         "start_time": "2025-08-01T19:00:00+09:00",
         "duration_min": 14400,
         "rated_range": "All",
-        "status": "Recent"
-    },
-    {
-        "name_ja": "AtCoder Beginner Contest 416",
-        "name_en": "AtCoder Beginner Contest 416",
-        "url": "https://atcoder.jp/contests/abc416",
-        "start_time": "2025-07-26T21:00:00+09:00",
-        "duration_min": 100,
-        "rated_range": "~ 1999",
-        "status": "Recent"
-    },
-    {
-        "name_ja": "AtCoder Regular Contest 202 (Div. 1)",
-        "name_en": "AtCoder Regular Contest 202 (Div. 1)",
-        "url": "https://atcoder.jp/contests/arc202",
-        "start_time": "2025-07-20T21:00:00+09:00",
-        "duration_min": 150,
-        "rated_range": "1600 ~ 2999",
         "status": "Recent"
     }
 ]
