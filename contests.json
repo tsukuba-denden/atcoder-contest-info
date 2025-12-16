@@ -1,5 +1,14 @@
 [
     {
+        "name_ja": "RECRUIT 日本橋ハーフマラソン 2026冬（AtCoder Heuristic Contest 060）",
+        "name_en": "RECRUIT Nihonbashi Half Marathon 2026 Winter (AtCoder Heuristic Contest 060)",
+        "url": "https://atcoder.jp/contests/ahc060",
+        "start_time": "2026-02-01T19:00:00+09:00",
+        "duration_min": 240,
+        "rated_range": "All",
+        "status": "Upcoming"
+    },
+    {
         "name_ja": "AtCoder Beginner Contest 441 (Promotion of Engineer Guild Fes)",
         "name_en": "AtCoder Beginner Contest 441 (Promotion of Engineer Guild Fes)",
         "url": "https://atcoder.jp/contests/abc441",
