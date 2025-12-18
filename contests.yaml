@@ -48,6 +48,13 @@
   duration_min: 100
   rated_range: ~ 1999
   status: Upcoming
+- name_ja: Xmas Contest 2025
+  name_en: ''
+  url: https://atcoder.jp/contests/xmascon25
+  start_time: '2025-12-24T19:00:00+09:00'
+  duration_min: 240
+  rated_range: null
+  status: Upcoming
 - name_ja: AtCoder Grand Contest 075
   name_en: AtCoder Grand Contest 075
   url: https://atcoder.jp/contests/agc075
