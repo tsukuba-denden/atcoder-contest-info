@@ -6,6 +6,13 @@
   duration_min: 240
   rated_range: All
   status: Upcoming
+- name_ja: JPRSプログラミングコンテスト2026#1（AtCoder Beginner Contest 442）
+  name_en: JPRS Programming Contest 2026#1 (AtCoder Beginner Contest 442)
+  url: https://atcoder.jp/contests/abc442
+  start_time: '2026-01-24T21:00:00+09:00'
+  duration_min: 100
+  rated_range: ~ 1999
+  status: Upcoming
 - name_ja: AtCoder Beginner Contest 441 (Promotion of Engineer Guild Fes)
   name_en: AtCoder Beginner Contest 441 (Promotion of Engineer Guild Fes)
   url: https://atcoder.jp/contests/abc441
