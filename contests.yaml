@@ -68,7 +68,7 @@
   start_time: '2025-12-24T19:00:00+09:00'
   duration_min: 240
   rated_range: null
-  status: Upcoming
+  status: Recent
 - name_ja: AtCoder Grand Contest 075
   name_en: AtCoder Grand Contest 075
   url: https://atcoder.jp/contests/agc075
@@ -417,11 +417,4 @@
   start_time: '2025-08-16T21:00:00+09:00'
   duration_min: 100
   rated_range: ~ 1999
-  status: Recent
-- name_ja: THIRD プログラミングコンテスト 2025 夏（AtCoder Heuristic Contest 051）
-  name_en: THIRD Programming Contest 2025 Summer（AtCoder Heuristic Contest 051）
-  url: https://atcoder.jp/contests/ahc051
-  start_time: '2025-08-01T19:00:00+09:00'
-  duration_min: 14400
-  rated_range: All
   status: Recent
