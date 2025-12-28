@@ -78,7 +78,7 @@
         "start_time": "2025-12-28T21:00:00+09:00",
         "duration_min": 180,
         "rated_range": "2000 ~",
-        "status": "Upcoming"
+        "status": "Recent"
     },
     {
         "name_ja": "AtCoder Beginner Contest 438",
@@ -519,15 +519,6 @@
         "start_time": "2025-08-23T15:00:00+09:00",
         "duration_min": 240,
         "rated_range": "All",
-        "status": "Recent"
-    },
-    {
-        "name_ja": "AtCoder Regular Contest 204 (Div. 1)",
-        "name_en": "AtCoder Regular Contest 204 (Div. 1)",
-        "url": "https://atcoder.jp/contests/arc204",
-        "start_time": "2025-08-17T21:00:00+09:00",
-        "duration_min": 150,
-        "rated_range": "1600 ~ 2999",
         "status": "Recent"
     }
 ]
