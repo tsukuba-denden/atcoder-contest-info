@@ -1,3 +1,17 @@
+- name_ja: 第三回マスターズ選手権-予選-
+  name_en: The 3rd Masters Championship-qual-
+  url: https://atcoder.jp/contests/masters2026-qual
+  start_time: '2026-03-01T13:00:00+09:00'
+  duration_min: 360
+  rated_range: null
+  status: Upcoming
+- name_ja: AtCoder Beginner Contest 444
+  name_en: AtCoder Beginner Contest 444
+  url: https://atcoder.jp/contests/abc444
+  start_time: '2026-02-07T21:00:00+09:00'
+  duration_min: 100
+  rated_range: ~ 1999
+  status: Upcoming
 - name_ja: RECRUIT 日本橋ハーフマラソン 2026冬（AtCoder Heuristic Contest 060）
   name_en: RECRUIT Nihonbashi Half Marathon 2026 Winter (AtCoder Heuristic Contest
     060)
