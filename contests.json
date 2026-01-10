@@ -69,7 +69,7 @@
         "start_time": "2026-01-10T21:00:00+09:00",
         "duration_min": 100,
         "rated_range": "~ 1999",
-        "status": "Upcoming"
+        "status": "Recent"
     },
     {
         "name_ja": "AtCoder Heuristic Contest 059",
@@ -78,7 +78,7 @@
         "start_time": "2026-01-10T15:00:00+09:00",
         "duration_min": 240,
         "rated_range": "All",
-        "status": "Upcoming"
+        "status": "Recent"
     },
     {
         "name_ja": "AtCoder Beginner Contest 439（Promotion of AtCoderJobs）",
@@ -510,24 +510,6 @@
         "start_time": "2025-08-30T21:00:00+09:00",
         "duration_min": 100,
         "rated_range": "~ 1999",
-        "status": "Recent"
-    },
-    {
-        "name_ja": "AtCoder Beginner Contest 420",
-        "name_en": "AtCoder Beginner Contest 420",
-        "url": "https://atcoder.jp/contests/abc420",
-        "start_time": "2025-08-24T21:00:00+09:00",
-        "duration_min": 100,
-        "rated_range": "~ 1999",
-        "status": "Recent"
-    },
-    {
-        "name_ja": "第六回日本最強プログラマー学生選手権 -決勝-",
-        "name_en": "",
-        "url": "https://atcoder.jp/contests/jsc2025-final",
-        "start_time": "2025-08-24T14:10:00+09:00",
-        "duration_min": 180,
-        "rated_range": null,
         "status": "Recent"
     }
 ]
