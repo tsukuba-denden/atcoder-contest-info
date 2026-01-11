@@ -47,7 +47,7 @@
   start_time: '2026-01-11T21:00:00+09:00'
   duration_min: 120
   rated_range: 1200 ~ 2399
-  status: Upcoming
+  status: Recent
 - name_ja: AtCoder Beginner Contest 440 (Promotion of Engineer Guild Fes)
   name_en: AtCoder Beginner Contest 440
   url: https://atcoder.jp/contests/abc440
@@ -396,11 +396,4 @@
   start_time: '2025-09-06T21:00:00+09:00'
   duration_min: 120
   rated_range: 1200 ~ 2399
-  status: Recent
-- name_ja: AtCoder Beginner Contest 421
-  name_en: AtCoder Beginner Contest 421
-  url: https://atcoder.jp/contests/abc421
-  start_time: '2025-08-30T21:00:00+09:00'
-  duration_min: 100
-  rated_range: ~ 1999
   status: Recent
