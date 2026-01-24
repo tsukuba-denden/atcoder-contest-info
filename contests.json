@@ -96,7 +96,7 @@
         "start_time": "2026-01-24T21:00:00+09:00",
         "duration_min": 100,
         "rated_range": "~ 1999",
-        "status": "Upcoming"
+        "status": "Recent"
     },
     {
         "name_ja": "AtCoder Beginner Contest 441 (Promotion of Engineer Guild Fes)",
@@ -534,15 +534,6 @@
         "name_ja": "日本最強プログラマー学生選手権～Advance～",
         "name_en": "日本最強プログラマー学生選手権～Advance～",
         "url": "https://atcoder.jp/contests/jsc2025advance-final",
-        "start_time": "2025-09-07T13:10:00+09:00",
-        "duration_min": 100,
-        "rated_range": "~ 1999",
-        "status": "Recent"
-    },
-    {
-        "name_ja": "AtCoder Beginner Contest 422",
-        "name_en": "AtCoder Beginner Contest 422",
-        "url": "https://atcoder.jp/contests/abc422",
         "start_time": "2025-09-07T13:10:00+09:00",
         "duration_min": 100,
         "rated_range": "~ 1999",
