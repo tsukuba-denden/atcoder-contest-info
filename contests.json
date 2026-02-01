@@ -78,7 +78,7 @@
         "start_time": "2026-02-01T19:00:00+09:00",
         "duration_min": 240,
         "rated_range": "All",
-        "status": "Upcoming"
+        "status": "Recent"
     },
     {
         "name_ja": "デンソークリエイトプログラミングコンテスト2026（AtCoder Beginner Contest 443）",
@@ -519,15 +519,6 @@
         "start_time": "2025-09-14T21:00:00+09:00",
         "duration_min": 100,
         "rated_range": "~ 1999",
-        "status": "Recent"
-    },
-    {
-        "name_ja": "第12回 Asprova プログラミングコンテスト（AtCoder Heuristic Contest 053）",
-        "name_en": "12th Asprova Programming Contest（AtCoder Heuristic Contest 053）",
-        "url": "https://atcoder.jp/contests/ahc053",
-        "start_time": "2025-09-13T19:00:00+09:00",
-        "duration_min": 240,
-        "rated_range": "All",
         "status": "Recent"
     }
 ]
