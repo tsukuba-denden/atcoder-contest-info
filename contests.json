@@ -18,6 +18,15 @@
         "status": "Upcoming"
     },
     {
+        "name_ja": "AtCoder Regular Contest 215",
+        "name_en": "AtCoder Regular Contest 215",
+        "url": "https://atcoder.jp/contests/arc215",
+        "start_time": "2026-02-22T21:00:00+09:00",
+        "duration_min": 120,
+        "rated_range": "1200 ~ 2799",
+        "status": "Upcoming"
+    },
+    {
         "name_ja": "AtCoder Beginner Contest 446",
         "name_en": "AtCoder Beginner Contest 446",
         "url": "https://atcoder.jp/contests/abc446",
