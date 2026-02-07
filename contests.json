@@ -87,7 +87,7 @@
         "start_time": "2026-02-07T21:00:00+09:00",
         "duration_min": 100,
         "rated_range": "~ 1999",
-        "status": "Upcoming"
+        "status": "Recent"
     },
     {
         "name_ja": "RECRUIT 日本橋ハーフマラソン 2026冬（AtCoder Heuristic Contest 060）",
@@ -519,15 +519,6 @@
         "start_time": "2025-09-21T21:00:00+09:00",
         "duration_min": 120,
         "rated_range": "1200 ~ 2399",
-        "status": "Recent"
-    },
-    {
-        "name_ja": "AtCoder × Engineer Guild オンサイトコンテスト ～集結！高レート人材～予選（AtCoder Beginner Contest 424）",
-        "name_en": "AtCoder Beginner Contest 424",
-        "url": "https://atcoder.jp/contests/abc424",
-        "start_time": "2025-09-20T21:00:00+09:00",
-        "duration_min": 100,
-        "rated_range": "~ 1999",
         "status": "Recent"
     },
     {
