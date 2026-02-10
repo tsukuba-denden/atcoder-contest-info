@@ -89,7 +89,7 @@
   start_time: '2026-02-10T20:00:00+09:00'
   duration_min: 90
   rated_range: null
-  status: Upcoming
+  status: Recent
 - name_ja: AtCoder Weekday Contest 0001 Beta
   name_en: AtCoder Weekday Contest 0001 Beta
   url: https://atcoder.jp/contests/awc0001
@@ -430,13 +430,6 @@
   start_time: '2025-10-04T21:00:00+09:00'
   duration_min: 100
   rated_range: ~ 1999
-  status: Recent
-- name_ja: AtCoder Grand Contest 073
-  name_en: AtCoder Grand Contest 073
-  url: https://atcoder.jp/contests/agc073
-  start_time: '2025-09-28T21:00:00+09:00'
-  duration_min: 180
-  rated_range: 2000 ~
   status: Recent
 - name_ja: ALGO ARTIS プログラミングコンテスト2025 夏（AtCoder Heuristic Contest 054）
   name_en: ALGO ARTIS Programming Contest 2025 Summer（AtCoder Heuristic Contest 054）
