@@ -34,6 +34,41 @@
   duration_min: 100
   rated_range: ~ 1999
   status: Upcoming
+- name_ja: AtCoder Weekday Contest 0010 Beta
+  name_en: AtCoder Weekday Contest 0010 Beta
+  url: https://atcoder.jp/contests/awc0010
+  start_time: '2026-02-20T20:00:00+09:00'
+  duration_min: 60
+  rated_range: null
+  status: Upcoming
+- name_ja: AtCoder Weekday Contest 0009 Beta
+  name_en: AtCoder Weekday Contest 0009 Beta
+  url: https://atcoder.jp/contests/awc0009
+  start_time: '2026-02-19T20:00:00+09:00'
+  duration_min: 60
+  rated_range: null
+  status: Upcoming
+- name_ja: AtCoder Weekday Contest 0008 Beta
+  name_en: AtCoder Weekday Contest 0008 Beta
+  url: https://atcoder.jp/contests/awc0008
+  start_time: '2026-02-18T20:00:00+09:00'
+  duration_min: 60
+  rated_range: null
+  status: Upcoming
+- name_ja: AtCoder Weekday Contest 0007 Beta
+  name_en: AtCoder Weekday Contest 0007 Beta
+  url: https://atcoder.jp/contests/awc0007
+  start_time: '2026-02-17T20:00:00+09:00'
+  duration_min: 60
+  rated_range: null
+  status: Upcoming
+- name_ja: AtCoder Weekday Contest 0006 Beta
+  name_en: AtCoder Weekday Contest 0006 Beta
+  url: https://atcoder.jp/contests/awc0006
+  start_time: '2026-02-16T20:00:00+09:00'
+  duration_min: 60
+  rated_range: null
+  status: Upcoming
 - name_ja: 慶應義塾大学プログラミングコンテスト 2025
   name_en: ''
   url: https://atcoder.jp/contests/KeioPC2025
@@ -61,14 +96,7 @@
   start_time: '2026-02-13T20:00:00+09:00'
   duration_min: 90
   rated_range: null
-  status: Upcoming
-- name_ja: THIRD プログラミングコンテスト 2026 （AtCoder Heuristic Contest 061）
-  name_en: THIRD Programming Contest 2026（AtCoder Heuristic Contest 061）
-  url: https://atcoder.jp/contests/ahc061
-  start_time: '2026-02-13T19:00:00+09:00'
-  duration_min: 14400
-  rated_range: All
-  status: Upcoming
+  status: Recent
 - name_ja: AtCoder Weekday Contest 0004 Beta
   name_en: AtCoder Weekday Contest 0004 Beta
   url: https://atcoder.jp/contests/awc0004
@@ -416,11 +444,4 @@
   start_time: '2025-10-11T21:00:00+09:00'
   duration_min: 100
   rated_range: ~ 1999
-  status: Recent
-- name_ja: 第二回 AtCoder Japan Open -予選-  (AtCoder Regular Contest 207 (Div.1))
-  name_en: AtCoder Regular Contest 207 (Div.1)
-  url: https://atcoder.jp/contests/arc207
-  start_time: '2025-10-05T21:00:00+09:00'
-  duration_min: 150
-  rated_range: 1600 ~ 2999
   status: Recent
