@@ -75,7 +75,7 @@
   start_time: '2026-02-15T13:00:00+09:00'
   duration_min: 300
   rated_range: null
-  status: Upcoming
+  status: Recent
 - name_ja: AtCoder Beginner Contest 445
   name_en: AtCoder Beginner Contest 445
   url: https://atcoder.jp/contests/abc445
@@ -423,11 +423,4 @@
   start_time: '2025-10-18T21:30:00+09:00'
   duration_min: 100
   rated_range: ~ 1999
-  status: Recent
-- name_ja: AtCoder Regular Contest 208 (Div. 2)
-  name_en: AtCoder Regular Contest 208 (Div. 2)
-  url: https://atcoder.jp/contests/arc208
-  start_time: '2025-10-12T21:00:00+09:00'
-  duration_min: 120
-  rated_range: 1200 ~ 2399
   status: Recent
