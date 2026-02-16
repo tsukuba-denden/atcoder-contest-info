@@ -1,5 +1,23 @@
 [
     {
+        "name_ja": "AtCoder Beginner Contest 449",
+        "name_en": "AtCoder Beginner Contest 449",
+        "url": "https://atcoder.jp/contests/abc449",
+        "start_time": "2026-03-14T21:00:00+09:00",
+        "duration_min": 100,
+        "rated_range": "~ 1999",
+        "status": "Upcoming"
+    },
+    {
+        "name_ja": "ユニークビジョンプログラミングコンテスト2026 春（AtCoder Heuristic Contest 062）",
+        "name_en": "UNIQUE VISION Programming Contest 2026 Spring (AtCoder Heuristic Contest 062)",
+        "url": "https://atcoder.jp/contests/ahc062",
+        "start_time": "2026-03-14T15:00:00+09:00",
+        "duration_min": 240,
+        "rated_range": "All",
+        "status": "Upcoming"
+    },
+    {
         "name_ja": "AtCoder Beginner Contest 448",
         "name_en": "AtCoder Beginner Contest 448",
         "url": "https://atcoder.jp/contests/abc448",
@@ -87,7 +105,7 @@
         "start_time": "2026-02-16T20:00:00+09:00",
         "duration_min": 60,
         "rated_range": null,
-        "status": "Upcoming"
+        "status": "Recent"
     },
     {
         "name_ja": "慶應義塾大学プログラミングコンテスト 2025",
@@ -528,15 +546,6 @@
         "start_time": "2025-10-19T19:00:00+09:00",
         "duration_min": 240,
         "rated_range": "All",
-        "status": "Recent"
-    },
-    {
-        "name_ja": "AtCoder Beginner Contest 428（Promotion of AtCoderJobs）",
-        "name_en": "AtCoder Beginner Contest 428",
-        "url": "https://atcoder.jp/contests/abc428",
-        "start_time": "2025-10-18T21:30:00+09:00",
-        "duration_min": 100,
-        "rated_range": "~ 1999",
         "status": "Recent"
     }
 ]
