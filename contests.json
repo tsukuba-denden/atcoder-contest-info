@@ -63,51 +63,6 @@
         "status": "Upcoming"
     },
     {
-        "name_ja": "AtCoder Weekday Contest 0010 Beta",
-        "name_en": "AtCoder Weekday Contest 0010 Beta",
-        "url": "https://atcoder.jp/contests/awc0010",
-        "start_time": "2026-02-20T20:00:00+09:00",
-        "duration_min": 60,
-        "rated_range": null,
-        "status": "Upcoming"
-    },
-    {
-        "name_ja": "AtCoder Weekday Contest 0009 Beta",
-        "name_en": "AtCoder Weekday Contest 0009 Beta",
-        "url": "https://atcoder.jp/contests/awc0009",
-        "start_time": "2026-02-19T20:00:00+09:00",
-        "duration_min": 60,
-        "rated_range": null,
-        "status": "Upcoming"
-    },
-    {
-        "name_ja": "AtCoder Weekday Contest 0008 Beta",
-        "name_en": "AtCoder Weekday Contest 0008 Beta",
-        "url": "https://atcoder.jp/contests/awc0008",
-        "start_time": "2026-02-18T20:00:00+09:00",
-        "duration_min": 60,
-        "rated_range": null,
-        "status": "Upcoming"
-    },
-    {
-        "name_ja": "AtCoder Weekday Contest 0007 Beta",
-        "name_en": "AtCoder Weekday Contest 0007 Beta",
-        "url": "https://atcoder.jp/contests/awc0007",
-        "start_time": "2026-02-17T20:00:00+09:00",
-        "duration_min": 60,
-        "rated_range": null,
-        "status": "Recent"
-    },
-    {
-        "name_ja": "AtCoder Weekday Contest 0006 Beta",
-        "name_en": "AtCoder Weekday Contest 0006 Beta",
-        "url": "https://atcoder.jp/contests/awc0006",
-        "start_time": "2026-02-16T20:00:00+09:00",
-        "duration_min": 60,
-        "rated_range": null,
-        "status": "Recent"
-    },
-    {
         "name_ja": "慶應義塾大学プログラミングコンテスト 2025",
         "name_en": "",
         "url": "https://atcoder.jp/contests/KeioPC2025",
@@ -131,51 +86,6 @@
         "url": "https://atcoder.jp/contests/utpc2025",
         "start_time": "2026-02-14T13:00:00+09:00",
         "duration_min": 300,
-        "rated_range": null,
-        "status": "Recent"
-    },
-    {
-        "name_ja": "AtCoder Weekday Contest 0005 Beta",
-        "name_en": "AtCoder Weekday Contest 0005 Beta",
-        "url": "https://atcoder.jp/contests/awc0005",
-        "start_time": "2026-02-13T20:00:00+09:00",
-        "duration_min": 90,
-        "rated_range": null,
-        "status": "Recent"
-    },
-    {
-        "name_ja": "AtCoder Weekday Contest 0004 Beta",
-        "name_en": "AtCoder Weekday Contest 0004 Beta",
-        "url": "https://atcoder.jp/contests/awc0004",
-        "start_time": "2026-02-12T20:00:00+09:00",
-        "duration_min": 90,
-        "rated_range": null,
-        "status": "Recent"
-    },
-    {
-        "name_ja": "AtCoder Weekday Contest 0003 Beta",
-        "name_en": "AtCoder Weekday Contest 0003 Beta",
-        "url": "https://atcoder.jp/contests/awc0003",
-        "start_time": "2026-02-11T20:00:00+09:00",
-        "duration_min": 90,
-        "rated_range": null,
-        "status": "Recent"
-    },
-    {
-        "name_ja": "AtCoder Weekday Contest 0002 Beta",
-        "name_en": "AtCoder Weekday Contest 0002 Beta",
-        "url": "https://atcoder.jp/contests/awc0002",
-        "start_time": "2026-02-10T20:00:00+09:00",
-        "duration_min": 90,
-        "rated_range": null,
-        "status": "Recent"
-    },
-    {
-        "name_ja": "AtCoder Weekday Contest 0001 Beta",
-        "name_en": "AtCoder Weekday Contest 0001 Beta",
-        "url": "https://atcoder.jp/contests/awc0001",
-        "start_time": "2026-02-09T20:00:00+09:00",
-        "duration_min": 90,
         "rated_range": null,
         "status": "Recent"
     },
@@ -535,6 +445,69 @@
         "name_en": "Polaris.AI Programming Contest 2025（AtCoder Beginner Contest 429）",
         "url": "https://atcoder.jp/contests/abc429",
         "start_time": "2025-10-25T21:00:00+09:00",
+        "duration_min": 100,
+        "rated_range": "~ 1999",
+        "status": "Recent"
+    },
+    {
+        "name_ja": "RECRUIT 日本橋ハーフマラソン 2025秋（AtCoder Heuristic Contest 055）",
+        "name_en": "RECRUIT Nihonbashi Half Marathon 2025 Autumn （AtCoder Heuristic Contest 055）",
+        "url": "https://atcoder.jp/contests/ahc055",
+        "start_time": "2025-10-19T19:00:00+09:00",
+        "duration_min": 240,
+        "rated_range": "All",
+        "status": "Recent"
+    },
+    {
+        "name_ja": "AtCoder Beginner Contest 428（Promotion of AtCoderJobs）",
+        "name_en": "AtCoder Beginner Contest 428",
+        "url": "https://atcoder.jp/contests/abc428",
+        "start_time": "2025-10-18T21:30:00+09:00",
+        "duration_min": 100,
+        "rated_range": "~ 1999",
+        "status": "Recent"
+    },
+    {
+        "name_ja": "AtCoder Regular Contest 208 (Div. 2)",
+        "name_en": "AtCoder Regular Contest 208 (Div. 2)",
+        "url": "https://atcoder.jp/contests/arc208",
+        "start_time": "2025-10-12T21:00:00+09:00",
+        "duration_min": 120,
+        "rated_range": "1200 ~ 2399",
+        "status": "Recent"
+    },
+    {
+        "name_ja": "JOI 2025/2026 一次予選 (第2回) 過去問",
+        "name_en": "",
+        "url": "https://atcoder.jp/contests/joi2026yo1b",
+        "start_time": "2025-10-12T14:00:00+09:00",
+        "duration_min": 80,
+        "rated_range": null,
+        "status": "Recent"
+    },
+    {
+        "name_ja": "パナソニックグループ プログラミングコンテスト2025（AtCoder Beginner Contest 427）",
+        "name_en": "Panasonic Programming Contest 2025（AtCoder Beginner Contest 427）",
+        "url": "https://atcoder.jp/contests/abc427",
+        "start_time": "2025-10-11T21:00:00+09:00",
+        "duration_min": 100,
+        "rated_range": "~ 1999",
+        "status": "Recent"
+    },
+    {
+        "name_ja": "第二回 AtCoder Japan Open -予選-  (AtCoder Regular Contest 207 (Div.1))",
+        "name_en": "AtCoder Regular Contest 207 (Div.1)",
+        "url": "https://atcoder.jp/contests/arc207",
+        "start_time": "2025-10-05T21:00:00+09:00",
+        "duration_min": 150,
+        "rated_range": "1600 ~ 2999",
+        "status": "Recent"
+    },
+    {
+        "name_ja": "AtCoder Beginner Contest 426",
+        "name_en": "AtCoder Beginner Contest 426",
+        "url": "https://atcoder.jp/contests/abc426",
+        "start_time": "2025-10-04T21:00:00+09:00",
         "duration_min": 100,
         "rated_range": "~ 1999",
         "status": "Recent"
