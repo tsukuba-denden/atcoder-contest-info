@@ -48,7 +48,7 @@
   start_time: '2026-02-21T21:00:00+09:00'
   duration_min: 100
   rated_range: ~ 1999
-  status: Upcoming
+  status: Recent
 - name_ja: 慶應義塾大学プログラミングコンテスト 2025
   name_en: ''
   url: https://atcoder.jp/contests/KeioPC2025
@@ -396,11 +396,4 @@
   start_time: '2025-10-05T21:00:00+09:00'
   duration_min: 150
   rated_range: 1600 ~ 2999
-  status: Recent
-- name_ja: AtCoder Beginner Contest 426
-  name_en: AtCoder Beginner Contest 426
-  url: https://atcoder.jp/contests/abc426
-  start_time: '2025-10-04T21:00:00+09:00'
-  duration_min: 100
-  rated_range: ~ 1999
   status: Recent
