@@ -70,6 +70,13 @@
   duration_min: 300
   rated_range: null
   status: Recent
+- name_ja: THIRD プログラミングコンテスト 2026 （AtCoder Heuristic Contest 061）
+  name_en: THIRD Programming Contest 2026（AtCoder Heuristic Contest 061）
+  url: https://atcoder.jp/contests/ahc061
+  start_time: '2026-02-13T19:00:00+09:00'
+  duration_min: 14400
+  rated_range: All
+  status: Recent
 - name_ja: AtCoder Regular Contest 214
   name_en: AtCoder Regular Contest 214
   url: https://atcoder.jp/contests/arc214
@@ -382,11 +389,4 @@
   start_time: '2025-10-12T14:00:00+09:00'
   duration_min: 80
   rated_range: null
-  status: Recent
-- name_ja: パナソニックグループ プログラミングコンテスト2025（AtCoder Beginner Contest 427）
-  name_en: Panasonic Programming Contest 2025（AtCoder Beginner Contest 427）
-  url: https://atcoder.jp/contests/abc427
-  start_time: '2025-10-11T21:00:00+09:00'
-  duration_min: 100
-  rated_range: ~ 1999
   status: Recent
