@@ -18,6 +18,15 @@
         "status": "Upcoming"
     },
     {
+        "name_ja": "World Artificial Intelligence Programming Contest日本国内最終予選",
+        "name_en": "",
+        "url": "https://atcoder.jp/contests/waipc-qual",
+        "start_time": "2026-03-15T12:00:00+09:00",
+        "duration_min": 240,
+        "rated_range": null,
+        "status": "Upcoming"
+    },
+    {
         "name_ja": "AtCoder Beginner Contest 449",
         "name_en": "AtCoder Beginner Contest 449",
         "url": "https://atcoder.jp/contests/abc449",
