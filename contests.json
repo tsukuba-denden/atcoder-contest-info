@@ -36,6 +36,33 @@
         "status": "Upcoming"
     },
     {
+        "name_ja": "パ研合宿2025　第3日「Teamwork」",
+        "name_en": "",
+        "url": "https://atcoder.jp/contests/pakencamp-2025-day3",
+        "start_time": "2026-03-28T14:00:00+09:00",
+        "duration_min": 300,
+        "rated_range": null,
+        "status": "Upcoming"
+    },
+    {
+        "name_ja": "パ研合宿2025　第2日「パ研杯」",
+        "name_en": "",
+        "url": "https://atcoder.jp/contests/pakencamp-2025-day2",
+        "start_time": "2026-03-27T14:30:00+09:00",
+        "duration_min": 270,
+        "rated_range": null,
+        "status": "Upcoming"
+    },
+    {
+        "name_ja": "パ研合宿2025　第1日「SpeedRun」",
+        "name_en": "",
+        "url": "https://atcoder.jp/contests/pakencamp-2025-day1",
+        "start_time": "2026-03-26T14:00:00+09:00",
+        "duration_min": 150,
+        "rated_range": null,
+        "status": "Upcoming"
+    },
+    {
         "name_ja": "AtCoder Regular Contest++ 216",
         "name_en": "AtCoder Regular Contest++ 216",
         "url": "https://atcoder.jp/contests/arc216",
