@@ -1,5 +1,14 @@
 [
     {
+        "name_ja": "JR西日本・ALGO ARTIS プログラミングコンテスト（AtCoder Heuristic Contest 064）",
+        "name_en": "JR WEST and ALGO ARTIS Programming Contest  (AtCoder Heuristic Contest 064)",
+        "url": "https://atcoder.jp/contests/ahc064",
+        "start_time": "2026-04-26T15:00:00+09:00",
+        "duration_min": 240,
+        "rated_range": "All",
+        "status": "Upcoming"
+    },
+    {
         "name_ja": "Ｓｋｙ株式会社プログラミングコンテスト2026（AtCoder Beginner Contest 455）",
         "name_en": "Ｓｋｙ Inc, Programming Contest 2026 (AtCoder Beginner Contest 455)",
         "url": "https://atcoder.jp/contests/abc455",
@@ -105,6 +114,15 @@
         "start_time": "2026-03-22T21:00:00+09:00",
         "duration_min": 150,
         "rated_range": "1600 ~ 2999",
+        "status": "Recent"
+    },
+    {
+        "name_ja": "JOIG 2025/2026 ファイナルステージ 過去問",
+        "name_en": "",
+        "url": "https://atcoder.jp/contests/joig2026final",
+        "start_time": "2026-03-22T09:00:00+09:00",
+        "duration_min": 300,
+        "rated_range": null,
         "status": "Recent"
     },
     {
@@ -525,15 +543,6 @@
         "name_ja": "東京科学大学プログラミングコンテスト2025 (Div. 2)",
         "name_en": "",
         "url": "https://atcoder.jp/contests/stpc2025_2",
-        "start_time": "2025-11-08T13:00:00+09:00",
-        "duration_min": 300,
-        "rated_range": null,
-        "status": "Recent"
-    },
-    {
-        "name_ja": "東京科学大学プログラミングコンテスト2025 (Div. 1)",
-        "name_en": "",
-        "url": "https://atcoder.jp/contests/stpc2025_1",
         "start_time": "2025-11-08T13:00:00+09:00",
         "duration_min": 300,
         "rated_range": null,
