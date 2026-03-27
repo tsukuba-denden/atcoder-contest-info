@@ -20,6 +20,20 @@
   duration_min: 100
   rated_range: ~ 1999
   status: Upcoming
+- name_ja: 第三回マスターズ選手権 -決勝-
+  name_en: ''
+  url: https://atcoder.jp/contests/masters2026-final
+  start_time: '2026-04-18T11:10:00+09:00'
+  duration_min: 360
+  rated_range: null
+  status: Upcoming
+- name_ja: 第三回マスターズ選手権-決勝-(オープンコンテスト)
+  name_en: ''
+  url: https://atcoder.jp/contests/masters2026-final-open
+  start_time: '2026-04-18T11:10:00+09:00'
+  duration_min: 360
+  rated_range: null
+  status: Upcoming
 - name_ja: AtCoder Beginner Contest 453
   name_en: AtCoder Beginner Contest 453
   url: https://atcoder.jp/contests/abc453
@@ -75,7 +89,7 @@
   start_time: '2026-03-27T14:30:00+09:00'
   duration_min: 270
   rated_range: null
-  status: Upcoming
+  status: Recent
 - name_ja: パ研合宿2025　第1日「SpeedRun」
   name_en: ''
   url: https://atcoder.jp/contests/pakencamp-2025-day1
@@ -417,13 +431,6 @@
   start_time: '2025-11-09T21:00:00+09:00'
   duration_min: 150
   rated_range: 1600 ~ 2999
-  status: Recent
-- name_ja: トヨタシステムズプログラミングコンテスト2025（AtCoder Beginner Contest 431）
-  name_en: TOYOTA SYSTEMS Programming Contest 2025（AtCoder Beginner Contest 431)
-  url: https://atcoder.jp/contests/abc431
-  start_time: '2025-11-08T21:00:00+09:00'
-  duration_min: 100
-  rated_range: ~ 1999
   status: Recent
 - name_ja: HACK TO THE FUTURE 2026 （AtCoder Heuristic Contest 056）
   name_en: HACK TO THE FUTURE 2026 （AtCoder Heuristic Contest 056）
