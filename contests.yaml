@@ -75,14 +75,14 @@
   start_time: '2026-03-28T21:00:00+09:00'
   duration_min: 100
   rated_range: ~ 1999
-  status: Upcoming
+  status: Recent
 - name_ja: パ研合宿2025　第3日「Teamwork」
   name_en: ''
   url: https://atcoder.jp/contests/pakencamp-2025-day3
   start_time: '2026-03-28T14:00:00+09:00'
   duration_min: 300
   rated_range: null
-  status: Upcoming
+  status: Recent
 - name_ja: パ研合宿2025　第2日「パ研杯」
   name_en: ''
   url: https://atcoder.jp/contests/pakencamp-2025-day2
@@ -417,20 +417,6 @@
   start_time: '2025-11-15T21:00:00+09:00'
   duration_min: 100
   rated_range: ~ 1999
-  status: Recent
-- name_ja: JOI 2025/2026 一次予選 (第3回) 過去問
-  name_en: ''
-  url: https://atcoder.jp/contests/joi2026yo1c
-  start_time: '2025-11-15T14:00:00+09:00'
-  duration_min: 80
-  rated_range: null
-  status: Recent
-- name_ja: AtCoder Regular Contest 209 (Div. 1)
-  name_en: AtCoder Regular Contest 209 (Div. 1)
-  url: https://atcoder.jp/contests/arc209
-  start_time: '2025-11-09T21:00:00+09:00'
-  duration_min: 150
-  rated_range: 1600 ~ 2999
   status: Recent
 - name_ja: HACK TO THE FUTURE 2026 （AtCoder Heuristic Contest 056）
   name_en: HACK TO THE FUTURE 2026 （AtCoder Heuristic Contest 056）
