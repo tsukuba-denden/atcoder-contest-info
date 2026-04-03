@@ -72,15 +72,6 @@
         "status": "Upcoming"
     },
     {
-        "name_ja": "AtCoder Heuristic Contest 063",
-        "name_en": "AtCoder Heuristic Contest 063",
-        "url": "https://atcoder.jp/contests/ahc063",
-        "start_time": "2026-04-03T19:00:00+09:00",
-        "duration_min": 14400,
-        "rated_range": "All",
-        "status": "Upcoming"
-    },
-    {
         "name_ja": "AtCoder Grand Contest 077",
         "name_en": "AtCoder Grand Contest 077",
         "url": "https://atcoder.jp/contests/agc077",
