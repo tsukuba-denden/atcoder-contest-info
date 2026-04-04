@@ -69,7 +69,7 @@
         "start_time": "2026-04-04T21:00:00+09:00",
         "duration_min": 100,
         "rated_range": "~ 1999",
-        "status": "Upcoming"
+        "status": "Recent"
     },
     {
         "name_ja": "AtCoder Grand Contest 077",
@@ -501,15 +501,6 @@
         "start_time": "2025-11-22T21:00:00+09:00",
         "duration_min": 100,
         "rated_range": "~ 1999",
-        "status": "Recent"
-    },
-    {
-        "name_ja": "estie プログラミングコンテスト2025 （AtCoder Regular Contest 210）",
-        "name_en": "AtCoder Regular Contest 210",
-        "url": "https://atcoder.jp/contests/arc210",
-        "start_time": "2025-11-16T21:00:00+09:00",
-        "duration_min": 120,
-        "rated_range": "1200 ~ 2799",
         "status": "Recent"
     },
     {
