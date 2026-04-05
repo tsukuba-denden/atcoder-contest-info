@@ -60,7 +60,7 @@
         "start_time": "2026-04-05T21:00:00+09:00",
         "duration_min": 120,
         "rated_range": "1200 ~ 2799",
-        "status": "Upcoming"
+        "status": "Recent"
     },
     {
         "name_ja": "AtCoder Beginner Contest 452",
@@ -501,15 +501,6 @@
         "start_time": "2025-11-22T21:00:00+09:00",
         "duration_min": 100,
         "rated_range": "~ 1999",
-        "status": "Recent"
-    },
-    {
-        "name_ja": "HACK TO THE FUTURE 2026 （AtCoder Heuristic Contest 056）",
-        "name_en": "HACK TO THE FUTURE 2026 （AtCoder Heuristic Contest 056）",
-        "url": "https://atcoder.jp/contests/ahc056",
-        "start_time": "2025-11-07T19:00:00+09:00",
-        "duration_min": 14400,
-        "rated_range": "All",
         "status": "Recent"
     }
 ]
