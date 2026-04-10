@@ -1,5 +1,14 @@
 [
     {
+        "name_ja": "Polaris.AI プログラミングコンテスト 2026（AtCoder Beginner Contest 457）",
+        "name_en": "Polaris.AI Programming Contest 2026（AtCoder Beginner Contest 457）",
+        "url": "https://atcoder.jp/contests/abc457",
+        "start_time": "2026-05-09T21:00:00+09:00",
+        "duration_min": 100,
+        "rated_range": "~ 1999",
+        "status": "Upcoming"
+    },
+    {
         "name_ja": "JR西日本・ALGO ARTIS プログラミングコンテスト（AtCoder Heuristic Contest 064）",
         "name_en": "JR WEST and ALGO ARTIS Programming Contest  (AtCoder Heuristic Contest 064)",
         "url": "https://atcoder.jp/contests/ahc064",
