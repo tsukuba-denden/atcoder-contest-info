@@ -9,6 +9,15 @@
         "status": "Upcoming"
     },
     {
+        "name_ja": "AtCoder Regular Contest 218",
+        "name_en": "AtCoder Regular Contest 218",
+        "url": "https://atcoder.jp/contests/arc218",
+        "start_time": "2026-05-03T21:00:00+09:00",
+        "duration_min": 120,
+        "rated_range": "1200 ~ 2799",
+        "status": "Upcoming"
+    },
+    {
         "name_ja": "JR西日本・ALGO ARTIS プログラミングコンテスト（AtCoder Heuristic Contest 064）",
         "name_en": "JR WEST and ALGO ARTIS Programming Contest  (AtCoder Heuristic Contest 064)",
         "url": "https://atcoder.jp/contests/ahc064",
@@ -60,7 +69,7 @@
         "start_time": "2026-04-11T21:00:00+09:00",
         "duration_min": 100,
         "rated_range": "~ 1999",
-        "status": "Upcoming"
+        "status": "Recent"
     },
     {
         "name_ja": "AtCoder Regular Contest 217",
@@ -501,15 +510,6 @@
         "start_time": "2025-11-29T15:00:00+09:00",
         "duration_min": 240,
         "rated_range": "All",
-        "status": "Recent"
-    },
-    {
-        "name_ja": "AtCoder Beginner Contest 433",
-        "name_en": "AtCoder Beginner Contest 433",
-        "url": "https://atcoder.jp/contests/abc433",
-        "start_time": "2025-11-22T21:00:00+09:00",
-        "duration_min": 100,
-        "rated_range": "~ 1999",
         "status": "Recent"
     }
 ]
