@@ -1,5 +1,14 @@
 [
     {
+        "name_ja": "CodeQUEEN 2026 予選 (AtCoder Beginner Contest 462)",
+        "name_en": "CodeQUEEN 2026 -qual- (AtCoder Beginner Contest 462)",
+        "url": "https://atcoder.jp/contests/abc462",
+        "start_time": "2026-06-13T21:00:00+09:00",
+        "duration_min": 100,
+        "rated_range": "~ 1999",
+        "status": "Upcoming"
+    },
+    {
         "name_ja": "Polaris.AI プログラミングコンテスト 2026（AtCoder Beginner Contest 457）",
         "name_en": "Polaris.AI Programming Contest 2026（AtCoder Beginner Contest 457）",
         "url": "https://atcoder.jp/contests/abc457",
@@ -15,6 +24,15 @@
         "start_time": "2026-05-03T21:00:00+09:00",
         "duration_min": 120,
         "rated_range": "1200 ~ 2799",
+        "status": "Upcoming"
+    },
+    {
+        "name_ja": "AtCoder Beginner Contest 456（Promotion of AtCoder Career Design DAY）",
+        "name_en": "AtCoder Beginner Contest 456",
+        "url": "https://atcoder.jp/contests/abc456",
+        "start_time": "2026-05-02T21:00:00+09:00",
+        "duration_min": 100,
+        "rated_range": "~ 1999",
         "status": "Upcoming"
     },
     {
@@ -87,6 +105,15 @@
         "start_time": "2026-04-04T21:00:00+09:00",
         "duration_min": 100,
         "rated_range": "~ 1999",
+        "status": "Recent"
+    },
+    {
+        "name_ja": "AtCoder Heuristic Contest 063",
+        "name_en": "AtCoder Heuristic Contest 063",
+        "url": "https://atcoder.jp/contests/ahc063",
+        "start_time": "2026-04-03T19:00:00+09:00",
+        "duration_min": 14400,
+        "rated_range": "All",
         "status": "Recent"
     },
     {
@@ -501,15 +528,6 @@
         "start_time": "2025-11-29T21:00:00+09:00",
         "duration_min": 100,
         "rated_range": "~ 1999",
-        "status": "Recent"
-    },
-    {
-        "name_ja": "AtCoder Heuristic Contest 057",
-        "name_en": "AtCoder Heuristic Contest 057",
-        "url": "https://atcoder.jp/contests/ahc057",
-        "start_time": "2025-11-29T15:00:00+09:00",
-        "duration_min": 240,
-        "rated_range": "All",
         "status": "Recent"
     }
 ]
