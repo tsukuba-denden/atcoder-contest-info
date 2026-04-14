@@ -12,6 +12,13 @@
   duration_min: 100
   rated_range: ~ 1999
   status: Upcoming
+- name_ja: Next DP Contest
+  name_en: Next DP Contest
+  url: https://atcoder.jp/contests/ndpc2026
+  start_time: '2026-05-05T13:00:00+09:00'
+  duration_min: 300
+  rated_range: null
+  status: Upcoming
 - name_ja: AtCoder Regular Contest 218
   name_en: AtCoder Regular Contest 218
   url: https://atcoder.jp/contests/arc218
