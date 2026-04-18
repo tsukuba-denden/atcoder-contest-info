@@ -87,25 +87,25 @@
         "start_time": "2026-04-18T21:00:00+09:00",
         "duration_min": 100,
         "rated_range": "~ 1999",
-        "status": "Upcoming"
-    },
-    {
-        "name_ja": "第三回マスターズ選手権 -決勝-",
-        "name_en": "",
-        "url": "https://atcoder.jp/contests/masters2026-final",
-        "start_time": "2026-04-18T11:10:00+09:00",
-        "duration_min": 360,
-        "rated_range": null,
-        "status": "Upcoming"
+        "status": "Recent"
     },
     {
         "name_ja": "第三回マスターズ選手権-決勝-(オープンコンテスト)",
         "name_en": "",
         "url": "https://atcoder.jp/contests/masters2026-final-open",
-        "start_time": "2026-04-18T11:10:00+09:00",
+        "start_time": "2026-04-18T11:40:00+09:00",
         "duration_min": 360,
         "rated_range": null,
-        "status": "Upcoming"
+        "status": "Recent"
+    },
+    {
+        "name_ja": "第三回マスターズ選手権 -決勝-",
+        "name_en": "",
+        "url": "https://atcoder.jp/contests/masters2026-final",
+        "start_time": "2026-04-18T11:40:00+09:00",
+        "duration_min": 360,
+        "rated_range": null,
+        "status": "Recent"
     },
     {
         "name_ja": "AtCoder Beginner Contest 453",
@@ -528,33 +528,6 @@
         "start_time": "2025-12-07T13:00:00+09:00",
         "duration_min": 180,
         "rated_range": null,
-        "status": "Recent"
-    },
-    {
-        "name_ja": "AtCoder Beginner Contest 435",
-        "name_en": "AtCoder Beginner Contest 435",
-        "url": "https://atcoder.jp/contests/abc435",
-        "start_time": "2025-12-06T21:00:00+09:00",
-        "duration_min": 100,
-        "rated_range": "~ 1999",
-        "status": "Recent"
-    },
-    {
-        "name_ja": "AtCoder Regular Contest 211 (Div. 2)",
-        "name_en": "AtCoder Regular Contest 211 (Div. 2)",
-        "url": "https://atcoder.jp/contests/arc211",
-        "start_time": "2025-11-30T21:00:00+09:00",
-        "duration_min": 120,
-        "rated_range": "1200 ~ 2399",
-        "status": "Recent"
-    },
-    {
-        "name_ja": "Ｓｋｙ株式会社プログラミングコンテスト2025（AtCoder Beginner Contest 434）",
-        "name_en": "Ｓｋｙ Inc, Programming Contest 2025 (AtCoder Beginner Contest 434)",
-        "url": "https://atcoder.jp/contests/abc434",
-        "start_time": "2025-11-29T21:00:00+09:00",
-        "duration_min": 100,
-        "rated_range": "~ 1999",
         "status": "Recent"
     }
 ]
