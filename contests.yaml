@@ -19,6 +19,13 @@
   duration_min: 100
   rated_range: ~ 1999
   status: Upcoming
+- name_ja: AtCoder Heuristic Contest 065
+  name_en: AtCoder Heuristic Contest 065
+  url: https://atcoder.jp/contests/ahc065
+  start_time: '2026-05-16T15:00:00+09:00'
+  duration_min: 240
+  rated_range: All
+  status: Upcoming
 - name_ja: Polaris.AI プログラミングコンテスト 2026（AtCoder Beginner Contest 457）
   name_en: Polaris.AI Programming Contest 2026（AtCoder Beginner Contest 457）
   url: https://atcoder.jp/contests/abc457
