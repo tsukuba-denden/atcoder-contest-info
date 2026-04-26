@@ -27,6 +27,15 @@
         "status": "Upcoming"
     },
     {
+        "name_ja": "AtCoder Regular Contest++ 220",
+        "name_en": "AtCoder Regular Contest++ 220",
+        "url": "https://atcoder.jp/contests/arc220",
+        "start_time": "2026-05-17T21:00:00+09:00",
+        "duration_min": 120,
+        "rated_range": "1600 ~ 2999",
+        "status": "Upcoming"
+    },
+    {
         "name_ja": "SMBCプログラミングコンテスト #1（AtCoder Beginner Contest 458）",
         "name_en": "",
         "url": "https://atcoder.jp/contests/abc458",
@@ -42,6 +51,15 @@
         "start_time": "2026-05-16T15:00:00+09:00",
         "duration_min": 240,
         "rated_range": "All",
+        "status": "Upcoming"
+    },
+    {
+        "name_ja": "AtCoder Regular Contest-- 219",
+        "name_en": "AtCoder Regular Contest-- 219",
+        "url": "https://atcoder.jp/contests/arc219",
+        "start_time": "2026-05-10T21:00:00+09:00",
+        "duration_min": 120,
+        "rated_range": "800 ~ 2399",
         "status": "Upcoming"
     },
     {
@@ -87,7 +105,7 @@
         "start_time": "2026-04-26T15:00:00+09:00",
         "duration_min": 240,
         "rated_range": "All",
-        "status": "Upcoming"
+        "status": "Recent"
     },
     {
         "name_ja": "Ｓｋｙ株式会社プログラミングコンテスト2026（AtCoder Beginner Contest 455）",
@@ -525,15 +543,6 @@
         "name_ja": "第二回 AtCoder Japan Open -決勝-（オープンコンテスト）",
         "name_en": "",
         "url": "https://atcoder.jp/contests/ajo2025-final-open",
-        "start_time": "2025-12-13T10:00:00+09:00",
-        "duration_min": 240,
-        "rated_range": null,
-        "status": "Recent"
-    },
-    {
-        "name_ja": "第二回 AtCoder Japan Open -決勝-",
-        "name_en": "",
-        "url": "https://atcoder.jp/contests/ajo2025-final",
         "start_time": "2025-12-13T10:00:00+09:00",
         "duration_min": 240,
         "rated_range": null,
