@@ -89,7 +89,7 @@
   start_time: '2026-05-03T21:00:00+09:00'
   duration_min: 120
   rated_range: 1200 ~ 2799
-  status: Upcoming
+  status: Recent
 - name_ja: AtCoder Beginner Contest 456（Promotion of AtCoder Career Design DAY）
   name_en: AtCoder Beginner Contest 456
   url: https://atcoder.jp/contests/abc456
@@ -438,11 +438,4 @@
   start_time: '2025-12-14T15:00:00+09:00'
   duration_min: 240
   rated_range: All
-  status: Recent
-- name_ja: AtCoder Beginner Contest 436
-  name_en: AtCoder Beginner Contest 436
-  url: https://atcoder.jp/contests/abc436
-  start_time: '2025-12-13T21:00:00+09:00'
-  duration_min: 100
-  rated_range: ~ 1999
   status: Recent
