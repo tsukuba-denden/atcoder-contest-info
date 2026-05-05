@@ -82,7 +82,7 @@
   start_time: '2026-05-05T13:00:00+09:00'
   duration_min: 300
   rated_range: null
-  status: Upcoming
+  status: Recent
 - name_ja: AtCoder Regular Contest 218
   name_en: AtCoder Regular Contest 218
   url: https://atcoder.jp/contests/arc218
@@ -430,12 +430,4 @@
   start_time: '2025-12-20T21:00:00+09:00'
   duration_min: 100
   rated_range: ~ 1999
-  status: Recent
-- name_ja: ALGO ARTIS プログラミングコンテスト2025 師走（AtCoder Heuristic Contest 058）
-  name_en: ALGO ARTIS Programming Contest 2025 December（AtCoder Heuristic Contest
-    058）
-  url: https://atcoder.jp/contests/ahc058
-  start_time: '2025-12-14T15:00:00+09:00'
-  duration_min: 240
-  rated_range: All
   status: Recent
