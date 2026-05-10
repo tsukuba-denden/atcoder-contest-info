@@ -46,7 +46,7 @@
     },
     {
         "name_ja": "AtCoder Beginner Contest 460",
-        "name_en": "",
+        "name_en": "AtCoder Beginner Contest 460",
         "url": "https://atcoder.jp/contests/abc460",
         "start_time": "2026-05-30T21:00:00+09:00",
         "duration_min": 100,
@@ -82,7 +82,7 @@
     },
     {
         "name_ja": "SMBCプログラミングコンテスト #1（AtCoder Beginner Contest 458）",
-        "name_en": "",
+        "name_en": "AtCoder Beginner Contest 458",
         "url": "https://atcoder.jp/contests/abc458",
         "start_time": "2026-05-16T21:00:00+09:00",
         "duration_min": 100,
@@ -105,7 +105,7 @@
         "start_time": "2026-05-10T21:00:00+09:00",
         "duration_min": 120,
         "rated_range": "800 ~ 2399",
-        "status": "Upcoming"
+        "status": "Recent"
     },
     {
         "name_ja": "Polaris.AI プログラミングコンテスト 2026（AtCoder Beginner Contest 457）",
@@ -546,15 +546,6 @@
         "start_time": "2025-12-24T19:00:00+09:00",
         "duration_min": 240,
         "rated_range": null,
-        "status": "Recent"
-    },
-    {
-        "name_ja": "AtCoder Grand Contest 075",
-        "name_en": "AtCoder Grand Contest 075",
-        "url": "https://atcoder.jp/contests/agc075",
-        "start_time": "2025-12-21T21:00:00+09:00",
-        "duration_min": 180,
-        "rated_range": "2000 ~",
         "status": "Recent"
     }
 ]
