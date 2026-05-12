@@ -27,15 +27,6 @@
         "status": "Upcoming"
     },
     {
-        "name_ja": "AtCoder Beginner Contest 461",
-        "name_en": "AtCoder Beginner Contest 461",
-        "url": "https://atcoder.jp/contests/abc461",
-        "start_time": "2026-06-06T21:00:00+09:00",
-        "duration_min": 100,
-        "rated_range": "~ 1999",
-        "status": "Upcoming"
-    },
-    {
         "name_ja": "AtCoder Regular Contest++ 221",
         "name_en": "AtCoder Regular Contest++ 221",
         "url": "https://atcoder.jp/contests/arc221",
