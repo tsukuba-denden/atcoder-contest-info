@@ -55,6 +55,20 @@
   duration_min: 100
   rated_range: ~ 1999
   status: Upcoming
+- name_ja: AtCoder 企業対抗リーグ 2026 第1戦
+  name_en: ''
+  url: https://atcoder.jp/contests/c-league2026-1
+  start_time: '2026-05-22T20:00:00+09:00'
+  duration_min: 120
+  rated_range: null
+  status: Upcoming
+- name_ja: AtCoder 企業対抗リーグ 2026 第1戦(オープンコンテスト)
+  name_en: ''
+  url: https://atcoder.jp/contests/c-league2026-1-open
+  start_time: '2026-05-22T20:00:00+09:00'
+  duration_min: 120
+  rated_range: null
+  status: Upcoming
 - name_ja: AtCoder Regular Contest++ 220
   name_en: AtCoder Regular Contest++ 220
   url: https://atcoder.jp/contests/arc220
