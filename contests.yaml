@@ -82,14 +82,14 @@
   start_time: '2026-05-16T21:00:00+09:00'
   duration_min: 100
   rated_range: ~ 1999
-  status: Upcoming
+  status: Recent
 - name_ja: AtCoder Heuristic Contest 065
   name_en: AtCoder Heuristic Contest 065
   url: https://atcoder.jp/contests/ahc065
   start_time: '2026-05-16T15:00:00+09:00'
   duration_min: 240
   rated_range: All
-  status: Upcoming
+  status: Recent
 - name_ja: AtCoder Regular Contest-- 219
   name_en: AtCoder Regular Contest-- 219
   url: https://atcoder.jp/contests/arc219
@@ -429,18 +429,4 @@
   start_time: '2025-12-28T21:00:00+09:00'
   duration_min: 180
   rated_range: 2000 ~
-  status: Recent
-- name_ja: AtCoder Beginner Contest 438
-  name_en: AtCoder Beginner Contest 438
-  url: https://atcoder.jp/contests/abc438
-  start_time: '2025-12-27T21:00:00+09:00'
-  duration_min: 100
-  rated_range: ~ 1999
-  status: Recent
-- name_ja: Xmas Contest 2025
-  name_en: ''
-  url: https://atcoder.jp/contests/xmascon25
-  start_time: '2025-12-24T19:00:00+09:00'
-  duration_min: 240
-  rated_range: null
   status: Recent
