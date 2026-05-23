@@ -78,7 +78,7 @@
         "start_time": "2026-05-23T21:00:00+09:00",
         "duration_min": 100,
         "rated_range": "~ 1999",
-        "status": "Upcoming"
+        "status": "Recent"
     },
     {
         "name_ja": "AtCoder 企業対抗リーグ 2026 第1戦(オープンコンテスト)",
@@ -519,15 +519,6 @@
         "start_time": "2026-01-25T21:00:00+09:00",
         "duration_min": 150,
         "rated_range": "1600 ~ 2999",
-        "status": "Recent"
-    },
-    {
-        "name_ja": "JPRSプログラミングコンテスト2026#1（AtCoder Beginner Contest 442）",
-        "name_en": "JPRS Programming Contest 2026#1 (AtCoder Beginner Contest 442)",
-        "url": "https://atcoder.jp/contests/abc442",
-        "start_time": "2026-01-24T21:00:00+09:00",
-        "duration_min": 100,
-        "rated_range": "~ 1999",
         "status": "Recent"
     }
 ]
