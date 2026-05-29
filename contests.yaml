@@ -47,13 +47,6 @@
   duration_min: 100
   rated_range: ~ 1999
   status: Upcoming
-- name_ja: AtCoder Heuristic Contest 066
-  name_en: AtCoder Heuristic Contest 066
-  url: https://atcoder.jp/contests/ahc066
-  start_time: '2026-05-29T19:00:00+09:00'
-  duration_min: 14400
-  rated_range: All
-  status: Upcoming
 - name_ja: 東京海上日動プログラミングコンテスト2026（AtCoder Beginner Contest 459）
   name_en: Tokio Marine & Nichido Fire Insurance Programming Contest 2026  (AtCoder
     Beginner Contest 459)
