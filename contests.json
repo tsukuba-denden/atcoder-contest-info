@@ -51,7 +51,7 @@
         "start_time": "2026-05-31T21:00:00+09:00",
         "duration_min": 150,
         "rated_range": "1600 ~ 2999",
-        "status": "Upcoming"
+        "status": "Recent"
     },
     {
         "name_ja": "AtCoder Beginner Contest 460",
@@ -492,15 +492,6 @@
         "start_time": "2026-02-01T13:00:00+09:00",
         "duration_min": 240,
         "rated_range": null,
-        "status": "Recent"
-    },
-    {
-        "name_ja": "デンソークリエイトプログラミングコンテスト2026（AtCoder Beginner Contest 443）",
-        "name_en": "Denso Create Programming Contest 2026（AtCoder Beginner Contest 443）",
-        "url": "https://atcoder.jp/contests/abc443",
-        "start_time": "2026-01-31T21:00:00+09:00",
-        "duration_min": 100,
-        "rated_range": "~ 1999",
         "status": "Recent"
     }
 ]
