@@ -1,9 +1,23 @@
+- name_ja: AtCoder Beginner Contest 465
+  name_en: AtCoder Beginner Contest 465
+  url: https://atcoder.jp/contests/abc465
+  start_time: '2026-07-04T21:00:00+09:00'
+  duration_min: 100
+  rated_range: ~ 1999
+  status: Upcoming
 - name_ja: 第七回日本最強プログラマー学生選手権～Advance～ -予選- （AtCoder Beginner Contest 464）
   name_en: 第七回日本最強プログラマー学生選手権～Advance～ -予選- （AtCoder Beginner Contest 464）
   url: https://atcoder.jp/contests/abc464
   start_time: '2026-06-27T21:00:00+09:00'
   duration_min: 100
   rated_range: ~ 1999
+  status: Upcoming
+- name_ja: AtCoder Heuristic Contest 067
+  name_en: AtCoder Heuristic Contest 067
+  url: https://atcoder.jp/contests/ahc067
+  start_time: '2026-06-21T19:00:00+09:00'
+  duration_min: 240
+  rated_range: All
   status: Upcoming
 - name_ja: AtCoder Beginner Contest 463
   name_en: AtCoder Beginner Contest 463
