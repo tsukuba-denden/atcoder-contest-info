@@ -46,7 +46,7 @@
   start_time: '2026-06-14T21:00:00+09:00'
   duration_min: 120
   rated_range: 1200 ~ 2799
-  status: Upcoming
+  status: Recent
 - name_ja: CodeQUEEN 2026 予選 (AtCoder Beginner Contest 462)
   name_en: CodeQUEEN 2026 -qual- (AtCoder Beginner Contest 462)
   url: https://atcoder.jp/contests/abc462
@@ -393,11 +393,4 @@
   start_time: '2026-02-13T19:00:00+09:00'
   duration_min: 14400
   rated_range: All
-  status: Recent
-- name_ja: AtCoder Regular Contest 214
-  name_en: AtCoder Regular Contest 214
-  url: https://atcoder.jp/contests/arc214
-  start_time: '2026-02-08T21:00:00+09:00'
-  duration_min: 120
-  rated_range: 1200 ~ 2799
   status: Recent
