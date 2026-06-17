@@ -5,6 +5,13 @@
   duration_min: 100
   rated_range: ~ 1999
   status: Upcoming
+- name_ja: estie プログラミングコンテスト2026 （AtCoder Heuristic Contest 068）
+  name_en: estie Programming Contest 2026 (AtCoder Heuristic Contest 068)
+  url: https://atcoder.jp/contests/ahc068
+  start_time: '2026-07-18T15:00:00+09:00'
+  duration_min: 240
+  rated_range: All
+  status: Upcoming
 - name_ja: AtCoder Beginner Contest 466
   name_en: AtCoder Beginner Contest 466
   url: https://atcoder.jp/contests/abc466
