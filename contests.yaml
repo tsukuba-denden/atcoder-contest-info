@@ -19,6 +19,27 @@
   duration_min: 100
   rated_range: ~ 1999
   status: Upcoming
+- name_ja: World Tour Finals 2026 Algorithm
+  name_en: World Tour Finals 2026 Algorithm
+  url: https://atcoder.jp/contests/awtf2026algo
+  start_time: '2026-07-09T11:00:00+09:00'
+  duration_min: 420
+  rated_range: null
+  status: Upcoming
+- name_ja: World Tour Finals 2026 Algorithm（Open Contest）
+  name_en: World Tour Finals 2026 Algorithm（Open Contest）
+  url: https://atcoder.jp/contests/awtf2026algo-open
+  start_time: '2026-07-09T11:00:00+09:00'
+  duration_min: 420
+  rated_range: null
+  status: Upcoming
+- name_ja: World Tour Finals 2026 Heuristic
+  name_en: World Tour Finals 2026 Heuristic
+  url: https://atcoder.jp/contests/awtf2026heuristic
+  start_time: '2026-07-07T09:00:00+09:00'
+  duration_min: 2040
+  rated_range: null
+  status: Upcoming
 - name_ja: AtCoder Beginner Contest 465
   name_en: AtCoder Beginner Contest 465
   url: https://atcoder.jp/contests/abc465
@@ -53,7 +74,7 @@
   start_time: '2026-06-20T21:00:00+09:00'
   duration_min: 100
   rated_range: ~ 1999
-  status: Upcoming
+  status: Recent
 - name_ja: 第七回日本最強プログラマー学生選手権-予選-（AtCoder Regular Contest 222）
   name_en: AtCoder Regular Contest 222
   url: https://atcoder.jp/contests/arc222
@@ -393,13 +414,6 @@
   start_time: '2026-02-14T21:00:00+09:00'
   duration_min: 100
   rated_range: ~ 1999
-  status: Recent
-- name_ja: UTPC 2025
-  name_en: ''
-  url: https://atcoder.jp/contests/utpc2025
-  start_time: '2026-02-14T13:00:00+09:00'
-  duration_min: 300
-  rated_range: null
   status: Recent
 - name_ja: THIRD プログラミングコンテスト 2026 （AtCoder Heuristic Contest 061）
   name_en: THIRD Programming Contest 2026（AtCoder Heuristic Contest 061）
