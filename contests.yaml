@@ -82,7 +82,7 @@
   start_time: '2026-06-27T21:00:00+09:00'
   duration_min: 100
   rated_range: ~ 1999
-  status: Upcoming
+  status: Recent
 - name_ja: AtCoder Heuristic Contest 067
   name_en: AtCoder Heuristic Contest 067
   url: https://atcoder.jp/contests/ahc067
@@ -423,13 +423,6 @@
   start_time: '2026-02-21T21:00:00+09:00'
   duration_min: 100
   rated_range: ~ 1999
-  status: Recent
-- name_ja: 慶應義塾大学プログラミングコンテスト 2025
-  name_en: ''
-  url: https://atcoder.jp/contests/KeioPC2025
-  start_time: '2026-02-15T13:00:00+09:00'
-  duration_min: 300
-  rated_range: null
   status: Recent
 - name_ja: THIRD プログラミングコンテスト 2026 （AtCoder Heuristic Contest 061）
   name_en: THIRD Programming Contest 2026（AtCoder Heuristic Contest 061）
