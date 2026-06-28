@@ -74,7 +74,7 @@
   start_time: '2026-06-28T21:00:00+09:00'
   duration_min: 120
   rated_range: 1200 ~ 2799
-  status: Upcoming
+  status: Recent
 - name_ja: 第七回日本最強プログラマー学生選手権～Advance～ -予選- （AtCoder Beginner Contest 464）
   name_en: Japanese Student Championship 2026 -Advance- Qualification (AtCoder Beginner
     Contest 464)
@@ -415,14 +415,6 @@
   start_time: '2026-02-22T21:00:00+09:00'
   duration_min: 120
   rated_range: 1200 ~ 2799
-  status: Recent
-- name_ja: AtCoder × Engineer Guild オンサイトコンテスト ～ACからはじまる27卒キャリア～予選　（AtCoder Beginner
-    Contest 446）
-  name_en: AtCoder Beginner Contest 446
-  url: https://atcoder.jp/contests/abc446
-  start_time: '2026-02-21T21:00:00+09:00'
-  duration_min: 100
-  rated_range: ~ 1999
   status: Recent
 - name_ja: THIRD プログラミングコンテスト 2026 （AtCoder Heuristic Contest 061）
   name_en: THIRD Programming Contest 2026（AtCoder Heuristic Contest 061）
