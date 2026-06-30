@@ -1,5 +1,14 @@
 [
     {
+        "name_ja": "RECRUIT 日本橋ハーフマラソン 2026夏（AtCoder Heuristic Contest 069）",
+        "name_en": "RECRUIT Nihonbashi Half Marathon 2026 Summer (AtCoder Heuristic Contest 069)",
+        "url": "https://atcoder.jp/contests/ahc069",
+        "start_time": "2026-07-31T19:00:00+09:00",
+        "duration_min": 14400,
+        "rated_range": "All",
+        "status": "Upcoming"
+    },
+    {
         "name_ja": "AtCoder Beginner Contest 468",
         "name_en": "AtCoder Beginner Contest 468",
         "url": "https://atcoder.jp/contests/abc468",
