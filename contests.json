@@ -1,5 +1,23 @@
 [
     {
+        "name_ja": "ユニークビジョンプログラミングコンテスト2026 夏（AtCoder Regular Contest 226）",
+        "name_en": "UNIQUE VISION Programming Contest 2026 Summer (AtCoder Beginner Contest 226)",
+        "url": "https://atcoder.jp/contests/arc226",
+        "start_time": "2026-08-09T21:00:00+09:00",
+        "duration_min": 120,
+        "rated_range": "1200 ~ 2799",
+        "status": "Upcoming"
+    },
+    {
+        "name_ja": "AtCoder Beginner Contest 469",
+        "name_en": "AtCoder Beginner Contest 469",
+        "url": "https://atcoder.jp/contests/abc469",
+        "start_time": "2026-08-01T21:00:00+09:00",
+        "duration_min": 100,
+        "rated_range": "~ 1999",
+        "status": "Upcoming"
+    },
+    {
         "name_ja": "RECRUIT 日本橋ハーフマラソン 2026夏（AtCoder Heuristic Contest 069）",
         "name_en": "RECRUIT Nihonbashi Half Marathon 2026 Summer (AtCoder Heuristic Contest 069)",
         "url": "https://atcoder.jp/contests/ahc069",
