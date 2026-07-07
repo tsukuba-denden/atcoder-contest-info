@@ -1,7 +1,7 @@
 [
     {
         "name_ja": "ユニークビジョンプログラミングコンテスト2026 夏（AtCoder Regular Contest 226）",
-        "name_en": "UNIQUE VISION Programming Contest 2026 Summer (AtCoder Beginner Contest 226)",
+        "name_en": "UNIQUE VISION Programming Contest 2026 Summer (AtCoder Regular Contest 226)",
         "url": "https://atcoder.jp/contests/arc226",
         "start_time": "2026-08-09T21:00:00+09:00",
         "duration_min": 120,
@@ -95,15 +95,6 @@
         "url": "https://atcoder.jp/contests/awtf2026algo-open",
         "start_time": "2026-07-09T11:00:00+09:00",
         "duration_min": 420,
-        "rated_range": null,
-        "status": "Upcoming"
-    },
-    {
-        "name_ja": "World Tour Finals 2026 Heuristic",
-        "name_en": "World Tour Finals 2026 Heuristic",
-        "url": "https://atcoder.jp/contests/awtf2026heuristic",
-        "start_time": "2026-07-07T09:00:00+09:00",
-        "duration_min": 2040,
         "rated_range": null,
         "status": "Upcoming"
     },
