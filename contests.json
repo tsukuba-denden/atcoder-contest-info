@@ -99,6 +99,15 @@
         "status": "Upcoming"
     },
     {
+        "name_ja": "World Tour Finals 2026 Heuristic",
+        "name_en": "World Tour Finals 2026 Heuristic",
+        "url": "https://atcoder.jp/contests/awtf2026heuristic",
+        "start_time": "2026-07-07T09:00:00+09:00",
+        "duration_min": 2040,
+        "rated_range": null,
+        "status": "Recent"
+    },
+    {
         "name_ja": "AtCoder Beginner Contest 465",
         "name_en": "AtCoder Beginner Contest 465",
         "url": "https://atcoder.jp/contests/abc465",
@@ -537,15 +546,6 @@
         "start_time": "2026-02-28T21:00:00+09:00",
         "duration_min": 100,
         "rated_range": "~ 1999",
-        "status": "Recent"
-    },
-    {
-        "name_ja": "THIRD プログラミングコンテスト 2026 （AtCoder Heuristic Contest 061）",
-        "name_en": "THIRD Programming Contest 2026（AtCoder Heuristic Contest 061）",
-        "url": "https://atcoder.jp/contests/ahc061",
-        "start_time": "2026-02-13T19:00:00+09:00",
-        "duration_min": 14400,
-        "rated_range": "All",
         "status": "Recent"
     }
 ]
