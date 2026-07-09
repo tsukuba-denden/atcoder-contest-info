@@ -81,22 +81,22 @@
         "status": "Upcoming"
     },
     {
-        "name_ja": "World Tour Finals 2026 Algorithm",
-        "name_en": "World Tour Finals 2026 Algorithm",
-        "url": "https://atcoder.jp/contests/awtf2026algo",
-        "start_time": "2026-07-09T11:00:00+09:00",
-        "duration_min": 420,
-        "rated_range": null,
-        "status": "Upcoming"
-    },
-    {
         "name_ja": "World Tour Finals 2026 Algorithm（Open Contest）",
         "name_en": "World Tour Finals 2026 Algorithm（Open Contest）",
         "url": "https://atcoder.jp/contests/awtf2026algo-open",
         "start_time": "2026-07-09T11:00:00+09:00",
         "duration_min": 420,
         "rated_range": null,
-        "status": "Upcoming"
+        "status": "Recent"
+    },
+    {
+        "name_ja": "World Tour Finals 2026 Algorithm",
+        "name_en": "World Tour Finals 2026 Algorithm",
+        "url": "https://atcoder.jp/contests/awtf2026algo",
+        "start_time": "2026-07-09T11:00:00+09:00",
+        "duration_min": 420,
+        "rated_range": null,
+        "status": "Recent"
     },
     {
         "name_ja": "World Tour Finals 2026 Heuristic",
@@ -526,24 +526,6 @@
         "name_en": "AtCoder Beginner Contest 448",
         "url": "https://atcoder.jp/contests/abc448",
         "start_time": "2026-03-07T21:00:00+09:00",
-        "duration_min": 100,
-        "rated_range": "~ 1999",
-        "status": "Recent"
-    },
-    {
-        "name_ja": "第三回マスターズ選手権-予選-",
-        "name_en": "The 3rd Masters Championship-qual-",
-        "url": "https://atcoder.jp/contests/masters2026-qual",
-        "start_time": "2026-03-01T13:00:00+09:00",
-        "duration_min": 360,
-        "rated_range": null,
-        "status": "Recent"
-    },
-    {
-        "name_ja": "AtCoder Beginner Contest 447",
-        "name_en": "AtCoder Beginner Contest 447",
-        "url": "https://atcoder.jp/contests/abc447",
-        "start_time": "2026-02-28T21:00:00+09:00",
         "duration_min": 100,
         "rated_range": "~ 1999",
         "status": "Recent"
