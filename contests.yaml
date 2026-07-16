@@ -13,6 +13,13 @@
   duration_min: 100
   rated_range: ~ 1999
   status: Upcoming
+- name_ja: CodeQUEEN 2026 決勝
+  name_en: ''
+  url: https://atcoder.jp/contests/codequeen2026-final-Public
+  start_time: '2026-08-01T13:00:00+09:00'
+  duration_min: 120
+  rated_range: null
+  status: Upcoming
 - name_ja: RECRUIT 日本橋ハーフマラソン 2026夏（AtCoder Heuristic Contest 069）
   name_en: RECRUIT Nihonbashi Half Marathon 2026 Summer (AtCoder Heuristic Contest
     069)
