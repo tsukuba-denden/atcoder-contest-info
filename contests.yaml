@@ -12,6 +12,13 @@
   duration_min: 100
   rated_range: ~ 1999
   status: Upcoming
+- name_ja: 第13回 Asprova プログラミングコンテスト（AtCoder Heuristic Contest 070）
+  name_en: 13th Asprova Programming Contest（AtCoder Heuristic Contest 070）
+  url: https://atcoder.jp/contests/ahc070
+  start_time: '2026-08-29T15:00:00+09:00'
+  duration_min: 240
+  rated_range: All
+  status: Upcoming
 - name_ja: AtCoder Talent Quest 〜 今から28卒には脱出してもらいます〜予選（AtCoder Beginner Contest 472）
   name_en: AtCoder Beginner Contest 472
   url: https://atcoder.jp/contests/abc472
