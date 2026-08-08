@@ -78,7 +78,7 @@
         "start_time": "2026-08-08T21:00:00+09:00",
         "duration_min": 100,
         "rated_range": "~ 1999",
-        "status": "Upcoming"
+        "status": "Recent"
     },
     {
         "name_ja": "AtCoder Beginner Contest 469",
@@ -518,15 +518,6 @@
         "url": "https://atcoder.jp/contests/pakencamp-2025-day2",
         "start_time": "2026-03-27T14:30:00+09:00",
         "duration_min": 270,
-        "rated_range": null,
-        "status": "Recent"
-    },
-    {
-        "name_ja": "パ研合宿2025　第1日「SpeedRun」",
-        "name_en": "",
-        "url": "https://atcoder.jp/contests/pakencamp-2025-day1",
-        "start_time": "2026-03-26T14:00:00+09:00",
-        "duration_min": 150,
         "rated_range": null,
         "status": "Recent"
     }
