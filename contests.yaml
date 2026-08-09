@@ -54,7 +54,7 @@
   start_time: '2026-08-09T21:00:00+09:00'
   duration_min: 120
   rated_range: 1200 ~ 2799
-  status: Upcoming
+  status: Recent
 - name_ja: JPRSプログラミングコンテスト2026#2 （AtCoder Beginner Contest 470）
   name_en: JPRS Programming Contest 2026#2 (AtCoder Beginner Contest 470)
   url: https://atcoder.jp/contests/abc470
@@ -400,12 +400,5 @@
   url: https://atcoder.jp/contests/pakencamp-2025-day3
   start_time: '2026-03-28T14:00:00+09:00'
   duration_min: 300
-  rated_range: null
-  status: Recent
-- name_ja: パ研合宿2025　第2日「パ研杯」
-  name_en: ''
-  url: https://atcoder.jp/contests/pakencamp-2025-day2
-  start_time: '2026-03-27T14:30:00+09:00'
-  duration_min: 270
   rated_range: null
   status: Recent
