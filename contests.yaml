@@ -76,6 +76,14 @@
   duration_min: 120
   rated_range: null
   status: Recent
+- name_ja: RECRUIT 日本橋ハーフマラソン 2026夏（AtCoder Heuristic Contest 069）
+  name_en: RECRUIT Nihonbashi Half Marathon 2026 Summer (AtCoder Heuristic Contest
+    069)
+  url: https://atcoder.jp/contests/ahc069
+  start_time: '2026-07-31T19:00:00+09:00'
+  duration_min: 14400
+  rated_range: All
+  status: Recent
 - name_ja: AtCoder Beginner Contest 468
   name_en: AtCoder Beginner Contest 468
   url: https://atcoder.jp/contests/abc468
@@ -394,11 +402,4 @@
   start_time: '2026-03-28T21:00:00+09:00'
   duration_min: 100
   rated_range: ~ 1999
-  status: Recent
-- name_ja: パ研合宿2025　第3日「Teamwork」
-  name_en: ''
-  url: https://atcoder.jp/contests/pakencamp-2025-day3
-  start_time: '2026-03-28T14:00:00+09:00'
-  duration_min: 300
-  rated_range: null
   status: Recent
