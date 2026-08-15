@@ -60,7 +60,7 @@
         "start_time": "2026-08-15T21:00:00+09:00",
         "duration_min": 100,
         "rated_range": "~ 1999",
-        "status": "Upcoming"
+        "status": "Recent"
     },
     {
         "name_ja": "ユニークビジョンプログラミングコンテスト2026 夏（AtCoder Regular Contest 226）",
@@ -501,15 +501,6 @@
         "start_time": "2026-03-29T21:00:00+09:00",
         "duration_min": 180,
         "rated_range": "2000 ~",
-        "status": "Recent"
-    },
-    {
-        "name_ja": "AtCoder Beginner Contest 451",
-        "name_en": "AtCoder Beginner Contest 451",
-        "url": "https://atcoder.jp/contests/abc451",
-        "start_time": "2026-03-28T21:00:00+09:00",
-        "duration_min": 100,
-        "rated_range": "~ 1999",
         "status": "Recent"
     }
 ]
