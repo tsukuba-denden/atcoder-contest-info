@@ -51,7 +51,7 @@
         "start_time": "2026-08-16T21:00:00+09:00",
         "duration_min": 120,
         "rated_range": "1200 ~ 2799",
-        "status": "Upcoming"
+        "status": "Recent"
     },
     {
         "name_ja": "AtCoder Beginner Contest 471",
@@ -492,15 +492,6 @@
         "start_time": "2026-04-03T19:00:00+09:00",
         "duration_min": 14400,
         "rated_range": "All",
-        "status": "Recent"
-    },
-    {
-        "name_ja": "AtCoder Grand Contest 077",
-        "name_en": "AtCoder Grand Contest 077",
-        "url": "https://atcoder.jp/contests/agc077",
-        "start_time": "2026-03-29T21:00:00+09:00",
-        "duration_min": 180,
-        "rated_range": "2000 ~",
         "status": "Recent"
     }
 ]
