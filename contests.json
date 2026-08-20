@@ -1,5 +1,14 @@
 [
     {
+        "name_ja": "AtCoder Beginner Contest 475",
+        "name_en": "AtCoder Beginner Contest 475",
+        "url": "https://atcoder.jp/contests/abc475",
+        "start_time": "2026-09-12T21:00:00+09:00",
+        "duration_min": 100,
+        "rated_range": "~ 1999",
+        "status": "Upcoming"
+    },
+    {
         "name_ja": "AtCoder Beginner Contest 474",
         "name_en": "AtCoder Beginner Contest 474",
         "url": "https://atcoder.jp/contests/abc474",
