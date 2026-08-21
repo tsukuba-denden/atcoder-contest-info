@@ -1,3 +1,10 @@
+- name_ja: AtCoder Heuristic Contest 071
+  name_en: AtCoder Heuristic Contest 071
+  url: https://atcoder.jp/contests/ahc071
+  start_time: '2026-09-13T19:00:00+09:00'
+  duration_min: 240
+  rated_range: All
+  status: Upcoming
 - name_ja: AtCoder Beginner Contest 475
   name_en: AtCoder Beginner Contest 475
   url: https://atcoder.jp/contests/abc475
@@ -11,6 +18,20 @@
   start_time: '2026-09-06T13:10:00+09:00'
   duration_min: 100
   rated_range: ~ 1999
+  status: Upcoming
+- name_ja: AtCoder Regular Contest-- 229
+  name_en: AtCoder Regular Contest-- 229
+  url: https://atcoder.jp/contests/arc229
+  start_time: '2026-09-05T21:00:00+09:00'
+  duration_min: 120
+  rated_range: 800 ~ 2399
+  status: Upcoming
+- name_ja: AtCoder Regular Contest++ 228
+  name_en: AtCoder Regular Contest++ 228
+  url: https://atcoder.jp/contests/arc228
+  start_time: '2026-08-30T21:00:00+09:00'
+  duration_min: 150
+  rated_range: 1600 ~ 2999
   status: Upcoming
 - name_ja: AtCoder Beginner Contest 473
   name_en: AtCoder Beginner Contest 473
