@@ -67,7 +67,7 @@
   start_time: '2026-08-23T14:10:00+09:00'
   duration_min: 180
   rated_range: null
-  status: Upcoming
+  status: Recent
 - name_ja: AtCoder Talent Quest 〜 今から28卒には脱出してもらいます〜予選（AtCoder Beginner Contest 472）
   name_en: AtCoder Beginner Contest 472
   url: https://atcoder.jp/contests/abc472
@@ -409,13 +409,6 @@
   start_time: '2026-04-11T21:00:00+09:00'
   duration_min: 100
   rated_range: ~ 1999
-  status: Recent
-- name_ja: AtCoder Regular Contest 217
-  name_en: AtCoder Regular Contest 217
-  url: https://atcoder.jp/contests/arc217
-  start_time: '2026-04-05T21:00:00+09:00'
-  duration_min: 120
-  rated_range: 1200 ~ 2799
   status: Recent
 - name_ja: AtCoder Heuristic Contest 063
   name_en: AtCoder Heuristic Contest 063
