@@ -5,6 +5,14 @@
   duration_min: 300
   rated_range: null
   status: Upcoming
+- name_ja: ALGO ARTIS プログラミングコンテスト2026 長月（AtCoder Heuristic Contest 072）
+  name_en: ALGO ARTIS Programming Contest 2026 September（AtCoder Heuristic Contest
+    072）
+  url: https://atcoder.jp/contests/ahc072
+  start_time: '2026-09-25T19:00:00+09:00'
+  duration_min: 14400
+  rated_range: All
+  status: Upcoming
 - name_ja: AtCoder Regular Contest++ 230
   name_en: AtCoder Regular Contest++ 230
   url: https://atcoder.jp/contests/arc230
