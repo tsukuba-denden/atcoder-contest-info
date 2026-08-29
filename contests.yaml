@@ -89,14 +89,14 @@
   start_time: '2026-08-29T21:00:00+09:00'
   duration_min: 100
   rated_range: ~ 1999
-  status: Upcoming
+  status: Recent
 - name_ja: 第13回 Asprova プログラミングコンテスト（AtCoder Heuristic Contest 070）
   name_en: 13th Asprova Programming Contest（AtCoder Heuristic Contest 070）
   url: https://atcoder.jp/contests/ahc070
   start_time: '2026-08-29T15:00:00+09:00'
   duration_min: 240
   rated_range: All
-  status: Upcoming
+  status: Recent
 - name_ja: 第七回日本最強プログラマー学生選手権 -決勝-
   name_en: ''
   url: https://atcoder.jp/contests/jsc2026-final
@@ -438,18 +438,4 @@
   start_time: '2026-04-18T11:40:00+09:00'
   duration_min: 360
   rated_range: null
-  status: Recent
-- name_ja: AtCoder Beginner Contest 453
-  name_en: AtCoder Beginner Contest 453
-  url: https://atcoder.jp/contests/abc453
-  start_time: '2026-04-11T21:00:00+09:00'
-  duration_min: 100
-  rated_range: ~ 1999
-  status: Recent
-- name_ja: AtCoder Heuristic Contest 063
-  name_en: AtCoder Heuristic Contest 063
-  url: https://atcoder.jp/contests/ahc063
-  start_time: '2026-04-03T19:00:00+09:00'
-  duration_min: 14400
-  rated_range: All
   status: Recent
