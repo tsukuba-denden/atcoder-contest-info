@@ -105,7 +105,7 @@
         "start_time": "2026-08-30T21:00:00+09:00",
         "duration_min": 150,
         "rated_range": "1600 ~ 2999",
-        "status": "Upcoming"
+        "status": "Recent"
     },
     {
         "name_ja": "AtCoder Beginner Contest 473",
@@ -543,15 +543,6 @@
         "name_ja": "第三回マスターズ選手権-決勝-(オープンコンテスト)",
         "name_en": "",
         "url": "https://atcoder.jp/contests/masters2026-final-open",
-        "start_time": "2026-04-18T11:40:00+09:00",
-        "duration_min": 360,
-        "rated_range": null,
-        "status": "Recent"
-    },
-    {
-        "name_ja": "第三回マスターズ選手権 -決勝-",
-        "name_en": "",
-        "url": "https://atcoder.jp/contests/masters2026-final",
         "start_time": "2026-04-18T11:40:00+09:00",
         "duration_min": 360,
         "rated_range": null,
