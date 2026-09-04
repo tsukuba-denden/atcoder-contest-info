@@ -12,6 +12,13 @@
   duration_min: 300
   rated_range: null
   status: Upcoming
+- name_ja: AtCoder Grand Contest 078
+  name_en: AtCoder Grand Contest 078
+  url: https://atcoder.jp/contests/agc078
+  start_time: '2026-09-27T21:00:00+09:00'
+  duration_min: 210
+  rated_range: 2400 ~
+  status: Upcoming
 - name_ja: UNICORNプログラミングコンテスト2026(AtCoder Beginner Contest 477)
   name_en: UNICORNProgramming Contest2026(AtCoder Beginner Contest 477)
   url: https://atcoder.jp/contests/abc477
@@ -33,6 +40,13 @@
   start_time: '2026-09-20T21:00:00+09:00'
   duration_min: 150
   rated_range: 1600 ~ 2999
+  status: Upcoming
+- name_ja: JIJプログラミングコンテスト 2026（AtCoder Beginner Contest 476）
+  name_en: JIJ Programming Contest 2026（AtCoder Beginner Contest 476）
+  url: https://atcoder.jp/contests/abc476
+  start_time: '2026-09-19T21:00:00+09:00'
+  duration_min: 100
+  rated_range: ~ 1999
   status: Upcoming
 - name_ja: AtCoder 企業対抗リーグ 2026 第2戦
   name_en: ''
@@ -65,6 +79,13 @@
 - name_ja: AtCoder Beginner Contest 474
   name_en: AtCoder Beginner Contest 474
   url: https://atcoder.jp/contests/abc474
+  start_time: '2026-09-06T13:10:00+09:00'
+  duration_min: 100
+  rated_range: ~ 1999
+  status: Upcoming
+- name_ja: 第七回日本最強プログラマー学生選手権～Advance～
+  name_en: 第七回日本最強プログラマー学生選手権～Advance～
+  url: https://atcoder.jp/contests/jsc2026advance-final
   start_time: '2026-09-06T13:10:00+09:00'
   duration_min: 100
   rated_range: ~ 1999
