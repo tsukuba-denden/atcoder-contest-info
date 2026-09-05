@@ -9,6 +9,24 @@
         "status": "Upcoming"
     },
     {
+        "name_ja": "bogosort Programming Contest (Div. 1)",
+        "name_en": "",
+        "url": "https://atcoder.jp/contests/bogosortcontest_div1",
+        "start_time": "2026-10-11T13:00:00+09:00",
+        "duration_min": 300,
+        "rated_range": null,
+        "status": "Upcoming"
+    },
+    {
+        "name_ja": "bogosort Programming Contest (Div. 2)",
+        "name_en": "",
+        "url": "https://atcoder.jp/contests/bogosortcontest_div2",
+        "start_time": "2026-10-11T13:00:00+09:00",
+        "duration_min": 300,
+        "rated_range": null,
+        "status": "Upcoming"
+    },
+    {
         "name_ja": "組合せゲーム 24 題",
         "name_en": "",
         "url": "https://atcoder.jp/contests/game-24",
@@ -123,7 +141,7 @@
         "start_time": "2026-09-05T21:00:00+09:00",
         "duration_min": 120,
         "rated_range": "800 ~ 2399",
-        "status": "Upcoming"
+        "status": "Recent"
     },
     {
         "name_ja": "AtCoder Regular Contest++ 228",
@@ -564,15 +582,6 @@
         "start_time": "2026-04-18T21:00:00+09:00",
         "duration_min": 100,
         "rated_range": "~ 1999",
-        "status": "Recent"
-    },
-    {
-        "name_ja": "第三回マスターズ選手権-決勝-(オープンコンテスト)",
-        "name_en": "",
-        "url": "https://atcoder.jp/contests/masters2026-final-open",
-        "start_time": "2026-04-18T11:40:00+09:00",
-        "duration_min": 360,
-        "rated_range": null,
         "status": "Recent"
     }
 ]
