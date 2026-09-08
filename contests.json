@@ -27,12 +27,30 @@
         "status": "Upcoming"
     },
     {
+        "name_ja": "第三回 AtCoder Japan Open -予選-  (AtCoder Regular Contest++ 232)",
+        "name_en": "AtCoder Regular Contest++ 232",
+        "url": "https://atcoder.jp/contests/arc232",
+        "start_time": "2026-10-10T21:00:00+09:00",
+        "duration_min": 150,
+        "rated_range": "1600 ~ 2999",
+        "status": "Upcoming"
+    },
+    {
         "name_ja": "組合せゲーム 24 題",
         "name_en": "",
         "url": "https://atcoder.jp/contests/game-24",
         "start_time": "2026-10-04T13:00:00+09:00",
         "duration_min": 300,
         "rated_range": null,
+        "status": "Upcoming"
+    },
+    {
+        "name_ja": "AtCoder Beginner Contest 478",
+        "name_en": "AtCoder Beginner Contest 478",
+        "url": "https://atcoder.jp/contests/abc478",
+        "start_time": "2026-10-03T21:00:00+09:00",
+        "duration_min": 100,
+        "rated_range": "~ 1999",
         "status": "Upcoming"
     },
     {
