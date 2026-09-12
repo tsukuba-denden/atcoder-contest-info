@@ -103,7 +103,7 @@
   start_time: '2026-09-12T21:00:00+09:00'
   duration_min: 100
   rated_range: ~ 1999
-  status: Upcoming
+  status: Recent
 - name_ja: 第七回日本最強プログラマー学生選手権～Advance～
   name_en: 第七回日本最強プログラマー学生選手権～Advance～
   url: https://atcoder.jp/contests/jsc2026advance-final
@@ -451,12 +451,4 @@
   start_time: '2026-05-02T21:00:00+09:00'
   duration_min: 100
   rated_range: ~ 1999
-  status: Recent
-- name_ja: JR西日本・ALGO ARTIS プログラミングコンテスト（AtCoder Heuristic Contest 064）
-  name_en: JR WEST and ALGO ARTIS Programming Contest  (AtCoder Heuristic Contest
-    064)
-  url: https://atcoder.jp/contests/ahc064
-  start_time: '2026-04-26T15:00:00+09:00'
-  duration_min: 240
-  rated_range: All
   status: Recent
