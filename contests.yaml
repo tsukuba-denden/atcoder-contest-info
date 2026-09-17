@@ -5,6 +5,13 @@
   duration_min: 300
   rated_range: null
   status: Upcoming
+- name_ja: オムロンプログラミングコンテスト2026 （AtCoder Beginner Contest 479）
+  name_en: AtCoder Beginner Contest 479
+  url: https://atcoder.jp/contests/abc479
+  start_time: '2026-10-11T21:00:00+09:00'
+  duration_min: 100
+  rated_range: ~ 1999
+  status: Upcoming
 - name_ja: bogosort Programming Contest (Div. 1)
   name_en: ''
   url: https://atcoder.jp/contests/bogosortcontest_div1
