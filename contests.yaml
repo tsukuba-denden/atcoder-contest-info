@@ -90,20 +90,20 @@
   duration_min: 100
   rated_range: ~ 1999
   status: Upcoming
-- name_ja: AtCoder 企業対抗リーグ 2026 第2戦
-  name_en: ''
-  url: https://atcoder.jp/contests/c-league2026-2
-  start_time: '2026-09-18T20:00:00+09:00'
-  duration_min: 120
-  rated_range: null
-  status: Upcoming
 - name_ja: AtCoder 企業対抗リーグ 2026 第2戦(オープンコンテスト)
   name_en: ''
   url: https://atcoder.jp/contests/c-league2026-2-open
   start_time: '2026-09-18T20:00:00+09:00'
   duration_min: 120
   rated_range: null
-  status: Upcoming
+  status: Recent
+- name_ja: AtCoder 企業対抗リーグ 2026 第2戦
+  name_en: ''
+  url: https://atcoder.jp/contests/c-league2026-2
+  start_time: '2026-09-18T20:00:00+09:00'
+  duration_min: 120
+  rated_range: null
+  status: Recent
 - name_ja: AtCoder Heuristic Contest 071
   name_en: AtCoder Heuristic Contest 071
   url: https://atcoder.jp/contests/ahc071
@@ -444,18 +444,4 @@
   start_time: '2026-05-10T21:00:00+09:00'
   duration_min: 120
   rated_range: 800 ~ 2399
-  status: Recent
-- name_ja: Polaris.AI プログラミングコンテスト 2026（AtCoder Beginner Contest 457）
-  name_en: Polaris.AI Programming Contest 2026（AtCoder Beginner Contest 457）
-  url: https://atcoder.jp/contests/abc457
-  start_time: '2026-05-09T21:00:00+09:00'
-  duration_min: 100
-  rated_range: ~ 1999
-  status: Recent
-- name_ja: Next DP Contest
-  name_en: Next DP Contest
-  url: https://atcoder.jp/contests/ndpc
-  start_time: '2026-05-05T13:00:00+09:00'
-  duration_min: 300
-  rated_range: null
   status: Recent
