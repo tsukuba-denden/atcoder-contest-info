@@ -114,7 +114,7 @@
         "start_time": "2026-09-19T21:00:00+09:00",
         "duration_min": 100,
         "rated_range": "~ 1999",
-        "status": "Upcoming"
+        "status": "Recent"
     },
     {
         "name_ja": "AtCoder 企業対抗リーグ 2026 第2戦(オープンコンテスト)",
@@ -555,15 +555,6 @@
         "start_time": "2026-05-16T13:00:00+09:00",
         "duration_min": 240,
         "rated_range": null,
-        "status": "Recent"
-    },
-    {
-        "name_ja": "AtCoder Regular Contest-- 219",
-        "name_en": "AtCoder Regular Contest-- 219",
-        "url": "https://atcoder.jp/contests/arc219",
-        "start_time": "2026-05-10T21:00:00+09:00",
-        "duration_min": 120,
-        "rated_range": "800 ~ 2399",
         "status": "Recent"
     }
 ]
