@@ -60,7 +60,7 @@
   start_time: '2026-09-27T21:00:00+09:00'
   duration_min: 210
   rated_range: 2800 ~
-  status: Upcoming
+  status: Recent
 - name_ja: UNICORNプログラミングコンテスト2026(AtCoder Beginner Contest 477)
   name_en: UNICORNProgramming Contest2026(AtCoder Beginner Contest 477)
   url: https://atcoder.jp/contests/abc477
@@ -408,11 +408,4 @@
   start_time: '2026-05-16T15:00:00+09:00'
   duration_min: 240
   rated_range: All
-  status: Recent
-- name_ja: SCPC 2026 Div.1
-  name_en: SCPC 2026 Div.1
-  url: https://atcoder.jp/contests/scpc2026-div1
-  start_time: '2026-05-16T13:00:00+09:00'
-  duration_min: 270
-  rated_range: null
   status: Recent
