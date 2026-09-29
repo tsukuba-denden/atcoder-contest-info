@@ -1,3 +1,18 @@
+- name_ja: 'AtCoder Talent Quest 〜 今から28卒には脱出してもらいます〜予選 #2（AtCoder Beginner Contest
+    480）'
+  name_en: AtCoder Beginner Contest 480
+  url: https://atcoder.jp/contests/abc480
+  start_time: '2026-10-17T21:00:00+09:00'
+  duration_min: 100
+  rated_range: ~ 1999
+  status: Upcoming
+- name_ja: AtCoder Heuristic Contest 073
+  name_en: AtCoder Heuristic Contest 073
+  url: https://atcoder.jp/contests/ahc073
+  start_time: '2026-10-17T15:00:00+09:00'
+  duration_min: 240
+  rated_range: All
+  status: Upcoming
 - name_ja: 'AAL Contest 001: Let''s use segtree!'
   name_en: 'AAL Contest 001: Let''s use segtree!'
   url: https://atcoder.jp/contests/aalc001
