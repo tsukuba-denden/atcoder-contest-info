@@ -1,5 +1,14 @@
 [
     {
+        "name_ja": "HACK TO THE FUTURE 2027 （AtCoder Heuristic Contest 074）",
+        "name_en": "HACK TO THE FUTURE 2027 (AtCoder Heuristic Contest 074)",
+        "url": "https://atcoder.jp/contests/ahc074",
+        "start_time": "2026-10-30T19:00:00+09:00",
+        "duration_min": 14400,
+        "rated_range": "All",
+        "status": "Upcoming"
+    },
+    {
         "name_ja": "AtCoder Talent Quest 〜 今から28卒には脱出してもらいます〜予選 #2（AtCoder Beginner Contest 480）",
         "name_en": "AtCoder Beginner Contest 480",
         "url": "https://atcoder.jp/contests/abc480",
