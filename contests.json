@@ -117,6 +117,15 @@
         "status": "Recent"
     },
     {
+        "name_ja": "ALGO ARTIS プログラミングコンテスト2026 長月（AtCoder Heuristic Contest 072）",
+        "name_en": "ALGO ARTIS Programming Contest 2026 September（AtCoder Heuristic Contest 072）",
+        "url": "https://atcoder.jp/contests/ahc072",
+        "start_time": "2026-09-25T19:10:00+09:00",
+        "duration_min": 14390,
+        "rated_range": "All",
+        "status": "Recent"
+    },
+    {
         "name_ja": "AtCoder Regular Contest++ 230",
         "name_en": "AtCoder Regular Contest++ 230",
         "url": "https://atcoder.jp/contests/arc230",
@@ -507,15 +516,6 @@
         "name_ja": "AtCoder 企業対抗リーグ 2026 第1戦(オープンコンテスト)",
         "name_en": "",
         "url": "https://atcoder.jp/contests/c-league2026-1-open",
-        "start_time": "2026-05-22T20:00:00+09:00",
-        "duration_min": 120,
-        "rated_range": null,
-        "status": "Recent"
-    },
-    {
-        "name_ja": "AtCoder 企業対抗リーグ 2026 第1戦",
-        "name_en": "",
-        "url": "https://atcoder.jp/contests/c-league2026-1",
         "start_time": "2026-05-22T20:00:00+09:00",
         "duration_min": 120,
         "rated_range": null,
