@@ -1,3 +1,10 @@
+- name_ja: AtCoder Grand Contest 079
+  name_en: AtCoder Grand Contest 079
+  url: https://atcoder.jp/contests/agc079
+  start_time: '2026-11-01T21:00:00+09:00'
+  duration_min: 180
+  rated_range: 2000 ~
+  status: Upcoming
 - name_ja: HACK TO THE FUTURE 2027 （AtCoder Heuristic Contest 074）
   name_en: HACK TO THE FUTURE 2027 (AtCoder Heuristic Contest 074)
   url: https://atcoder.jp/contests/ahc074
