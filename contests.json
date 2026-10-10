@@ -3,7 +3,7 @@
         "name_ja": "AtCoder Grand Contest 079",
         "name_en": "AtCoder Grand Contest 079",
         "url": "https://atcoder.jp/contests/agc079",
-        "start_time": "2026-11-01T21:00:00+09:00",
+        "start_time": "2026-11-08T21:00:00+09:00",
         "duration_min": 180,
         "rated_range": "2000 ~",
         "status": "Upcoming"
@@ -78,7 +78,7 @@
         "start_time": "2026-10-10T21:00:00+09:00",
         "duration_min": 150,
         "rated_range": "1600 ~ 2999",
-        "status": "Upcoming"
+        "status": "Recent"
     },
     {
         "name_ja": "AtCoder Regular Contest 231",
@@ -519,15 +519,6 @@
         "start_time": "2026-05-23T21:00:00+09:00",
         "duration_min": 100,
         "rated_range": "~ 1999",
-        "status": "Recent"
-    },
-    {
-        "name_ja": "AtCoder 企業対抗リーグ 2026 第1戦(オープンコンテスト)",
-        "name_en": "",
-        "url": "https://atcoder.jp/contests/c-league2026-1-open",
-        "start_time": "2026-05-22T20:00:00+09:00",
-        "duration_min": 120,
-        "rated_range": null,
         "status": "Recent"
     }
 ]
