@@ -12,6 +12,13 @@
   duration_min: 14400
   rated_range: All
   status: Upcoming
+- name_ja: AtCoder Regular Contest++ 233
+  name_en: AtCoder Regular Contest++ 233
+  url: https://atcoder.jp/contests/arc233
+  start_time: '2026-10-25T21:00:00+09:00'
+  duration_min: 150
+  rated_range: 1600 ~ 2999
+  status: Upcoming
 - name_ja: 'AtCoder Talent Quest 〜 今から28卒には脱出してもらいます〜予選 #2（AtCoder Beginner Contest
     480）'
   name_en: AtCoder Beginner Contest 480
@@ -40,21 +47,21 @@
   start_time: '2026-10-11T21:00:00+09:00'
   duration_min: 100
   rated_range: ~ 1999
-  status: Upcoming
-- name_ja: bogosort Programming Contest (Div. 1)
-  name_en: ''
-  url: https://atcoder.jp/contests/bogosortcontest_div1
-  start_time: '2026-10-11T13:00:00+09:00'
-  duration_min: 300
-  rated_range: null
-  status: Upcoming
+  status: Recent
 - name_ja: bogosort Programming Contest (Div. 2)
   name_en: ''
   url: https://atcoder.jp/contests/bogosortcontest_div2
   start_time: '2026-10-11T13:00:00+09:00'
   duration_min: 300
   rated_range: null
-  status: Upcoming
+  status: Recent
+- name_ja: bogosort Programming Contest (Div. 1)
+  name_en: ''
+  url: https://atcoder.jp/contests/bogosortcontest_div1
+  start_time: '2026-10-11T13:00:00+09:00'
+  duration_min: 300
+  rated_range: null
+  status: Recent
 - name_ja: 第三回 AtCoder Japan Open -予選-  (AtCoder Regular Contest++ 232)
   name_en: AtCoder Regular Contest++ 232
   url: https://atcoder.jp/contests/arc232
@@ -382,32 +389,10 @@
   duration_min: 100
   rated_range: ~ 1999
   status: Recent
-- name_ja: AtCoder Regular Contest++ 221
-  name_en: AtCoder Regular Contest++ 221
-  url: https://atcoder.jp/contests/arc221
-  start_time: '2026-05-31T21:00:00+09:00'
-  duration_min: 150
-  rated_range: 1600 ~ 2999
-  status: Recent
-- name_ja: AtCoder Beginner Contest 460
-  name_en: AtCoder Beginner Contest 460
-  url: https://atcoder.jp/contests/abc460
-  start_time: '2026-05-30T21:00:00+09:00'
-  duration_min: 100
-  rated_range: ~ 1999
-  status: Recent
 - name_ja: AtCoder Heuristic Contest 066
   name_en: AtCoder Heuristic Contest 066
   url: https://atcoder.jp/contests/ahc066
   start_time: '2026-05-29T20:00:00+09:00'
   duration_min: 14340
   rated_range: All
-  status: Recent
-- name_ja: 東京海上日動プログラミングコンテスト2026（AtCoder Beginner Contest 459）
-  name_en: Tokio Marine & Nichido Fire Insurance Programming Contest 2026  (AtCoder
-    Beginner Contest 459)
-  url: https://atcoder.jp/contests/abc459
-  start_time: '2026-05-23T21:00:00+09:00'
-  duration_min: 100
-  rated_range: ~ 1999
   status: Recent
