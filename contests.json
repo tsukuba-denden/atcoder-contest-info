@@ -9,6 +9,24 @@
         "status": "Upcoming"
     },
     {
+        "name_ja": "AtCoder Beginner Contest 483",
+        "name_en": "AtCoder Beginner Contest 483",
+        "url": "https://atcoder.jp/contests/abc483",
+        "start_time": "2026-11-07T21:00:00+09:00",
+        "duration_min": 100,
+        "rated_range": "~ 1999",
+        "status": "Upcoming"
+    },
+    {
+        "name_ja": "AtCoder Beginner Contest 482",
+        "name_en": "AtCoder Beginner Contest 482",
+        "url": "https://atcoder.jp/contests/abc482",
+        "start_time": "2026-10-31T21:00:00+09:00",
+        "duration_min": 100,
+        "rated_range": "~ 1999",
+        "status": "Upcoming"
+    },
+    {
         "name_ja": "HACK TO THE FUTURE 2027 （AtCoder Heuristic Contest 074）",
         "name_en": "HACK TO THE FUTURE 2027 (AtCoder Heuristic Contest 074)",
         "url": "https://atcoder.jp/contests/ahc074",
