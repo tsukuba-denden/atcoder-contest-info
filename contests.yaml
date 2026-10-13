@@ -40,7 +40,7 @@
   start_time: '2026-10-12T13:00:00+09:00'
   duration_min: 300
   rated_range: null
-  status: Upcoming
+  status: Recent
 - name_ja: オムロンプログラミングコンテスト2026 （AtCoder Beginner Contest 479）
   name_en: AtCoder Beginner Contest 479
   url: https://atcoder.jp/contests/abc479
@@ -379,13 +379,6 @@
   name_en: CodeQUEEN 2026 -qual- (AtCoder Beginner Contest 462)
   url: https://atcoder.jp/contests/abc462
   start_time: '2026-06-13T21:00:00+09:00'
-  duration_min: 100
-  rated_range: ~ 1999
-  status: Recent
-- name_ja: AtCoder Beginner Contest 461
-  name_en: AtCoder Beginner Contest 461
-  url: https://atcoder.jp/contests/abc461
-  start_time: '2026-06-06T21:00:00+09:00'
   duration_min: 100
   rated_range: ~ 1999
   status: Recent
