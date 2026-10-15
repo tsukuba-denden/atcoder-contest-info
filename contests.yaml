@@ -33,6 +33,13 @@
   duration_min: 150
   rated_range: 1600 ~ 2999
   status: Upcoming
+- name_ja: 'SMBCプログラミングコンテスト #2（AtCoder Beginner Contest 481）'
+  name_en: 'SMBC Programming Contest #2 (AtCoder Beginner Contest 481）'
+  url: https://atcoder.jp/contests/abc481
+  start_time: '2026-10-24T21:00:00+09:00'
+  duration_min: 100
+  rated_range: ~ 1999
+  status: Upcoming
 - name_ja: 'AtCoder Talent Quest 〜 今から28卒には脱出してもらいます〜予選 #2（AtCoder Beginner Contest
     480）'
   name_en: AtCoder Beginner Contest 480
