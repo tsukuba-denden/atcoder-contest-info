@@ -47,14 +47,14 @@
   start_time: '2026-10-17T21:00:00+09:00'
   duration_min: 100
   rated_range: ~ 1999
-  status: Upcoming
+  status: Recent
 - name_ja: AtCoder Heuristic Contest 073
   name_en: AtCoder Heuristic Contest 073
   url: https://atcoder.jp/contests/ahc073
   start_time: '2026-10-17T15:00:00+09:00'
   duration_min: 240
   rated_range: All
-  status: Upcoming
+  status: Recent
 - name_ja: 'AAL Contest 001: Let''s use segtree!'
   name_en: 'AAL Contest 001: Let''s use segtree!'
   url: https://atcoder.jp/contests/aalc001
@@ -395,18 +395,4 @@
   start_time: '2026-06-14T21:00:00+09:00'
   duration_min: 120
   rated_range: 1200 ~ 2799
-  status: Recent
-- name_ja: CodeQUEEN 2026 予選 (AtCoder Beginner Contest 462)
-  name_en: CodeQUEEN 2026 -qual- (AtCoder Beginner Contest 462)
-  url: https://atcoder.jp/contests/abc462
-  start_time: '2026-06-13T21:00:00+09:00'
-  duration_min: 100
-  rated_range: ~ 1999
-  status: Recent
-- name_ja: AtCoder Heuristic Contest 066
-  name_en: AtCoder Heuristic Contest 066
-  url: https://atcoder.jp/contests/ahc066
-  start_time: '2026-05-29T20:00:00+09:00'
-  duration_min: 14340
-  rated_range: All
   status: Recent
