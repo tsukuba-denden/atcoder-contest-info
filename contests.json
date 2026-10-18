@@ -72,6 +72,15 @@
         "status": "Recent"
     },
     {
+        "name_ja": "AHC GenAI Rules Trial Contest 2026",
+        "name_en": "AHC GenAI Rules Trial Contest 2026",
+        "url": "https://atcoder.jp/contests/ahc_genai_test_2026",
+        "start_time": "2026-10-15T19:00:00+09:00",
+        "duration_min": 4320,
+        "rated_range": null,
+        "status": "Recent"
+    },
+    {
         "name_ja": "AAL Contest 001: Let's use segtree!",
         "name_en": "AAL Contest 001: Let's use segtree!",
         "url": "https://atcoder.jp/contests/aalc001",
@@ -492,15 +501,6 @@
         "start_time": "2026-06-20T21:00:00+09:00",
         "duration_min": 100,
         "rated_range": "~ 1999",
-        "status": "Recent"
-    },
-    {
-        "name_ja": "第七回日本最強プログラマー学生選手権-予選-（AtCoder Regular Contest 222）",
-        "name_en": "Japanese Student Championship 2026 Qualification (AtCoder Regular Contest 222)",
-        "url": "https://atcoder.jp/contests/arc222",
-        "start_time": "2026-06-14T21:00:00+09:00",
-        "duration_min": 120,
-        "rated_range": "1200 ~ 2799",
         "status": "Recent"
     }
 ]
