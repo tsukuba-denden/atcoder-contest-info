@@ -1,3 +1,10 @@
+- name_ja: AtCoder Beginner Contest 484
+  name_en: AtCoder Beginner Contest 484
+  url: https://atcoder.jp/contests/abc484
+  start_time: '2026-11-14T21:00:00+09:00'
+  duration_min: 100
+  rated_range: ~ 1999
+  status: Upcoming
 - name_ja: AtCoder Grand Contest 079
   name_en: AtCoder Grand Contest 079
   url: https://atcoder.jp/contests/agc079
