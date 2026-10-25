@@ -1,5 +1,14 @@
 [
     {
+        "name_ja": "AtCoder Regular Contest++ 234",
+        "name_en": "AtCoder Regular Contest++ 234",
+        "url": "https://atcoder.jp/contests/arc234",
+        "start_time": "2026-11-22T21:00:00+09:00",
+        "duration_min": 150,
+        "rated_range": "1600 ~ 2999",
+        "status": "Upcoming"
+    },
+    {
         "name_ja": "AtCoder Beginner Contest 484",
         "name_en": "AtCoder Beginner Contest 484",
         "url": "https://atcoder.jp/contests/abc484",
@@ -51,7 +60,7 @@
         "start_time": "2026-10-25T21:00:00+09:00",
         "duration_min": 150,
         "rated_range": "1600 ~ 2999",
-        "status": "Upcoming"
+        "status": "Recent"
     },
     {
         "name_ja": "SMBCプログラミングコンテスト #2（AtCoder Beginner Contest 481）",
@@ -492,15 +501,6 @@
         "start_time": "2026-06-27T21:00:00+09:00",
         "duration_min": 100,
         "rated_range": "~ 1999",
-        "status": "Recent"
-    },
-    {
-        "name_ja": "AtCoder Heuristic Contest 067",
-        "name_en": "AtCoder Heuristic Contest 067",
-        "url": "https://atcoder.jp/contests/ahc067",
-        "start_time": "2026-06-21T19:00:00+09:00",
-        "duration_min": 240,
-        "rated_range": "All",
         "status": "Recent"
     }
 ]
