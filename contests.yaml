@@ -5,6 +5,13 @@
   duration_min: 150
   rated_range: 1600 ~ 2999
   status: Upcoming
+- name_ja: AtCoder Beginner Contest 485
+  name_en: AtCoder Beginner Contest 485
+  url: https://atcoder.jp/contests/abc485
+  start_time: '2026-11-21T21:00:00+09:00'
+  duration_min: 100
+  rated_range: ~ 1999
+  status: Upcoming
 - name_ja: AtCoder Beginner Contest 484
   name_en: AtCoder Beginner Contest 484
   url: https://atcoder.jp/contests/abc484
@@ -46,6 +53,13 @@
   start_time: '2026-10-25T21:00:00+09:00'
   duration_min: 150
   rated_range: 1600 ~ 2999
+  status: Recent
+- name_ja: JOI 2026/2027 一次予選 (第2回) 過去問
+  name_en: ''
+  url: https://atcoder.jp/contests/joi2027yo1b
+  start_time: '2026-10-25T14:00:00+09:00'
+  duration_min: 80
+  rated_range: null
   status: Recent
 - name_ja: 'SMBCプログラミングコンテスト #2（AtCoder Beginner Contest 481）'
   name_en: 'SMBC Programming Contest #2 (AtCoder Beginner Contest 481）'
@@ -386,12 +400,4 @@
   start_time: '2026-06-28T21:00:00+09:00'
   duration_min: 120
   rated_range: 1200 ~ 2799
-  status: Recent
-- name_ja: 第七回日本最強プログラマー学生選手権～Advance～ -予選- （AtCoder Beginner Contest 464）
-  name_en: Japanese Student Championship 2026 -Advance- Qualification (AtCoder Beginner
-    Contest 464)
-  url: https://atcoder.jp/contests/abc464
-  start_time: '2026-06-27T21:00:00+09:00'
-  duration_min: 100
-  rated_range: ~ 1999
   status: Recent
