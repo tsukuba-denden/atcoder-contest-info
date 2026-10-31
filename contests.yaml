@@ -53,7 +53,7 @@
   start_time: '2026-10-31T21:00:00+09:00'
   duration_min: 100
   rated_range: ~ 1999
-  status: Upcoming
+  status: Recent
 - name_ja: AtCoder Regular Contest++ 233
   name_en: AtCoder Regular Contest++ 233
   url: https://atcoder.jp/contests/arc233
@@ -400,11 +400,4 @@
   start_time: '2026-07-04T21:00:00+09:00'
   duration_min: 100
   rated_range: ~ 1999
-  status: Recent
-- name_ja: AtCoder Regular Contest 223
-  name_en: AtCoder Regular Contest 223
-  url: https://atcoder.jp/contests/arc223
-  start_time: '2026-06-28T21:00:00+09:00'
-  duration_min: 120
-  rated_range: 1200 ~ 2799
   status: Recent
