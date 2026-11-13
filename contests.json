@@ -1,11 +1,29 @@
 [
     {
+        "name_ja": "AtCoder Grand Contest 083",
+        "name_en": "AtCoder Grand Contest 083",
+        "url": "https://atcoder.jp/contests/agc083",
+        "start_time": "2027-01-24T21:00:00+09:00",
+        "duration_min": 180,
+        "rated_range": "2400 ~",
+        "status": "Upcoming"
+    },
+    {
+        "name_ja": "AtCoder Grand Contest 082",
+        "name_en": "AtCoder Grand Contest 082",
+        "url": "https://atcoder.jp/contests/agc082",
+        "start_time": "2027-01-17T21:00:00+09:00",
+        "duration_min": 180,
+        "rated_range": "2400 ~",
+        "status": "Upcoming"
+    },
+    {
         "name_ja": "AtCoder Grand Contest 081",
         "name_en": "AtCoder Grand Contest 081",
         "url": "https://atcoder.jp/contests/agc081",
         "start_time": "2026-12-27T21:00:00+09:00",
         "duration_min": 180,
-        "rated_range": "2000 ~",
+        "rated_range": "2400 ~",
         "status": "Upcoming"
     },
     {
@@ -14,7 +32,7 @@
         "url": "https://atcoder.jp/contests/agc080",
         "start_time": "2026-12-13T21:00:00+09:00",
         "duration_min": 180,
-        "rated_range": "2000 ~",
+        "rated_range": "2400 ~",
         "status": "Upcoming"
     },
     {
@@ -24,6 +42,15 @@
         "start_time": "2026-12-05T21:00:00+09:00",
         "duration_min": 100,
         "rated_range": "~ 1999",
+        "status": "Upcoming"
+    },
+    {
+        "name_ja": "AtCoder Heuristic Contest 075",
+        "name_en": "AtCoder Heuristic Contest 075",
+        "url": "https://atcoder.jp/contests/ahc075",
+        "start_time": "2026-11-29T19:00:00+09:00",
+        "duration_min": 240,
+        "rated_range": "All",
         "status": "Upcoming"
     },
     {
