@@ -105,7 +105,7 @@
         "start_time": "2026-11-14T21:00:00+09:00",
         "duration_min": 100,
         "rated_range": "~ 1999",
-        "status": "Upcoming"
+        "status": "Recent"
     },
     {
         "name_ja": "AtCoder Grand Contest 079",
@@ -546,15 +546,6 @@
         "start_time": "2026-07-11T21:00:00+09:00",
         "duration_min": 100,
         "rated_range": "~ 1999",
-        "status": "Recent"
-    },
-    {
-        "name_ja": "World Tour Finals 2026 Algorithm（Open Contest）",
-        "name_en": "World Tour Finals 2026 Algorithm（Open Contest）",
-        "url": "https://atcoder.jp/contests/awtf2026algo-open",
-        "start_time": "2026-07-09T11:00:00+09:00",
-        "duration_min": 420,
-        "rated_range": null,
         "status": "Recent"
     }
 ]
