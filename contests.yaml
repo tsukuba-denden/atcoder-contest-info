@@ -19,6 +19,14 @@
   duration_min: 180
   rated_range: 2400 ~
   status: Upcoming
+- name_ja: ユニークビジョンプログラミングコンテスト2026 クリスマス（AtCoder Beginner Contest 489）
+  name_en: UNIQUE VISION Programming Contest 2026 (ChristmasAtCoder Beginner Contest
+    489)
+  url: https://atcoder.jp/contests/abc489
+  start_time: '2026-12-20T21:00:00+09:00'
+  duration_min: 100
+  rated_range: ~ 1999
+  status: Upcoming
 - name_ja: AtCoder Grand Contest 080
   name_en: AtCoder Grand Contest 080
   url: https://atcoder.jp/contests/agc080
