@@ -76,20 +76,20 @@
   duration_min: 100
   rated_range: ~ 1999
   status: Upcoming
-- name_ja: AtCoder 企業対抗リーグ 2026 第3戦
-  name_en: ''
-  url: https://atcoder.jp/contests/c-league2026-3
-  start_time: '2026-11-20T20:00:00+09:00'
-  duration_min: 120
-  rated_range: null
-  status: Upcoming
 - name_ja: AtCoder 企業対抗リーグ 2026 第3戦(オープンコンテスト)
   name_en: ''
   url: https://atcoder.jp/contests/c-league2026-3-open
   start_time: '2026-11-20T20:00:00+09:00'
   duration_min: 120
   rated_range: null
-  status: Upcoming
+  status: Recent
+- name_ja: AtCoder 企業対抗リーグ 2026 第3戦
+  name_en: ''
+  url: https://atcoder.jp/contests/c-league2026-3
+  start_time: '2026-11-20T20:00:00+09:00'
+  duration_min: 120
+  rated_range: null
+  status: Recent
 - name_ja: AtCoder Beginner Contest 484
   name_en: AtCoder Beginner Contest 484
   url: https://atcoder.jp/contests/abc484
@@ -429,18 +429,4 @@
   start_time: '2026-07-18T15:00:00+09:00'
   duration_min: 240
   rated_range: All
-  status: Recent
-- name_ja: AtCoder Regular Contest-- 224
-  name_en: AtCoder Regular Contest-- 224
-  url: https://atcoder.jp/contests/arc224
-  start_time: '2026-07-12T21:00:00+09:00'
-  duration_min: 120
-  rated_range: 800 ~ 2399
-  status: Recent
-- name_ja: AtCoder Beginner Contest 466
-  name_en: AtCoder Beginner Contest 466
-  url: https://atcoder.jp/contests/abc466
-  start_time: '2026-07-11T21:00:00+09:00'
-  duration_min: 100
-  rated_range: ~ 1999
   status: Recent
