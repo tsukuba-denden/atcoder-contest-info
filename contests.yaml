@@ -62,6 +62,13 @@
   duration_min: 100
   rated_range: ~ 1999
   status: Upcoming
+- name_ja: YCPC 2026
+  name_en: YCPC 2026
+  url: https://atcoder.jp/contests/ycpc2026
+  start_time: '2026-11-27T17:30:00+09:00'
+  duration_min: 180
+  rated_range: null
+  status: Recent
 - name_ja: AtCoder Regular Contest++ 234
   name_en: AtCoder Regular Contest++ 234
   url: https://atcoder.jp/contests/arc234
@@ -408,11 +415,4 @@
   start_time: '2026-07-25T21:00:00+09:00'
   duration_min: 100
   rated_range: ~ 1999
-  status: Recent
-- name_ja: AtCoder Regular Contest 225
-  name_en: AtCoder Regular Contest 225
-  url: https://atcoder.jp/contests/arc225
-  start_time: '2026-07-19T21:00:00+09:00'
-  duration_min: 120
-  rated_range: 1200 ~ 2799
   status: Recent
